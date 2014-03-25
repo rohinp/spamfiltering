@@ -1,0 +1,301 @@
+ Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp239534lbb;
+        Mon, 24 Mar 2014 13:58:48 -0700 (PDT)
+X-Received:by 10.224.62.13 with SMTP id v13mr79216419qah.10.1395694727812;
+        Mon, 24 Mar 2014 13:58:47 -0700 (PDT)
+Return-Path:<bounce-8885142-1325103053@cwresources.computerworld.com>
+Received:from cwresources.computerworld.com (cwresources.computerworld.com. [66.186.114.172])
+        by mx.google.com with SMTP id i5si6589403qcd.59.2014.03.24.13.58.46
+        for <rockexample123@gmail.com>;
+        Mon, 24 Mar 2014 13:58:47 -0700 (PDT)
+Received-SPF:pass (google.com: domain of bounce-8885142-1325103053@cwresources.computerworld.com designates 66.186.114.172 as permitted sender) client-ip=66.186.114.172;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of bounce-8885142-1325103053@cwresources.computerworld.com designates 66.186.114.172 as permitted sender) smtp.mail=bounce-8885142-1325103053@cwresources.computerworld.com;
+       dkim=pass header.i=@cwresources.computerworld.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=15922;
+ d=cwresources.computerworld.com;s=2008;
+ h=from;
+ bh=ne9j1Eml3BlzuzXGdB559ANioogKnSNSQQJHRY7Cvuo=;
+ b=g073x9RYXhRMiR8iMS4vVoBOxflrF/yfgv77DxVUOgmlBpk61Pw/n/ggp/KfJzeLzb2mNpTM
+ AnRmXL7pdCo7spllrJqDtLmWTcbFdt9Eue+dqnELyEZnhfiJzknC1wyNg/H1wWAUOPDFD+DR
+ Oyoq0Jk1Th+shLw4KwbFE65Xtnk=;
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws; s=2008; d=cwresources.computerworld.com;
+ h=from;
+ b=QcBUB3+FzMgeik/0iOqH5Bvw8dNZX9wWzDXK1cgxGgrGO7gEjxg439U26PoComFX4rRxr8Z5 JaWczenwPTRHyyT2pCpWgPMJULZmXij8KuZvvivySgHBqWtkCNGBvCpnQnROhpKhtwgDmcBJ
+ npbd7NChj+LtyQ2jGkWIQRKsG1I=
+From:"Computerworld Applications Alert" <computerworld_resources@cwresources.computerworld.com>
+To:rockexample123@gmail.com
+Subject:Big Data Analytics: Unlocking the Promise of Demand Sensing & Shaping
+Date:Mon, 24 Mar 2014 16:57:16 -0400
+MIME-Version:1.0
+Content-Type:multipart/alternative; boundary="MIMEBoundaryefd5adfb94b66624ffeb44c640e1d9e3"
+List-Unsubscribe:<mailto:leave-8885142-1325103053.4c941708b5965773b5f2d2e58a7eee80@cwresources.computerworld.com>
+Message-ID:<LYRIS-1325103053-8885142-2014.03.24-16.57.22--rockexample123#gmail.com@cwresources.computerworld.com>
+Bodycontent:Tue Mar 25 02:27:16 IST 2014
+Content:javax.mail.internet.MimeMultipart@6a124c63
+
+Computerworld Applications Alert
+
+Unlocking the Promise of Demand Sensing and Shaping through Big Data Analytics
+
+Many organizations have limited insight into big data. These limitations have significant opportunity costs and can have a negative effect on identifying and understanding customer demand patterns and related supply constraints. This paper goes beyond basic demand-sensing and demand-shaping concepts and explains how the use of advanced analytical techniques (such as high-performance analytics) and big data can enhance supply chain networks through rigorous demand and supply management.
+
+Learn More
+
+http://cwresources.computerworld.com/t/8885142/1325103053/663104/17/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=7b2278ce
+
+Discover What Intelligent Investigation Means to Fraud Prevention and Detection. Learn More >>
+http://cwresources.computerworld.com/t/8885142/1325103053/651638/18/
+
+
+You are subscribed to alerts_applications as rockexample123@gmail.com.
+
+
+To unsubscribe to this newsletter, please go to: http://cwresources.computerworld.com/t/8885142/1325103053/131135/19/?90482085=aHR0cDovL2N3cmVzb3VyY2VzLmNvbXB1dGVyd29ybGQuY29tL3U%2faWQ9MTMyNTEwMzA1My40Yzk0MTcwOGI1OTY1NzczYjVmMmQyZTU4YTdlZWU4MCZuPVQmbD1hbGVydHNfYXBwbGljYXRpb25zJm89ODg4NTE0Mg%3d%3d&x=430fbe1e
+
+FEEDBACK
+To submit feedback about Computerworld's e-mails, contact our online customer service group at online@computerworld.com. Please include your subscriber e-mail address in all correspondence.
+
+Read Computerworld's online privacy policy at http://cwresources.computerworld.com/t/8885142/1325103053/72509/20/
+
+Copyright 2014 | Computerworld Inc. | 492 Old Connecticut Path | Framingham MA 01701 | www.computerworld.com
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%; margin: 0 auto; border-collapse: collapse;">
+			<tbody>
+				<tr>
+					<td bgcolor="#f2f2f2">
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; margin: 0 auto; border-collapse: collapse;">
+							<tbody>
+								<tr>
+									<td>
+<!-- HEADER -->										<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" class="head-wrap" style="margin:0 auto; border-collapse: collapse;">
+											<tbody>
+												<tr>
+													<td class="header container" style="clear: both; display:block; margin: 0 auto; max-width: 560px; font-family: Helvetica, Helvetica Neue, Helvetica, Arial, sans-serif;">
+														<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%; padding: 10px; display:block; margin: 0 auto; max-width: 560px;">
+															<tbody>
+																<tr>
+																	<td style="color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration: none;">
+																		<h6 class="collapse" style="margin: 0; font-family: Helvetica, Helvetica Neue, Helvetica, Arial, sans-serif; color: #333333; font-size: 11px; font-weight: 500; text-align: left;">
+																			Many organizations have limited insight into big data. These limitations may have significant opportunity costs and a negative effect on identifying and understanding customer demand patterns and related supply constraints. <a href="http://cwresources.computerworld.com/t/8885142/1325103053/663104/8/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=918cdea8">Learn more&gt;&gt;</a></h6>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+<!-- /HEADER --><!-- BODY -->										<table cellpadding="0" cellspacing="0" class="body-wrap" style="margin:0 auto; border-collapse: collapse;">
+											<tbody>
+												<tr>
+													<td bgcolor="#ffffff" class="container" style="clear: both; display:block; margin: 0 auto; max-width: 560px; font-family: Arial, Helvetica, Helvetica Neue, Helvetica, sans-serif; border-top: 10px solid #f1b42e; background-color: #ffffff; padding: 25px; width: 100%;">
+<!-- logo & main title -->														<table cellpadding="0" cellspacing="0">
+															<tbody>
+																<tr>
+																	<td style="padding: 0;">
+																		<table cellpadding="0" cellspacing="0" class="mainTitle" style="margin: 0; width: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td>
+																						<table align="left" border="0" cellpadding="0" cellspacing="0" class="column title main" style="float: left; min-width: 100px;">
+																							<tbody>
+																								<tr>
+<!-- logo -->																									<td style="padding: 0 30px 8px 0; margin: 0;">
+																										<h1 style="margin-bottom: 0;">
+																											<a href="http://cwresources.computerworld.com/t/8885142/1325103053/5443/9/" style="font-size: 28px; font-weight: bold; color: #333333; text-decoration: none;" target="_blank"><img alt="COMPUTERWORLD" border="0" src="http://computerworld.com.edgesuite.net/images/cw_logo.gif" style="display: block" width="140" /></a></h1>
+																									</td>
+																								</tr>
+<!-- /logo -->																								<tr>
+																									<td style="margin: 0; padding: 0 0 35px 0;">
+																										<h5 style="font-size: 22px; font-weight: 500; white-space: nowrap; font-family: Georgia, Arial, Helvetica, sans-serif; margin: 0; color: #000000;">
+																											Applications Alert</h5>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+<!--  BEGIN PRIMARY  -->																				<tr>
+																					<td style="padding: 0 0 10px 0;">
+																						<table cellpadding="0" cellspacing="0" class="mainTitle" style="margin: 0; width: 100%;" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" class="column title">
+																											<tbody>
+																												<tr>
+																													<td style="float: left; min-width: 100px; max-width: 380px; padding: 0 20px 8px 0;">
+																														<h3 style="margin: 0;">
+																															<a href="http://cwresources.computerworld.com/t/8885142/1325103053/663104/10/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=8426d99b" style="color: #206ba4; font-size: 21px; line-height: 23px; font-weight: bold; text-decoration: none; font-family: Arial, Helvetica, sans-serif;" target="_blank">Unlocking the Promise of Demand Sensing and Shaping through Big Data Analytics</a></h3>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table align="left" cellpadding="0" cellspacing="0" class="column reg" style="min-width: 100px;">
+																											<tbody>
+																												<tr>
+																													<td style="margin: 0; border-top: 2px solid #338cc5; border-right: 14px solid #338cc5; border-bottom: 2px solid #338cc5; border-left: 14px solid #338cc5; border-radius: 6px 6px 6px 6px; background: #338cc5; padding: 8px; white-space: nowrap;" valign="middle">
+																														<h5 style="margin: 0;">
+																															<a class="regButton" href="http://cwresources.computerworld.com/t/8885142/1325103053/663104/11/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=42fff86b" style="color: #ffffff; font-size: 16px; text-decoration: none; font-weight: bold; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; white-space: nowrap;" target="_blank">Learn More</a></h5>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding: 0; font-size:15px; line-height:22px; color: #333333; font-style: normal; font-family: Arial, Helvetica, sans-serif;">
+																						<p style="margin: 0; font-weight: normal; font-size:15px; line-height:22px; color: #333333; font-style: normal; font-family: Arial, Helvetica, sans-serif;">
+																							Many organizations have limited insight into big data. These limitations have significant opportunity costs and can have a negative effect on identifying and understanding customer demand patterns and related supply constraints. This paper goes beyond basic demand-sensing and demand-shaping concepts and explains how the use of advanced analytical techniques (such as high-performance analytics) and big data can enhance supply chain networks through rigorous demand and supply management.</p>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding: 15px 0 30px;">
+																						<table cellpadding="0" cellspacing="0" class="social" style="width: 100%;" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" class="column reg" style="float: left; min-width: 100px; margin: 0 20px 5px 0;">
+																											<tbody>
+																												<tr>
+																													<td style="margin: 0; border-top: 2px solid #338cc5; border-right: 14px solid #338cc5; border-bottom: 2px solid #338cc5; border-left: 14px solid #338cc5; border-radius: 6px 6px 6px 6px; background: #338cc5; padding: 8px; white-space: nowrap;" valign="middle">
+																														<h5 style="margin: 0; text-wrap: none; white-space: nowrap;">
+																															<a class="regButton" href="http://cwresources.computerworld.com/t/8885142/1325103053/663104/12/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=5852844a" style="color: #ffffff; font-size: 16px; text-decoration: none; font-weight: bold; text-wrap: none; white-space: nowrap; font-family: Arial, Helvetica, sans-serif;" target="_blank">Learn More</a></h5>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table cellpadding="0" cellspacing="0" style="padding-top: 5px;">
+																											<tbody>
+																												<tr>
+																													<td style="padding-right: 5px;">
+																														<a href="http://cwresources.computerworld.com/t/8885142/1325103053/663105/13/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=35549223" target="_blank"><img alt="TW" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_twitter.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://cwresources.computerworld.com/t/8885142/1325103053/663106/14/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=14c000fa" target="_blank"><img alt="FB" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_facebook.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://cwresources.computerworld.com/t/8885142/1325103053/663107/15/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=ee620911" target="_blank"><img alt="LI" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_linkedin.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://cwresources.computerworld.com/t/8885142/1325103053/341148/16/?e5e2987d=ODg4NTE0Mg%3d%3d&0fc84754=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=cede7315" target="_blank"><img alt="EM" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/st-arrow_24x24.jpg" width="24" /></a></td>
+																													<td style="white-space: nowrap;">
+																														<a href="http://cwresources.computerworld.com/t/8885142/1325103053/341148/22/?e5e2987d=ODg4NTE0Mg%3d%3d&0fc84754=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=ea5a7545" style="font-size: 13px; font-family: Arial; color: #206ba4; font-weight: bold; white-space: nowrap; text-decoration: none;" target="_blank">Share this email</a></td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+<!--  END PRIMARY ARTICLE  -->																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<table cellpadding="0" cellspacing="0" class="column" style="float: left; width: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td style="padding: 20px 0 0 0;">
+																						<table align="left" border="0" cellspacing="0" class="column" style="float: left; width: 100%;">
+																							<tbody>
+																								<tr>
+																									<td style="border-left: 10px solid #cccccc; padding: 0 0 0 20px;">
+																										<h3 style="font-size: 16px; font-weight: 900; color: #333333; font-family: Arial, Helvetica, sans-serif; margin-bottom: 15px;">
+																											Additional Resources</h3>
+																										<p style="font-size: 14px; font-weight: normal; line-height: 22px; margin-bottom: 10px;">
+																											<a href="http://cwresources.computerworld.com/t/8885142/1325103053/651638/23/" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #206ba4; text-decoration: none;">Discover What Intelligent Investigation Means to Fraud Prevention and Detection. Learn More.</a></p>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			<br /><!-- FOOTER --></p>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%;">
+			<tbody>
+				<tr>
+					<td>
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" class="footer-wrap" style="background-color: #f2f2f2; max-width: 600px; margin: 0 auto;">
+							<tbody>
+								<tr>
+									<td class="container" style="clear: both; display:block; margin: 0 auto; max-width: 600px;">
+										<table cellpadding="0" cellspacing="0">
+											<tbody>
+												<tr>
+													<td style="padding: 25px 10px 15px;">
+														<h3 style="font-weight:900; font-size: 18px; color: #333333; line-height: 22px; font-family:Arial, Helvetica, sans-serif; margin: 0;">
+															Subscription Services</h3>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															You are subscribed to <em style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">alerts_applications</em> as <em style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">rockexample123@gmail.com</em>.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px 10px 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Please <a href="http://cwresources.computerworld.com/t/8885142/1325103053/131135/24/?90482085=aHR0cDovL2N3cmVzb3VyY2VzLmNvbXB1dGVyd29ybGQuY29tL3U%2faWQ9MTMyNTEwMzA1My40Yzk0MTcwOGI1OTY1NzczYjVmMmQyZTU4YTdlZWU4MCZuPVQmbD1hbGVydHNfYXBwbGljYXRpb25zJm89ODg4NTE0Mg%3d%3d&x=abc21e20" style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">click here</a> to unsubscribe from <em style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">alerts_applications</em></p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Please <a href="http://cwresources.computerworld.com/t/8885142/1325103053/355695/25/?f566cc7b=MTMyNTEwMzA1My40Yzk0MTcwOGI1OTY1NzczYjVmMmQyZTU4YTdlZWU4MA%3d%3d&e5e2987d=ODg4NTE0Mg%3d%3d&3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=1e3583cf" style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">click here</a> to unsubscribe from all Computerworld alerts.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 10px 10px 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															View Computerworld's online <a href="http://cwresources.computerworld.com/t/8885142/1325103053/216627/26/" style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">privacy policy</a>.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Copyright 2014 | Computerworld | 492 Old Connecticut Path | Framingham MA 01701 | <a href="http://cwresources.computerworld.com/t/8885142/1325103053/5443/27/" style="color: #004464; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">www.computerworld.com</a>.</p>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+<!-- /FOOTER -->	<IMG ALT="" SRC="http://cwresources.computerworld.com/db/8885142/1325103053/1.gif" WIDTH=1 HEIGHT=1></body>
+</html>
+

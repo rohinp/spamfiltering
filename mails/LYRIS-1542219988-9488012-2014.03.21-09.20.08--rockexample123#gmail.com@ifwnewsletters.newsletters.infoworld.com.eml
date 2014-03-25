@@ -1,0 +1,307 @@
+Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp18996lbb;
+        Fri, 21 Mar 2014 06:29:06 -0700 (PDT)
+X-Received:by 10.236.93.16 with SMTP id k16mr1817371yhf.140.1395408546093;
+        Fri, 21 Mar 2014 06:29:06 -0700 (PDT)
+Return-Path:<bounce-9488012-1542219988@ifwnewsletters.newsletters.infoworld.com>
+Received:from ifwnewsletters.newsletters.infoworld.com (ifwnewsletters.newsletters.infoworld.com. [199.92.213.101])
+        by mx.google.com with SMTP id x49si5770854yhm.211.2014.03.21.06.29.05
+        for <rockexample123@gmail.com>;
+        Fri, 21 Mar 2014 06:29:06 -0700 (PDT)
+Received-SPF:pass (google.com: domain of bounce-9488012-1542219988@ifwnewsletters.newsletters.infoworld.com designates 199.92.213.101 as permitted sender) client-ip=199.92.213.101;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of bounce-9488012-1542219988@ifwnewsletters.newsletters.infoworld.com designates 199.92.213.101 as permitted sender) smtp.mail=bounce-9488012-1542219988@ifwnewsletters.newsletters.infoworld.com;
+       dkim=policy (weak key) header.i=@ifwnewsletters.newsletters.infoworld.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=17893;
+ d=ifwnewsletters.newsletters.infoworld.com;s=2008;
+ h=from;
+ bh=hZ5vkYB5yCKDq4JRvZYpYFgMiJkThL8ut52EP1x3u+w=;
+ b=l8oCKDJ+piRhhAUu+1/DKK5gaKz6Aotsas0YCTO9LNy1BJ1bx7CGj4Eq9IRbHwkCiA2h6mZh
+ M6rkn0fppvARRw==;
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws; s=2008; d=ifwnewsletters.newsletters.infoworld.com;
+ h=from;
+ b=IzZTE6jOQckiPrhTRYLQFpi/hiq7TGaIPTzHM35rQFniR9bzBeBdWF6A3+iSlGplNYMI0b+L 1JITfbhhZO99eg==
+From:"InfoWorld Applications Alert" <online_resources@ifwnewsletters.newsletters.infoworld.com>
+To:rockexample123@gmail.com
+Subject:Top Mobile Application Monitoring and Reporting Best Practices
+Date:Fri, 21 Mar 2014 09:20:00 -0400
+MIME-Version:1.0
+Content-Type:multipart/alternative; boundary="MIMEBoundary3aa554f0b25311f4a2a38c75a6fc4207"
+List-Unsubscribe:<mailto:leave-9488012-1542219988.8434749284d47a0ab93482ed68dfeee1@ifwnewsletters.newsletters.infoworld.com>
+Message-ID:<LYRIS-1542219988-9488012-2014.03.21-09.20.08--rockexample123#gmail.com@ifwnewsletters.newsletters.infoworld.com>
+subject:Top Mobile Application Monitoring and Reporting Best Practices
+Bodycontent:Fri Mar 21 18:50:00 IST 2014
+content:javax.mail.internet.MimeMultipart@4706efb
+
+InfoWorld Applications Alert
+
+Top Mobile Application Monitoring and Reporting Best Practices
+
+As you begin to build and deploy mobile apps, you’ll quickly discover that your development teams need to frequently deliver new versions and updates 8-12 times/year or more. Mobile performance management provides an essential feedback loop to guide the course of your updates.
+By collecting historical, operational, and real-time data across technical, engagement, and business-aligned metrics, you can pinpoint the exact issues, gain insight into how many users were affected, prioritize new features, and repair defects. This comprehensive 16 page Forrester Research, Inc. report, authored by Jeffrey Hammond, Forrester VP and Principal Analyst, details a number of valuable, commonly collected metrics and describes the tools and frameworks that can help you collect them.
+You will learn how to:
+• Build 5-star apps using the three classes of metrics
+• Quickly capture and process real-time customer feedback
+• Evaluate the current mobile APM landscape
+• Increase customer retention and ROI with mobile apps
+
+Learn More
+
+http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782096/17/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=b6810816
+
+_________________________________________________________________________________________________________________
+
+The Five Fundamentals of Virtual Server Protection. Learn More
+http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/777148/18/
+
+You are subscribed to ifwalerts_applications as rockexample123@gmail.com.
+
+To unsubscribe, please go to: http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/131135/19/?90482085=aHR0cDovL2lmd25ld3NsZXR0ZXJzLm5ld3NsZXR0ZXJzLmluZm93b3JsZC5jb20vdT9pZD0xNTQyMjE5OTg4Ljg0MzQ3NDkyODRkNDdhMGFiOTM0ODJlZDY4ZGZlZWUxJm49VCZsPWlmd2FsZXJ0c19hcHBsaWNhdGlvbnMmbz05NDg4MDEy&x=40700fb6
+
+FEEDBACK
+To submit feedback about InfoWorld's e-mails, contact our online customer service group at online@infoworld.com. Please include your subscriber e-mail address in all correspondence.
+
+Read InfoWorld's online privacy policy http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/183270/20/
+
+Copyright 2014 | InfoWorld Inc. | 501 Second Street| San Francisco CA 94107
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%; margin: 0 auto; border-collapse: collapse;">
+			<tbody>
+				<tr>
+					<td bgcolor="#f2f2f2">
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; margin: 0 auto; border-collapse: collapse;">
+							<tbody>
+								<tr>
+									<td>
+<!-- HEADER -->										<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" class="head-wrap" style="margin:0 auto; border-collapse: collapse;">
+											<tbody>
+												<tr>
+													<td class="header container" style="clear: both; display:block; margin: 0 auto; max-width: 560px; font-family: Helvetica, Helvetica Neue, Helvetica, Arial, sans-serif;">
+														<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%; padding: 10px; display:block; margin: 0 auto; max-width: 560px;">
+															<tbody>
+																<tr>
+																	<td style="color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration: none;">
+																		<h6 class="collapse" style="margin: 0; font-family: Helvetica, Helvetica Neue, Helvetica, Arial, sans-serif; color: #333333; font-size: 11px; font-weight: 500; text-align: left;">
+																			Five-star mobile apps require effective performance management. <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782096/8/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=5db8cf31">Learn more&gt;&gt;</a></h6>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+<!-- /HEADER --><!-- BODY -->										<table cellpadding="0" cellspacing="0" class="body-wrap" style="margin:0 auto; border-collapse: collapse;">
+											<tbody>
+												<tr>
+													<td bgcolor="#ffffff" class="container" style="clear: both; display:block; margin: 0 auto; max-width: 560px; font-family: Arial, Helvetica, Helvetica Neue, Helvetica, sans-serif; border-top: 10px solid #8f0700; background-color: #ffffff; padding: 25px; width: 100%;">
+<!-- logo & main title -->														<table cellpadding="0" cellspacing="0">
+															<tbody>
+																<tr>
+																	<td style="padding: 0;">
+																		<table cellpadding="0" cellspacing="0" class="mainTitle" style="margin: 0; width: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td>
+																						<table align="left" border="0" cellpadding="0" cellspacing="0" class="column title main" style="float: left; min-width: 100px;">
+																							<tbody>
+																								<tr>
+<!-- logo -->																									<td style="padding: 0 30px 8px 0; margin: 0;">
+																										<h1 style="margin-bottom: 0;">
+																											<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/131133/9/" style="font-size: 28px; font-weight: bold; color: #333333; text-decoration: none;" target="_blank"><img alt="Infoworld" border="0" src="http://computerworld.com.edgesuite.net/ifw/ifw_cl_blast_logo.jpg" style="display: block" width="120" /></a></h1>
+																									</td>
+																								</tr>
+<!-- /logo -->																								<tr>
+																									<td style="margin: 0; padding: 0 0 35px 0;">
+																										<h5 style="font-size: 22px; font-weight: 500; white-space: nowrap; font-family: Georgia, Arial, Helvetica, sans-serif; margin: 0; color: #000000;">
+																											Applications Alert</h5>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+<!--  BEGIN PRIMARY  -->																				<tr>
+																					<td style="padding: 0 0 10px 0;">
+																						<table cellpadding="0" cellspacing="0" class="mainTitle" style="margin: 0; width: 100%;" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" class="column title">
+																											<tbody>
+																												<tr>
+																													<td style="float: left; min-width: 100px; max-width: 380px; padding: 0 20px 8px 0;">
+																														<h3 style="margin: 0;">
+																															<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782096/10/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=ebfc7db2" style="color: #0067b7; font-size: 21px; line-height: 23px; font-weight: bold; text-decoration: none; font-family: Arial, Helvetica, sans-serif;" target="_blank">Top Mobile Application Monitoring and Reporting Best Practices</a></h3>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table align="left" cellpadding="0" cellspacing="0" class="column reg" style="min-width: 100px;">
+																											<tbody>
+																												<tr>
+																													<td style="margin: 0; border-top: 2px solid #338cc5; border-right: 14px solid #338cc5; border-bottom: 2px solid #338cc5; border-left: 14px solid #338cc5; border-radius: 6px 6px 6px 6px; background: #338cc5; padding: 6px 8px; white-space: nowrap;" valign="middle">
+																														<h5 style="margin: 0;">
+																															<a class="regButton" href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782096/11/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=da13313c" style="color: #ffffff; font-size: 16px; text-decoration: none; font-weight: bold; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; white-space: nowrap;" target="_blank">Learn More</a></h5>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding: 0;">
+																						<p style="margin: 0; font-weight: normal; font-size:15px; line-height:22px; color: #333333; font-style: normal; font-family: Arial, Helvetica, sans-serif;">
+																							As you begin to build and deploy mobile apps, you'll quickly discover that your development teams need to frequently deliver new versions and updates 8-12 times/year or more. Mobile performance management provides an essential feedback loop to guide the course of your updates.<br />By collecting historical, operational, and real-time data across technical, engagement, and business-aligned metrics, you can pinpoint the exact issues, gain insight into how many users were affected, prioritize new features, and repair defects. This comprehensive 16 page Forrester Research, Inc. report, authored by Jeffrey Hammond, Forrester VP and Principal Analyst, details a number of valuable, commonly collected metrics and describes the tools and frameworks that can help you collect them.<br />You will learn how to:<br />- Build 5-star apps using the three classes of metrics<br />- Quickly capture and process real-time customer feedback<br />- Evaluate the current mobile APM landscape<br />- Increase customer retention and ROI with mobile apps</p>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding: 15px 0 30px;">
+																						<table cellpadding="0" cellspacing="0" class="social" style="width: 100%;" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" class="column reg" style="float: left; min-width: 100px; margin: 0 20px 5px 0;">
+																											<tbody>
+																												<tr>
+																													<td style="margin: 0; border-top: 2px solid #338cc5; border-right: 14px solid #338cc5; border-bottom: 2px solid #338cc5; border-left: 14px solid #338cc5; border-radius: 6px 6px 6px 6px; background: #338cc5; padding: 6px 8px; white-space: nowrap;" valign="middle">
+																														<h5 style="margin: 0; text-wrap: none; white-space: nowrap;">
+																															<a class="regButton" href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782096/12/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=f38f89a1" style="color: #ffffff; font-size: 16px; text-decoration: none; font-weight: bold; text-wrap: none; white-space: nowrap; font-family: Arial, Helvetica, sans-serif;" target="_blank">Learn More</a></h5>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table cellpadding="0" cellspacing="0" style="padding-top: 5px;">
+																											<tbody>
+																												<tr>
+																													<td style="padding-right: 5px;">
+																														<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782097/13/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=296cb172" target="_blank"><img alt="TW" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_twitter.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782098/14/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=3d6db708" target="_blank"><img alt="FB" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_facebook.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/782099/15/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=f7f4728b" target="_blank"><img alt="LI" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_linkedin.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/710249/16/?e5e2987d=OTQ4ODAxMg%3d%3d&0fc84754=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=156ef94d" target="_blank"><img alt="EM" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/st-arrow_24x24.jpg" width="24" /></a></td>
+																													<td style="white-space: nowrap;">
+																														<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/341175/22/?e5e2987d=OTQ4ODAxMg%3d%3d&0fc84754=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=d1ed9c6b" style="font-size: 13px; font-family: Arial; color: #0067b7; font-weight: bold; white-space: nowrap; text-decoration: none;" target="_blank">Share this email</a></td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+<!--  END PRIMARY ARTICLE  -->																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<table cellpadding="0" cellspacing="0" class="column" style="float: left; width: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td style="padding: 20px 0 0 0;">
+																						<table align="left" border="0" cellspacing="0" class="column" style="float: left; width: 100%;">
+																							<tbody>
+																								<tr>
+																									<td style="border-left: 10px solid #cccccc; padding: 0 0 0 20px;">
+																										<h3 style="font-size: 16px; font-weight: 900; color: #333333; font-family: Arial, Helvetica, sans-serif; margin-bottom: 15px;">
+																											Additional Resources</h3>
+																										<p style="font-size: 14px; font-weight: normal; line-height: 20px; margin-bottom: 10px;">
+																											<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/777148/23/" style="font-family: Helvetica, sans-serif; font-size: 14px; color: #0067b7; text-decoration: none;">The Five Fundamentals of Virtual Server Protection. Learn More.</a></p>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			<br /></p>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%;">
+			<tbody>
+				<tr>
+					<td>
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" class="footer-wrap" style="background-color: #f2f2f2; max-width: 600px; margin: 0 auto;">
+							<tbody>
+								<tr>
+									<td class="container" style="clear: both; display:block; margin: 0 auto; max-width: 600px;">
+										<table cellpadding="0" cellspacing="0">
+											<tbody>
+												<tr>
+													<td style="padding: 25px 10px 15px;">
+														<h3 style="font-weight:900; font-size: 18px; color: #333333; line-height: 22px; font-family:Arial, Helvetica, sans-serif; margin: 0;">
+															Subscription Services</h3>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															You are subscribed to <em style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">ifwalerts_applications</em> as <em style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">rockexample123@gmail.com</em>.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px 10px 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Please <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/131135/24/?90482085=aHR0cDovL2lmd25ld3NsZXR0ZXJzLm5ld3NsZXR0ZXJzLmluZm93b3JsZC5jb20vdT9pZD0xNTQyMjE5OTg4Ljg0MzQ3NDkyODRkNDdhMGFiOTM0ODJlZDY4ZGZlZWUxJm49VCZsPWlmd2FsZXJ0c19hcHBsaWNhdGlvbnMmbz05NDg4MDEy&x=56dc099a" style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">click here</a> to unsubscribe from <em style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">ifwalerts_applications</em></p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Please <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/356221/25/?f566cc7b=MTU0MjIxOTk4OC44NDM0NzQ5Mjg0ZDQ3YTBhYjkzNDgyZWQ2OGRmZWVlMQ%3d%3d&e5e2987d=OTQ4ODAxMg%3d%3d&3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=45066c68" style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">click here</a> to unsubscribe from all InfoWorld alerts.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 10px 10px 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															View Infoworld's online <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/183270/26/" style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">privacy policy</a>.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Copyright 2014 | Infoworld Inc. | 501 Second Street | San Francisco CA 94107 | <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9488012/1542219988/710250/27/" style="color: #0067b7; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">http://www.Infoworld.com/</a>.</p>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<br /><IMG ALT="" SRC="http://ifwnewsletters.newsletters.infoworld.com/db/9488012/1542219988/1.gif" WIDTH=1 HEIGHT=1></body>
+</html>
+
+

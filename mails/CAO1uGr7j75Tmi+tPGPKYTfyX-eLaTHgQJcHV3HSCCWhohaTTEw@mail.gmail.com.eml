@@ -1,0 +1,162 @@
+ Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp38575lbb;
+        Fri, 21 Mar 2014 09:32:00 -0700 (PDT)
+X-Received:by 10.140.50.231 with SMTP id s94mr603899qga.33.1395419489980;
+        Fri, 21 Mar 2014 09:31:29 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received:from mail-qc0-x243.google.com (mail-qc0-x243.google.com [2607:f8b0:400d:c01::243])
+        by mx.google.com with ESMTPS id z6si2353619qai.224.2014.03.21.09.31.29
+        for <rockexample123@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 21 Mar 2014 09:31:29 -0700 (PDT)
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c01::243 as permitted sender) client-ip=2607:f8b0:400d:c01::243;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c01::243 as permitted sender) smtp.mail=jain.ketan2008@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received:by mail-qc0-x243.google.com with SMTP id c9so1017610qcz.10
+        for <rockexample123@gmail.com>; Fri, 21 Mar 2014 09:31:29 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 10.224.65.194 as permitted sender) client-ip=10.224.65.194
+X-Received:from mr.google.com ([10.224.65.194])
+        by 10.224.65.194 with SMTP id k2mr13134251qai.59.1395419488196 (num_hops = 1);
+        Fri, 21 Mar 2014 09:31:28 -0700 (PDT)
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=hmcsc1w9IZ7CIzkVx/iu9AgJN4VS/pL+bBAvrkC9X/c=;
+        b=Wy2jMQOKeShnxxjPbb28XmyJk83m7ovAx5EckZo+bsirkRc+0vdeaJShnQhMMpHpIU
+         fXG9hlEfQjT6IyYPSg/mhn+I5sSiWdqZq6hxMHdNtsugVsNRsnuyftDOm2ECzOghwWeg
+         fKyTXMzd0ultgMa9Ro4NPKlG/rECrjerL+HYKC2eVtsjGbc8MdWZQhMrAYD4f9Fa7kpB
+         I6CGOGz4xxFXCxlD3ZYuHi341O9/iWuMBWkXV9wBWPfzLlhttXyyxXjf6GUDs0q+dVFu
+         9ZNUcjaFagvSWVq3xwQzEYx562ZT/UxvV5vEA8sBwDwN5efwZkFzQghmfKIjRK9BqT7B
+         xMZw==
+MIME-Version:1.0
+X-Received:by 10.224.65.194 with SMTP id k2mr13134251qai.59.1395419488185;
+ Fri, 21 Mar 2014 09:31:28 -0700 (PDT)
+Received:by 10.140.18.132 with HTTP; Fri, 21 Mar 2014 09:31:28 -0700 (PDT)
+In-Reply-To:<047d7b6d8030a6754d04f51cbec6@google.com>
+References:<047d7b6d8030a6754d04f51cbec6@google.com>
+Date:Fri, 21 Mar 2014 22:01:28 +0530
+Message-ID:<CAO1uGr7j75Tmi+tPGPKYTfyX-eLaTHgQJcHV3HSCCWhohaTTEw@mail.gmail.com>
+Subject:Fwd: Gizmo's Freeware: Rain Alarm - Be Notified by this Android App
+ of Approaching Rain or Snow
+From:ketan jain <jain.ketan2008@gmail.com>
+To:rockexample123@gmail.com
+Content-Type:multipart/alternative; boundary=001a11c2d1c2e80d8504f5206abe
+Bodycontent:Fri Mar 21 22:01:28 IST 2014
+content:javax.mail.internet.MimeMultipart@c1b548a
+---------- Forwarded message ----------
+From: Gizmo's Freeware: Top selections <editor@techsupportalert.com>
+Date: Fri, Mar 21, 2014 at 5:38 PM
+Subject: Gizmo's Freeware: Rain Alarm - Be Notified by this Android App of
+Approaching Rain or Snow
+To: Jain.ketan2008@gmail.com
+
+
+    Gizmo's Freeware: Rain Alarm - Be Notified by this Android App of
+Approaching Rain or Snow <http://feeds.feedburner.com/gizmosbest>   [image:
+Link to Gizmo's Freeware: Top selections]
+<http://feeds.feedburner.com/gizmosbest>
+------------------------------
+
+Rain Alarm - Be Notified by this Android App of Approaching Rain or
+Snow<http://feedproxy.google.com/~r/gizmosbest/~3/DLr-UERKQDg/rain-alarm-be-notified-approaching-rain-or-snow.htm?utm_source=feedburner&utm_medium=email>
+
+Posted: 21 Mar 2014 04:30 AM PDT
+You've seen from your weather forecast that there's rain about but you
+don't know when or where. With the Rain Alarm app you can receive
+notifications when rain or snow is on its way. You can call up a map with a
+radar animation of the approaching weather.
+
+It's nice to know in advance that rain is approaching, especially if you
+enjoy outdoor activities. Maybe you just want to get the washing off the
+clothes line before it pours down. Whatever you use the app for, Rain Alarm
+gives you handy alerts so you're prepared.
+
+When you get a notification, it tells you the approximate distance away,
+strength and area of the rain front.
+
+
+http://www.techsupportalert.com/content/rain-alarm-be-notified-approaching-rain-or-snow.htm
+<http://feeds.feedburner.com/~ff/gizmosbest?a=DLr-UERKQDg:SGpC1ArHTIE:yIl2AUoC8zA>
+<http://feeds.feedburner.com/~ff/gizmosbest?a=DLr-UERKQDg:SGpC1ArHTIE:qj6IDK7rITs>
+   You are subscribed to email updates from Gizmo's Freeware: Top
+selections<http://feeds.feedburner.com/gizmosbest>
+To stop receiving these emails, you may unsubscribe
+now<http://feedburner.google.com/fb/a/mailunsubscribe?k=6XmL8VyPrWr1rK-6Cz2h4C02_ms>
+. Email delivery powered by Google  Google Inc., 20 West Kinzie, Chicago IL
+USA 60610
+
+
+
+-- 
+
+*Thanks & Regards,*
+
+Ketan Jain
+<div dir="ltr"><br><br><div class="gmail_quote">---------- Forwarded message ----------<br>From: <b class="gmail_sendername">Gizmo&#39;s Freeware: Top selections</b> <span dir="ltr">&lt;<a href="mailto:editor@techsupportalert.com">editor@techsupportalert.com</a>&gt;</span><br>
+Date: Fri, Mar 21, 2014 at 5:38 PM<br>Subject: Gizmo&#39;s Freeware: Rain Alarm - Be Notified by this Android App of Approaching Rain or Snow<br>To: <a href="mailto:Jain.ketan2008@gmail.com">Jain.ketan2008@gmail.com</a><br>
+<br><br><u></u>
+
+
+
+
+
+<div>
+
+<div style="line-height:140%;font-size:13px;font-family:Georgia,Helvetica,Arial,Sans-Serif;margin:0 2em">
+<table style="border:0;padding:0;margin:0;width:100%">
+<tbody><tr>
+<td style="vertical-align:top" width="99%">
+<h1 style="margin:0;padding-bottom:6px">
+<a style="color:#888;font-size:22px;font-family:Arial,Helvetica,sans-serif;font-weight:normal;text-decoration:none" href="http://feeds.feedburner.com/gizmosbest" title="(http://feeds.feedburner.com/gizmosbest)" target="_blank">Gizmo&#39;s Freeware: Rain Alarm - Be Notified by this Android App of Approaching Rain or Snow</a>
+</h1>
+</td>
+<td width="1%">
+<a href="http://feeds.feedburner.com/gizmosbest" target="_blank">
+<img src="http://techsupportalert.com/images/46best-50px.jpg" alt="Link to Gizmo&#39;s Freeware: Top selections" style="padding:0 0 10px 3px;border:0">
+</a>
+</td>
+</tr>
+</tbody></table>
+<hr style="border:1px solid #ccc;padding:0;margin:0">
+<table>
+<tbody><tr>
+<td style="margin-bottom:0;line-height:1.4em">
+<p style="margin:1em 0 3px 0">
+<a name="144e48aeb33a377c_1" style="font-family:Arial,Helvetica,sans-serif;font-size:18px" href="http://feedproxy.google.com/~r/gizmosbest/~3/DLr-UERKQDg/rain-alarm-be-notified-approaching-rain-or-snow.htm?utm_source=feedburner&amp;utm_medium=email" target="_blank">Rain Alarm - Be Notified by this Android App of Approaching Rain or Snow</a>
+</p>
+<p style="font-size:13px;color:#555;margin:9px 0 3px 0;font-family:Georgia,Helvetica,Arial,Sans-Serif;line-height:140%;font-size:13px">
+<span>Posted:</span> 21 Mar 2014 04:30 AM PDT</p>
+<div style="line-height:140%;font-size:13px;font-family:Georgia,Helvetica,Arial,Sans-Serif;margin:0">You&#39;ve seen from your weather forecast that there&#39;s rain about but you don&#39;t know when or where. With the Rain Alarm app you can receive notifications when rain or snow is on its way. You can call up a map with a radar animation of the approaching weather.<br>
+
+<br>
+It&#39;s nice to know in advance that rain is approaching, especially if you enjoy outdoor activities. Maybe you just want to get the washing off the clothes line before it pours down. Whatever you use the app for, Rain Alarm gives you handy alerts so you&#39;re prepared.<br>
+
+<br>When you get a notification, it tells you the approximate distance away, strength and area of the rain front. <br>
+<br>
+<br>
+<a href="http://www.techsupportalert.com/content/rain-alarm-be-notified-approaching-rain-or-snow.htm" target="_blank">http://www.techsupportalert.com/content/rain-alarm-be-notified-approaching-rain-or-snow.htm</a><div>
+<a href="http://feeds.feedburner.com/~ff/gizmosbest?a=DLr-UERKQDg:SGpC1ArHTIE:yIl2AUoC8zA" target="_blank"><img src="http://feeds.feedburner.com/~ff/gizmosbest?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/gizmosbest?a=DLr-UERKQDg:SGpC1ArHTIE:qj6IDK7rITs" target="_blank"><img src="http://feeds.feedburner.com/~ff/gizmosbest?d=qj6IDK7rITs" border="0"></a>
+</div><img src="http://feeds.feedburner.com/~r/gizmosbest/~4/DLr-UERKQDg?utm_source=feedburner&amp;utm_medium=email" height="1" width="1"></div>
+</td>
+</tr>
+</tbody></table>
+<table style="border-top:1px solid #999;padding-top:4px;margin-top:1.5em;width:100%">
+<tbody><tr>
+<td style="text-align:left;font-family:Helvetica,Arial,Sans-Serif;font-size:11px;margin:0 6px 1.2em 0;color:#333">You are subscribed to email updates from <a href="http://feeds.feedburner.com/gizmosbest" target="_blank">Gizmo&#39;s Freeware: Top selections</a>
+<br>To stop receiving these emails, you may <a href="http://feedburner.google.com/fb/a/mailunsubscribe?k=6XmL8VyPrWr1rK-6Cz2h4C02_ms" target="_blank">unsubscribe now</a>.</td>
+<td style="font-family:Helvetica,Arial,Sans-Serif;font-size:11px;margin:0 6px 1.2em 0;color:#333;text-align:right;vertical-align:top">Email delivery powered by Google</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:left;font-family:Helvetica,Arial,Sans-Serif;font-size:11px;margin:0 6px 1.2em 0;color:#333">Google Inc., 20 West Kinzie, Chicago IL USA 60610</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+</div><br><br clear="all"><div><br></div>-- <br><div dir="ltr"><p><b><span style="font-size:8pt"><font color="#0b5394">Thanks &amp; Regards,</font></span></b></p><p><font>Ketan Jain<span></span><span></span></font></p></div>
+
+</div>

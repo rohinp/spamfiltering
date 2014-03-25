@@ -1,0 +1,353 @@
+Delivered-To:rockexample123@gmail.com
+Received:by 10.140.47.194 with SMTP id m60csp4965qga;
+        Fri, 21 Mar 2014 00:52:15 -0700 (PDT)
+X-Received:by 10.224.5.197 with SMTP id 5mr55883292qaw.72.1395388305277;
+        Fri, 21 Mar 2014 00:51:45 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received:from mail-qg0-x241.google.com (mail-qg0-x241.google.com [2607:f8b0:400d:c04::241])
+        by mx.google.com with ESMTPS id h5si1825338qas.50.2014.03.21.00.51.45
+        for <rockexample123@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 21 Mar 2014 00:51:45 -0700 (PDT)
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c04::241 as permitted sender) client-ip=2607:f8b0:400d:c04::241;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c04::241 as permitted sender) smtp.mail=jain.ketan2008@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received:by mail-qg0-f65.google.com with SMTP id z60so693322qgd.0
+        for <rockexample123@gmail.com>; Fri, 21 Mar 2014 00:51:45 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 10.140.19.212 as permitted sender) client-ip=10.140.19.212
+X-Received:from mr.google.com ([10.140.19.212])
+        by 10.140.19.212 with SMTP id 78mr29687091qgh.84.1395388304959 (num_hops = 1);
+        Fri, 21 Mar 2014 00:51:44 -0700 (PDT)
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=qm10Jd7mjFRPGU3XPAfCUtLAtGWTW+ht2Oop6Ip63s8=;
+        b=oXmJ0G15+gxPIw2FAzij0Dd5PR3j8n0Fewye4gf0bnnctZBwgkzQUDs07ADqnUIfJ1
+         4WStI+Jnsa6JetUiFv1dKZlyX9dZmnJYs7Y2OpNjjur5yJt34Oau1TNqg7DE+0CcqwWD
+         9oxYzhtqu2C8Aoa1SX6lCKwLY6L8ZmrxitB+BcFUhqkbAfedyEueV8QXUGtUYOfzuWy+
+         eoU8AR/x7cC9UqtU9t5pUxBj/tpgt3yeHAloQRn/56F8w7avBm9W/cSaJ+Yn40MnaZDf
+         m4LUCKuZGO8f/pAAixCofq6FX9fJou1Yxxi+lJHCHkvTqfEiCdfZnaTBc+sf8SdZp6ii
+         hUOA==
+MIME-Version:1.0
+X-Received:by 10.140.19.212 with SMTP id 78mr29687091qgh.84.1395388304945;
+ Fri, 21 Mar 2014 00:51:44 -0700 (PDT)
+Received:by 10.140.18.132 with HTTP; Fri, 21 Mar 2014 00:51:44 -0700 (PDT)
+In-Reply-To:<LYRIS-355375959-3651129-2014.03.20-14.00.20--jain.ketan2008#gmail.com@online.itwhitepapers.com>
+References:<LYRIS-355375959-3651129-2014.03.20-14.00.20--jain.ketan2008#gmail.com@online.itwhitepapers.com>
+Date:Fri, 21 Mar 2014 13:21:44 +0530
+Message-ID:<CAO1uGr68x-+g9hh-tue+CEjghqv8xpfrxfUzE_SQ4t0iS3PCrw@mail.gmail.com>
+Subject:Fwd: Protecting Users from Firesheep and Other Sidejacking Attacks
+ with SSL
+From:ketan jain <jain.ketan2008@gmail.com>
+To:rockexample123@gmail.com
+Content-Type:multipart/alternative; boundary=001a1134effc3d943a04f5192810
+subject:Fwd: Protecting Users from Firesheep and Other Sidejacking Attacks with SSL
+Bodycontent:Fri Mar 21 13:21:44 IST 2014
+content:javax.mail.internet.MimeMultipart@5c877f84
+
+         The Problem of Unsecured Wi-Fi. Learn
+More<http://online.itwhitepapers.com/t/3651129/355375959/24508823/2/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=e52256e9>
+            [image:
+ITwhitepapers]<http://online.itwhitepapers.com/t/3651129/355375959/24502020/3/>
+  Security
+Alert         Protecting Users from Firesheep and Other Sidejacking Attacks
+with SSL<http://online.itwhitepapers.com/t/3651129/355375959/24508823/4/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=0c56fc36>
+    Learn
+More<http://online.itwhitepapers.com/t/3651129/355375959/24508823/5/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=ce644674>
+
+The recent release of the Firesheep Wi-Fi attack tool has increased
+awareness among both users and attackers of the inherent insecurity of
+unprotected HTTP connections. Users on unprotected networks who connect to
+websites through plain HTTP connections expose their connections to those
+sites to open surveillance and full compromise.
+       Learn More<http://online.itwhitepapers.com/t/3651129/355375959/24508823/6/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=66988260>
+              Additional Resources
+
+Assure performance to virtual desktops. Learn
+More.<http://online.itwhitepapers.com/t/3651129/355375959/24507019/7/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=9a20efc5>
+                   Subscription Services
+
+For daily updates follow ITwhitepapers on
+Twitter<http://online.itwhitepapers.com/t/3651129/355375959/24502018/8/>
+
+You are subscribed to *itwhitepapersalerts_security* as
+*jain.ketan2008@gmail.com
+<jain.ketan2008@gmail.com>*.
+
+Please click here<http://online.itwhitepapers.com/t/3651129/355375959/24490694/9/?90482085=aHR0cDovL29ubGluZS5pdHdoaXRlcGFwZXJzLmNvbS91P2lkPTM1NTM3NTk1OS40MTVmOTgxMTUwNDY0YWE2MDBiZDkwYzQzYThiNDBiNiZuPVQmbD1pdHdoaXRlcGFwZXJzYWxlcnRzX3NlY3VyaXR5Jm89MzY1MTEyOQ%3d%3d&x=b0e27162>to
+unsubscribe from
+*itwhitepapersalerts_security*
+
+Please click here<http://online.itwhitepapers.com/t/3651129/355375959/24503859/10/?f566cc7b=MzU1Mzc1OTU5LjQxNWY5ODExNTA0NjRhYTYwMGJkOTBjNDNhOGI0MGI2&e5e2987d=MzY1MTEyOQ%3d%3d&3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=85654a65>to
+unsubscribe from all ITwhitepapers alerts.
+
+View ITwhitepaper's online privacy
+policy<http://online.itwhitepapers.com/t/3651129/355375959/24502019/11/>
+.
+
+Copyright 2013 | ITwhitepapers | 492 Old Connecticut Path | Framingham MA
+01701 | www.itwhitepapers.com<http://online.itwhitepapers.com/t/3651129/355375959/24502027/12/>
+.
+
+
+
+-- 
+
+*Thanks & Regards,*
+
+Ketan Jain
+<div dir="ltr"><br><br><div class="gmail_quote">---------- Forwarded message ----------<br>From: <b class="gmail_sendername">ITwhitepapers Security Alert</b> <span dir="ltr">&lt;<a href="mailto:online_resources@online.itwhitepapers.com">online_resources@online.itwhitepapers.com</a>&gt;</span><br>
+Date: Thu, Mar 20, 2014 at 11:30 PM<br>Subject: Protecting Users from Firesheep and Other Sidejacking Attacks with SSL<br>To: <a href="mailto:jain.ketan2008@gmail.com">jain.ketan2008@gmail.com</a><br><br><br>
+	
+		
+	
+	<div>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;width:100%;margin:0 auto;border-collapse:collapse">
+			<tbody>
+				<tr>
+					<td bgcolor="#f2f2f2">
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;margin:0 auto;border-collapse:collapse">
+							<tbody>
+								<tr>
+									<td>
+										<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="margin:0 auto;border-collapse:collapse">
+											<tbody>
+												<tr>
+													<td style="clear:both;display:block;margin:0 auto;max-width:560px;font-family:Helvetica,Helvetica Neue,Helvetica,Arial,sans-serif">
+														<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;width:100%;padding:10px;display:block;margin:0 auto;max-width:560px">
+															<tbody>
+																<tr>
+																	<td style="color:#333333;font-family:Arial,Helvetica,sans-serif;font-size:11px;text-decoration:none">
+																		<h6 style="margin:0;font-family:Helvetica,Helvetica Neue,Helvetica,Arial,sans-serif;color:#333333;font-size:11px;font-weight:500;text-align:left">
+																			The Problem of Unsecured Wi-Fi. <a href="http://online.itwhitepapers.com/t/3651129/355375959/24508823/2/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=e52256e9" target="_blank">Learn More</a></h6>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+										<table cellpadding="0" cellspacing="0" style="margin:0 auto;border-collapse:collapse">
+											<tbody>
+												<tr>
+													<td bgcolor="#ffffff" style="clear:both;display:block;margin:0 auto;max-width:560px;font-family:Arial,Helvetica,Helvetica Neue,Helvetica,sans-serif;border-top:10px solid #db5528;background-color:#ffffff;padding:25px;width:100%">
+
+														<table cellpadding="0" cellspacing="0">
+															<tbody>
+																<tr>
+																	<td style="padding:0">
+																		<table cellpadding="0" cellspacing="0" style="margin:0;width:100%" width="100%">
+																			<tbody>
+																				<tr>
+																					<td>
+																						<table align="left" border="0" cellpadding="0" cellspacing="0" style="float:left;min-width:100px">
+																							<tbody>
+																								<tr>
+																									<td style="padding:0 30px 5px 0;margin:0">
+																										<h1 style="margin-bottom:0">
+																											<a href="http://online.itwhitepapers.com/t/3651129/355375959/24502020/3/" style="text-decoration:none" target="_blank"><img alt="ITwhitepapers" border="0" src="http://computerworld.com.edgesuite.net/itwp/itwps-logo.jpg" style="font-size:30px;display:block" width="150"></a></h1>
+
+																									</td>
+																								</tr>
+																								<tr>
+																									<td style="margin:0;padding:0 0 35px 0">
+																										<h5 style="font-size:22px;white-space:nowrap;margin:0;font-family:Georgia,Arial,Helvetica,sans-serif;font-weight:500">
+																											Security Alert</h5>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:0 0 10px 0">
+																						<table cellpadding="0" cellspacing="0" style="margin:0;width:100%" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0">
+																											<tbody>
+																												<tr>
+																													<td style="float:left;min-width:100px;max-width:380px;padding:0 20px 8px 0">
+																														<h3 style="margin:0">
+																															<a href="http://online.itwhitepapers.com/t/3651129/355375959/24508823/4/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=0c56fc36" style="color:#aa3300;font-size:21px;line-height:23px;font-weight:bold;text-decoration:none;font-family:Arial,Helvetica,sans-serif" target="_blank">Protecting Users from Firesheep and Other Sidejacking Attacks with SSL</a></h3>
+
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table align="left" cellpadding="0" cellspacing="0" style="min-width:100px">
+																											<tbody>
+																												<tr>
+																													<td style="margin:0;border-top:2px solid #338cc5;border-right:14px solid #338cc5;border-bottom:2px solid #338cc5;border-left:14px solid #338cc5;border-radius:6px 6px 6px 6px;background:#338cc5;padding:8px;white-space:nowrap" valign="middle">
+
+																														<h5 style="margin:0">
+																															<a href="http://online.itwhitepapers.com/t/3651129/355375959/24508823/5/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=ce644674" style="color:#ffffff;font-size:16px;text-decoration:none;font-weight:bold;white-space:nowrap;font-family:Arial,Helvetica,sans-serif;white-space:nowrap" target="_blank">Learn More</a></h5>
+
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:0">
+																						<p style="margin:0;font-weight:normal;font-size:15px;line-height:22px;color:#333333;font-style:normal;font-family:Arial,Helvetica,sans-serif">
+																							The recent release of the Firesheep Wi-Fi attack tool has increased awareness among both users and attackers of the inherent insecurity of unprotected HTTP connections. Users on unprotected networks who connect to websites through plain HTTP connections expose their connections to those sites to open surveillance and full compromise.</p>
+
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:15px 0 30px">
+																						<table cellpadding="0" cellspacing="0" style="width:100%" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" style="float:left;min-width:100px;margin:0 20px 5px 0">
+																											<tbody>
+																												<tr>
+																													<td style="margin:0;border-top:2px solid #338cc5;border-right:14px solid #338cc5;border-bottom:2px solid #338cc5;border-left:14px solid #338cc5;border-radius:6px 6px 6px 6px;background:#338cc5;padding:8px;white-space:nowrap" valign="middle">
+
+																														<h5 style="margin:0;white-space:nowrap">
+																															<a href="http://online.itwhitepapers.com/t/3651129/355375959/24508823/6/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=66988260" style="color:#ffffff;font-size:16px;text-decoration:none;font-weight:bold;white-space:nowrap;font-family:Arial,Helvetica,sans-serif" target="_blank">Learn More</a></h5>
+
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:0 0 20px">
+																						 </td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<table cellpadding="0" cellspacing="0" style="float:left;width:100%" width="100%">
+																			<tbody>
+																				<tr>
+																					<td style="padding:20px 0 0 0">
+																						<table align="left" border="0" cellspacing="0" style="float:left;width:100%">
+																							<tbody>
+																								<tr>
+																									<td style="border-left:10px solid #cccccc;padding:0 0 0 20px">
+																										<h3 style="font-size:16px;font-weight:900;color:#333333;font-family:Arial,Helvetica,sans-serif;margin-bottom:15px">
+																											Additional Resources</h3>
+																										<p style="font-size:14px;font-weight:normal;line-height:22px;margin-bottom:10px">
+																											<a href="http://online.itwhitepapers.com/t/3651129/355375959/24507019/7/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=9a20efc5" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#aa3300;text-decoration:none" target="_blank">Assure performance to virtual desktops. Learn More.</a></p>
+
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;width:100%">
+			<tbody>
+				<tr>
+					<td>
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;max-width:600px;margin:0 auto">
+							<tbody>
+								<tr>
+									<td style="clear:both;display:block;margin:0 auto;max-width:600px">
+										<table cellpadding="0" cellspacing="0">
+											<tbody>
+												<tr>
+													<td style="padding:25px 10px 15px">
+														<h3 style="font-weight:900;font-size:18px;color:#333333;line-height:22px;font-family:Arial,Helvetica,sans-serif;margin:0">
+															Subscription Services</h3>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px 10px 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															For daily updates follow <a href="http://online.itwhitepapers.com/t/3651129/355375959/24502018/8/" style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">ITwhitepapers on Twitter</a></p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															You are subscribed to <em style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px">itwhitepapersalerts_security</em> as <em style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px"><a href="mailto:jain.ketan2008@gmail.com" target="_blank">jain.ketan2008@gmail.com</a></em>.</p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px 10px 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															Please <a href="http://online.itwhitepapers.com/t/3651129/355375959/24490694/9/?90482085=aHR0cDovL29ubGluZS5pdHdoaXRlcGFwZXJzLmNvbS91P2lkPTM1NTM3NTk1OS40MTVmOTgxMTUwNDY0YWE2MDBiZDkwYzQzYThiNDBiNiZuPVQmbD1pdHdoaXRlcGFwZXJzYWxlcnRzX3NlY3VyaXR5Jm89MzY1MTEyOQ%3d%3d&amp;x=b0e27162" style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">click here</a> to unsubscribe from <em style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px">itwhitepapersalerts_security</em></p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px 0 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															Please <a href="http://online.itwhitepapers.com/t/3651129/355375959/24503859/10/?f566cc7b=MzU1Mzc1OTU5LjQxNWY5ODExNTA0NjRhYTYwMGJkOTBjNDNhOGI0MGI2&amp;e5e2987d=MzY1MTEyOQ%3d%3d&amp;3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=85654a65" style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">click here</a> to unsubscribe from all ITwhitepapers alerts.</p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:10px 10px 0 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															View ITwhitepaper&#39;s online <a href="http://online.itwhitepapers.com/t/3651129/355375959/24502019/11/" style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">privacy policy</a>.</p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															Copyright 2013 | ITwhitepapers | 492 Old Connecticut Path | Framingham MA 01701 | <a href="http://online.itwhitepapers.com/t/3651129/355375959/24502027/12/" style="color:#aa3300;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">www.itwhitepapers.com</a>.</p>
+
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+<img alt="" src="http://online.itwhitepapers.com/db/3651129/355375959/1.gif" width="1" height="1"></div>
+
+
+</div><br><br clear="all"><div><br></div>-- <br><div dir="ltr"><p><b><span style="font-size:8pt"><font color="#0b5394">Thanks &amp; Regards,</font></span></b></p><p><font>Ketan Jain<span></span><span></span></font></p></div>
+
+</div>

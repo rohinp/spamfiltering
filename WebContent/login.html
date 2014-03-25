@@ -1,0 +1,87 @@
+
+<html>
+<head>
+<title>Login Page</title>
+</head>
+<style type="text/css">
+.tb7 {
+	height: 3em;
+	width: 8.5cm;
+	border: 1px solid Purple;
+	tb7
+	.textAlign="center";
+}
+
+.tb {
+	height: 2em;
+	width: 2cm;
+	color: Purple;
+	font-weight: bold;
+	border: 1px solid Purple;
+}
+
+h2 {
+	color: purple;
+}
+
+#Canvas1 {
+	border: 5px purple;
+	background-color: purple;
+	foreground-color: white;
+	width: 100%;
+	height: 16%;
+}
+</style>
+<script type="text/javascript" src="lib/jquery-latest.js"></script>
+<script>
+	var verifyUser = function() {
+		var requestObject = {
+				"uname": $("#email").val(),
+				"pass":$("#pass").val()		
+		};
+		
+		var urlAjax = "rest/auth/user";
+		console.log(requestObject);
+		$.ajax({
+		    type: "POST",
+		    url: urlAjax,
+		    contentType: "application/json",
+		    data: JSON.stringify(requestObject),
+		    success: function(data) { window.location = "home.html" },
+		    error: function(data) {console.log(data) },
+		    dataType: 'json'
+		});
+		
+	}
+</script>
+<body background="dms1.jpg">
+	<p>
+		<canvas id="Canvas1" width="1010" height="100"></canvas>
+		<br>
+		<br>
+		<br>
+	</p>
+	<form name="log" method="post">
+		<table align="right" border="0">
+			<tr>
+			<tr>
+				<td><label>User Email ID</label><br>
+				<input class="tb7" type="email" required name="email" id="email"
+					placeholder=" Enter Email ID" size="20"></td>
+			</tr>
+
+			<tr>
+				<td><br>
+				<label>Password </label><br>
+				<input class="tb7" type="password" required name="pass"
+					placeholder=" Enter Your Password" size="20" id="pass">
+				<div align="justify"></div></td>
+			</tr>
+			<tr>
+				<td><input class="tb" type="button" name="log" value="Log In"
+					onclick="verifyUser()"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

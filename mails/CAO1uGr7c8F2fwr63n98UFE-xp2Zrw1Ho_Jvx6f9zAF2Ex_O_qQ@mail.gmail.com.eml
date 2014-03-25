@@ -1,0 +1,107 @@
+Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp100198lbb;
+        Sat, 22 Mar 2014 08:43:02 -0700 (PDT)
+X-Received:by 10.229.214.74 with SMTP id gz10mr2698862qcb.19.1395502953179;
+        Sat, 22 Mar 2014 08:42:33 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received:from mail-qa0-x241.google.com (mail-qa0-x241.google.com [2607:f8b0:400d:c00::241])
+        by mx.google.com with ESMTPS id di5si3107266qcb.2.2014.03.22.08.42.32
+        for <rockexample123@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 22 Mar 2014 08:42:33 -0700 (PDT)
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c00::241 as permitted sender) client-ip=2607:f8b0:400d:c00::241;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c00::241 as permitted sender) smtp.mail=jain.ketan2008@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received:by mail-qa0-x241.google.com with SMTP id f11so1254744qae.8
+        for <rockexample123@gmail.com>; Sat, 22 Mar 2014 08:42:32 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 10.224.72.69 as permitted sender) client-ip=10.224.72.69
+X-Received:from mr.google.com ([10.224.72.69])
+        by 10.224.72.69 with SMTP id l5mr5508006qaj.1.1395502951429 (num_hops = 1);
+        Sat, 22 Mar 2014 08:42:31 -0700 (PDT)
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=Ycsfn+NRFIslr8D1MuYen0f6EwOdbDehukef5SFo+RU=;
+        b=J9idTc0HMeaUOZ7/c5Nq/McTa9PWMr9aJwqGIw6VTXaZTjTmGcQbR2axEGiVaTPsRX
+         eEP1lsorwxGli3P1pTBKOMmKn6Nj+WZntVvtCrv/Ex95YMEOAc93vZRIxX9MJZdsaRKB
+         MUDQP10Vs3H5r++mCmhiur+B+d+4cJgJnGADRV9MqsebPPD5ovkqLkVPjPQF/9hNBOlI
+         Ps+tnzNTZUjBmGmjpr5lxQrPcJAigLMOQADfPIwjPzh9XaaWxmx8FIXHtxyzF3Ncilpi
+         loVg6hEdCa+Eh5Vbbt/BY/wv1nCDCS3g8dXIH/5oJsohu91NeFO9mZdZ5V9p4ql5u0Ri
+         F5Vg==
+MIME-Version:1.0
+X-Received:by 10.224.72.69 with SMTP id l5mr5508006qaj.1.1395502951419; Sat,
+ 22 Mar 2014 08:42:31 -0700 (PDT)
+Received:by 10.140.18.132 with HTTP; Sat, 22 Mar 2014 08:42:31 -0700 (PDT)
+In-Reply-To:<way_5471708_15399_46828_55_q29.8340450.2261754.1395452964271.in.smtp142@smtp6102.way2sms.in>
+References:<way_5471708_15399_46828_55_q29.8340450.2261754.1395452964271.in.smtp142@smtp6102.way2sms.in>
+Date:Sat, 22 Mar 2014 21:12:31 +0530
+Message-ID:<CAO1uGr7c8F2fwr63n98UFE-xp2Zrw1Ho_Jvx6f9zAF2Ex_O_qQ@mail.gmail.com>
+Subject:Fwd: Live your style a bit more - Woodland Shoes and Branded watch at
+ Just 999
+From:ketan jain <jain.ketan2008@gmail.com>
+To:rockexample123@gmail.com
+Content-Type:multipart/alternative; boundary=047d7bdc7826b3ecf204f533d9cd
+Bodycontent:Sat Mar 22 21:12:31 IST 2014
+content:javax.mail.internet.MimeMultipart@43095f4
+ If you are unable to view this mailer Click here
+<http://bounces.way2sms.in/w2email/MailStatus2?id=46828&nid=15399&subid=5471708&domainur=bounces.way2sms.in&queue=q29&action=viewbrowser&cid=18>
+    [image: Logo]<http://bounces.way2sms.in/w2email/MailStatus2?id=46828&nid=15399&cid=18&subid=5471708&domainur=bounces.way2sms.in&queue=q29&action=clicks&forwardurl=14411>
+ [image:
+reebok shoes]<http://bounces.way2sms.in/w2email/MailStatus2?id=46828&nid=15399&cid=18&subid=5471708&domainur=bounces.way2sms.in&queue=q29&action=clicks&forwardurl=14411>
+   You
+have received this mail because you are a member of way2sms. To stop
+receiving these emails please click here
+<http://bounces.way2sms.in/w2email/MailStatus2?id=46828&nid=15399&subid=5471708&domainur=bounces.way2sms.in&queue=q29&action=stop&cid=18>to
+unsubscribe.
+
+
+
+-- 
+
+*Thanks & Regards,*
+
+Ketan Jain
+<div dir="ltr"><br><br><div class="gmail_quote"><br><br> 
+ <table align="center" width="480" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="padding:0px;color:rgb(153,153,153);font-size:10px;line-height:1.5em;border:1px solid #fff"> 
+   
+   <tbody><tr> 
+    <td style="padding:5px 0px">If you are unable to view this mailer<a href="http://bounces.way2sms.in/w2email/MailStatus2?id=46828&amp;nid=15399&amp;subid=5471708&amp;domainur=bounces.way2sms.in&amp;queue=q29&amp;action=viewbrowser&amp;cid=18" style="color:rgb(153,153,153)" target="_blank"> Click here </a> <br>
+ </td> 
+   </tr> 
+   
+ </tbody></table> 
+ <table align="center" width="561" cellspacing="0" cellpadding="0" style="border:#796a71 1px solid"> 
+   
+   <tbody><tr> 
+    <td width="559"> 
+     <table width="560" cellspacing="0" cellpadding="0" border="0"> 
+       
+       <tbody><tr> 
+        <td width="560"><a href="http://bounces.way2sms.in/w2email/MailStatus2?id=46828&amp;nid=15399&amp;cid=18&amp;subid=5471708&amp;domainur=bounces.way2sms.in&amp;queue=q29&amp;action=clicks&amp;forwardurl=14411" target="_blank"><img width="600" height="251" border="0" alt="Logo" style="font-size:20px;color:#545454;display:block" src="http://app.way2sms.biz/w2email/newsletters/21Mar2014042320_ex//logo.jpg"></a></td>
+ 
+       </tr> 
+       <tr> 
+        <td><a href="http://bounces.way2sms.in/w2email/MailStatus2?id=46828&amp;nid=15399&amp;cid=18&amp;subid=5471708&amp;domainur=bounces.way2sms.in&amp;queue=q29&amp;action=clicks&amp;forwardurl=14411" target="_blank"><img width="600" height="299" border="0" alt="reebok shoes" style="font-size:20px;color:#545454;display:block" src="http://app.way2sms.biz/w2email/newsletters/21Mar2014042320_ex//shoes.jpg"></a></td>
+ 
+       </tr> 
+       
+     </tbody></table> </td> 
+   </tr> 
+   
+ </tbody></table> 
+ <table align="center" width="480" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="padding:0px;color:rgb(153,153,153);font-size:10px;line-height:1.5em;border:1px solid #fff"> 
+   
+   <tbody><tr> 
+    <td style="padding:5px 0px">You have received this mail because you are a member of way2sms. To stop receiving these emails please <a href="http://bounces.way2sms.in/w2email/MailStatus2?id=46828&amp;nid=15399&amp;subid=5471708&amp;domainur=bounces.way2sms.in&amp;queue=q29&amp;action=stop&amp;cid=18" style="color:rgb(153,153,153)" target="_blank">click here </a> to unsubscribe. <br>
+ </td> 
+   </tr> 
+   
+ </tbody></table>     
+ <img alt="" src="http://bounces.way2sms.in/w2email/MailStatus2?id=46828&amp;nid=15399&amp;subid=5471708&amp;domainur=bounces.way2sms.in&amp;queue=q29&amp;action=readstatus&amp;cid=18" height="0px" width="0px">  
+</div><br><br clear="all"><div><br></div>-- <br><div dir="ltr"><p><b><span style="font-size:8pt"><font color="#0b5394">Thanks &amp; Regards,</font></span></b></p><p><font>Ketan Jain<span></span><span></span></font></p></div>
+
+</div>

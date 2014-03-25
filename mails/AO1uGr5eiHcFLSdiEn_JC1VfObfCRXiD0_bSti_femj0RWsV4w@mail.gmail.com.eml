@@ -1,0 +1,384 @@
+ Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp1431lbb;
+        Fri, 21 Mar 2014 00:58:40 -0700 (PDT)
+X-Received:by 10.140.109.9 with SMTP id k9mr32388428qgf.6.1395388681557;
+        Fri, 21 Mar 2014 00:58:01 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received:from mail-qa0-x243.google.com (mail-qa0-x243.google.com [2607:f8b0:400d:c00::243])
+        by mx.google.com with ESMTPS id f33si1829134qgf.100.2014.03.21.00.58.01
+        for <rockexample123@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 21 Mar 2014 00:58:01 -0700 (PDT)
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c00::243 as permitted sender) client-ip=2607:f8b0:400d:c00::243;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of jain.ketan2008@gmail.com designates 2607:f8b0:400d:c00::243 as permitted sender) smtp.mail=jain.ketan2008@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received:by mail-qa0-x243.google.com with SMTP id w5so660733qac.2
+        for <rockexample123@gmail.com>; Fri, 21 Mar 2014 00:58:01 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 10.140.101.74 as permitted sender) client-ip=10.140.101.74
+X-Received:from mr.google.com ([10.140.101.74])
+        by 10.140.101.74 with SMTP id t68mr407185qge.106.1395388680011 (num_hops = 1);
+        Fri, 21 Mar 2014 00:58:00 -0700 (PDT)
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=oPRjfARVoQhkPUdFcXRNztsYJEDt3cYxkNBu3gmmVDc=;
+        b=Za6b7Y0KjJAccSf/aykM0JK0Z+0B2HWbbSDiHPLAjiOVb+FWkcHAXq8Xy0WmC7bgK0
+         Y6694iG0SrZl5dXIsMtlDTuuwHb4GIxayK07aMUiisYMX2F+xfKIPiV1Qu583x9IGxL1
+         kJQzGr8VJB4jQcydvjAG0Y77yKCkyo833WbQKL7OuOZHBKL2tkRoIUEwa58N4nHdJ+OR
+         YGCkU8e+vp8uoAgRPlmbpeQEogWO8YUzF29WnUcTKMhcjyzZnYg4oUrVw9v6utiNwaK4
+         MGq0hK7Nte6osIyAaUAYcJ8Fhl8b+2t50faJ0Hv1YOq/e88vxrSoo0j5rJwe/Su8HkQD
+         EvrA==
+MIME-Version:1.0
+X-Received:by 10.140.101.74 with SMTP id t68mr407185qge.106.1395388679996;
+ Fri, 21 Mar 2014 00:57:59 -0700 (PDT)
+Received:by 10.140.18.132 with HTTP; Fri, 21 Mar 2014 00:57:59 -0700 (PDT)
+In-Reply-To:<LYRIS-600614035-8881941-2014.03.20-14.50.13--jain.ketan2008#gmail.com@cwresources.computerworld.com>
+References:<LYRIS-600614035-8881941-2014.03.20-14.50.13--jain.ketan2008#gmail.com@cwresources.computerworld.com>
+Date:Fri, 21 Mar 2014 13:27:59 +0530
+Message-ID:<CAO1uGr5eiHcFLSdiEn_JC1VfObfCRXiD0_bSti_femj0RWsV4w@mail.gmail.com>
+Subject:Fwd: 5 Tips for Improving Customer Experience
+From:ketan jain <jain.ketan2008@gmail.com>
+To:rockexample123@gmail.com
+Content-Type:multipart/alternative; boundary=001a11c16daa986b7604f5193e3c
+subject:Fwd: 5 Tips for Improving Customer Experience
+Bodycontent:Fri Mar 21 13:27:59 IST 2014
+content:javax.mail.internet.MimeMultipart@65ce2d32
+---------- Forwarded message ----------
+From: Computerworld IT Management Alert <
+computerworld_resources@cwresources.computerworld.com>
+Date: Fri, Mar 21, 2014 at 12:20 AM
+Subject: 5 Tips for Improving Customer Experience
+To: jain.ketan2008@gmail.com
+
+
+         Increase Customer Satisfaction, Reduce Customer Churn and Keep
+Costs Down. Learn
+More.<http://cwresources.computerworld.com/t/8881941/600614035/662614/8/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=d64c33c0>
+            [image:
+COMPUTERWORLD]<http://cwresources.computerworld.com/t/8881941/600614035/5443/9/>
+  IT
+Management Alert         Five Tips for Improving Customer Experience -
+Starting with the Support
+Desk<http://cwresources.computerworld.com/t/8881941/600614035/662614/10/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=50f8ec07>
+    Learn
+More<http://cwresources.computerworld.com/t/8881941/600614035/662614/11/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=ebb839b8>
+
+Keep customer satisfaction rates high, increase agent capabilities and
+lower customer support costs. Learn how leading remote support solutions
+can assist with on-the-spot training to eliminate multiple call for the
+same problem, allow agents to pull in third party experts to help solve
+complex issues, and facilitate handling multiple sessions simultaneously
+through powerful chat features.
+       Learn More<http://cwresources.computerworld.com/t/8881941/600614035/662614/12/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=3743eb55>
+    [image:
+TW]<http://cwresources.computerworld.com/t/8881941/600614035/662615/13/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=0f26a428>
+[image:
+FB]<http://cwresources.computerworld.com/t/8881941/600614035/662616/14/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=a8682a43>
+[image:
+LI]<http://cwresources.computerworld.com/t/8881941/600614035/662617/15/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=e00ac7d1>
+[image:
+EM]<http://cwresources.computerworld.com/t/8881941/600614035/341148/16/?e5e2987d=ODg4MTk0MQ%3d%3d&0fc84754=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=54e96e1d>
+Share
+this email<http://cwresources.computerworld.com/t/8881941/600614035/341148/22/?e5e2987d=ODg4MTk0MQ%3d%3d&0fc84754=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=4d22eda7>
+           Additional Resources
+
+Discover What Intelligent Investigation Means to Fraud Prevention and
+Detection. Learn
+More.<http://cwresources.computerworld.com/t/8881941/600614035/651638/23/>
+
+
+       Subscription Services
+
+You are subscribed to *alerts_itmngmnt* as *jain.ketan2008@gmail.com
+<jain.ketan2008@gmail.com>*.
+
+Please click here<http://cwresources.computerworld.com/t/8881941/600614035/131135/24/?90482085=aHR0cDovL2N3cmVzb3VyY2VzLmNvbXB1dGVyd29ybGQuY29tL3U%2faWQ9NjAwNjE0MDM1Ljg2Zjc1YjhkYjViZGFjZWZlYzM3ZTFiMzU4NmYxMjhmJm49VCZsPWFsZXJ0c19pdG1uZ21udCZvPTg4ODE5NDE%3d&x=6cb06840>to
+unsubscribe from
+*alerts_itmngmnt*
+
+Please click here<http://cwresources.computerworld.com/t/8881941/600614035/355695/25/?f566cc7b=NjAwNjE0MDM1Ljg2Zjc1YjhkYjViZGFjZWZlYzM3ZTFiMzU4NmYxMjhm&e5e2987d=ODg4MTk0MQ%3d%3d&3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&x=dffc7105>to
+unsubscribe from all Computerworld alerts.
+
+View Computerworld's online privacy
+policy<http://cwresources.computerworld.com/t/8881941/600614035/216627/26/>
+.
+
+Copyright 2014 | Computerworld | 492 Old Connecticut Path | Framingham MA
+01701 | www.computerworld.com<http://cwresources.computerworld.com/t/8881941/600614035/5443/27/>
+.
+
+
+
+-- 
+
+*Thanks & Regards,*
+
+Ketan Jain
+<div dir="ltr"><br><br><div class="gmail_quote">---------- Forwarded message ----------<br>From: <b class="gmail_sendername">Computerworld IT Management Alert</b> <span dir="ltr">&lt;<a href="mailto:computerworld_resources@cwresources.computerworld.com">computerworld_resources@cwresources.computerworld.com</a>&gt;</span><br>
+Date: Fri, Mar 21, 2014 at 12:20 AM<br>Subject: 5 Tips for Improving Customer Experience<br>To: <a href="mailto:jain.ketan2008@gmail.com">jain.ketan2008@gmail.com</a><br><br><br>
+	
+		
+	
+	<div>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;width:100%;margin:0 auto;border-collapse:collapse">
+			<tbody>
+				<tr>
+					<td bgcolor="#f2f2f2">
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;margin:0 auto;border-collapse:collapse">
+							<tbody>
+								<tr>
+									<td>
+										<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="margin:0 auto;border-collapse:collapse">
+											<tbody>
+												<tr>
+													<td style="clear:both;display:block;margin:0 auto;max-width:560px;font-family:Helvetica,Helvetica Neue,Helvetica,Arial,sans-serif">
+														<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;width:100%;padding:10px;display:block;margin:0 auto;max-width:560px">
+															<tbody>
+																<tr>
+																	<td style="color:#333333;font-family:Arial,Helvetica,sans-serif;font-size:11px;text-decoration:none">
+																		<h6 style="margin:0;font-family:Helvetica,Helvetica Neue,Helvetica,Arial,sans-serif;color:#333333;font-size:11px;font-weight:500;text-align:left">
+																			Increase Customer Satisfaction, Reduce Customer Churn and Keep Costs Down. <a href="http://cwresources.computerworld.com/t/8881941/600614035/662614/8/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=d64c33c0" target="_blank">Learn More.</a></h6>
+
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+										<table cellpadding="0" cellspacing="0" style="margin:0 auto;border-collapse:collapse">
+											<tbody>
+												<tr>
+													<td bgcolor="#ffffff" style="clear:both;display:block;margin:0 auto;max-width:560px;font-family:Arial,Helvetica,Helvetica Neue,Helvetica,sans-serif;border-top:10px solid #f1b42e;background-color:#ffffff;padding:25px;width:100%">
+
+														<table cellpadding="0" cellspacing="0">
+															<tbody>
+																<tr>
+																	<td style="padding:0">
+																		<table cellpadding="0" cellspacing="0" style="margin:0;width:100%" width="100%">
+																			<tbody>
+																				<tr>
+																					<td>
+																						<table align="left" border="0" cellpadding="0" cellspacing="0" style="float:left;min-width:100px">
+																							<tbody>
+																								<tr>
+																									<td style="padding:0 30px 8px 0;margin:0">
+																										<h1 style="margin-bottom:0">
+																											<a href="http://cwresources.computerworld.com/t/8881941/600614035/5443/9/" style="font-size:28px;font-weight:bold;color:#333333;text-decoration:none" target="_blank"><img alt="COMPUTERWORLD" border="0" src="http://computerworld.com.edgesuite.net/images/cw_logo.gif" style="display:block" width="140"></a></h1>
+
+																									</td>
+																								</tr>
+																								<tr>
+																									<td style="margin:0;padding:0 0 35px 0">
+																										<h5 style="font-size:22px;white-space:nowrap;margin:0;font-family:Georgia,Arial,Helvetica,sans-serif;font-weight:500">
+																											IT Management Alert</h5>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:0 0 10px 0">
+																						<table cellpadding="0" cellspacing="0" style="margin:0;width:100%" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0">
+																											<tbody>
+																												<tr>
+																													<td style="float:left;min-width:100px;max-width:380px;padding:0 20px 8px 0">
+																														<h3 style="margin:0">
+																															<a href="http://cwresources.computerworld.com/t/8881941/600614035/662614/10/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=50f8ec07" style="color:#206ba4;font-size:21px;line-height:23px;font-weight:bold;text-decoration:none;font-family:Arial,Helvetica,sans-serif" target="_blank">Five Tips for Improving Customer Experience - Starting with the Support Desk</a></h3>
+
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table align="left" cellpadding="0" cellspacing="0" style="min-width:100px">
+																											<tbody>
+																												<tr>
+																													<td style="margin:0;border-top:2px solid #338cc5;border-right:14px solid #338cc5;border-bottom:2px solid #338cc5;border-left:14px solid #338cc5;border-radius:6px 6px 6px 6px;background:#338cc5;padding:8px;white-space:nowrap" valign="middle">
+
+																														<h5 style="margin:0">
+																															<a href="http://cwresources.computerworld.com/t/8881941/600614035/662614/11/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=ebb839b8" style="color:#ffffff;font-size:16px;text-decoration:none;font-weight:bold;white-space:nowrap;font-family:Arial,Helvetica,sans-serif;white-space:nowrap" target="_blank">Learn More</a></h5>
+
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:0;font-size:15px;line-height:22px;color:#333333;font-style:normal;font-family:Arial,Helvetica,sans-serif">
+																						<p style="margin:0;font-weight:normal;font-size:15px;line-height:22px;color:#333333;font-style:normal;font-family:Arial,Helvetica,sans-serif">
+																							Keep customer satisfaction rates high, increase agent capabilities and lower customer support costs. Learn how leading remote support solutions can assist with on-the-spot training to eliminate multiple call for the same problem, allow agents to pull in third party experts to help solve complex issues, and facilitate handling multiple sessions simultaneously through powerful chat features.</p>
+
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding:15px 0 30px">
+																						<table cellpadding="0" cellspacing="0" style="width:100%" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" style="float:left;min-width:100px;margin:0 20px 5px 0">
+																											<tbody>
+																												<tr>
+																													<td style="margin:0;border-top:2px solid #338cc5;border-right:14px solid #338cc5;border-bottom:2px solid #338cc5;border-left:14px solid #338cc5;border-radius:6px 6px 6px 6px;background:#338cc5;padding:8px;white-space:nowrap" valign="middle">
+
+																														<h5 style="margin:0;white-space:nowrap">
+																															<a href="http://cwresources.computerworld.com/t/8881941/600614035/662614/12/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=3743eb55" style="color:#ffffff;font-size:16px;text-decoration:none;font-weight:bold;white-space:nowrap;font-family:Arial,Helvetica,sans-serif" target="_blank">Learn More</a></h5>
+
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table cellpadding="0" cellspacing="0" style="padding-top:5px">
+																											<tbody>
+																												<tr>
+																													<td style="padding-right:5px">
+																														<a href="http://cwresources.computerworld.com/t/8881941/600614035/662615/13/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=0f26a428" target="_blank"><img alt="TW" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_twitter.png" width="24"></a></td>
+
+																													<td style="padding-right:5px">
+																														<a href="http://cwresources.computerworld.com/t/8881941/600614035/662616/14/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=a8682a43" target="_blank"><img alt="FB" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_facebook.png" width="24"></a></td>
+
+																													<td style="padding-right:5px">
+																														<a href="http://cwresources.computerworld.com/t/8881941/600614035/662617/15/?3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=e00ac7d1" target="_blank"><img alt="LI" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_linkedin.png" width="24"></a></td>
+
+																													<td style="padding-right:5px">
+																														<a href="http://cwresources.computerworld.com/t/8881941/600614035/341148/16/?e5e2987d=ODg4MTk0MQ%3d%3d&amp;0fc84754=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=54e96e1d" target="_blank"><img alt="EM" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/st-arrow_24x24.jpg" width="24"></a></td>
+
+																													<td style="white-space:nowrap">
+																														<a href="http://cwresources.computerworld.com/t/8881941/600614035/341148/22/?e5e2987d=ODg4MTk0MQ%3d%3d&amp;0fc84754=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=4d22eda7" style="font-size:13px;font-family:Arial;color:#206ba4;font-weight:bold;white-space:nowrap;text-decoration:none" target="_blank">Share this email</a></td>
+
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<table cellpadding="0" cellspacing="0" style="float:left;width:100%" width="100%">
+																			<tbody>
+																				<tr>
+																					<td style="padding:20px 0 0 0">
+																						<table align="left" border="0" cellspacing="0" style="float:left;width:100%">
+																							<tbody>
+																								<tr>
+																									<td style="border-left:10px solid #cccccc;padding:0 0 0 20px">
+																										<h3 style="font-size:16px;font-weight:900;color:#333333;font-family:Arial,Helvetica,sans-serif;margin-bottom:15px">
+																											Additional Resources</h3>
+																										<p style="font-size:14px;font-weight:normal;line-height:22px;margin-bottom:10px">
+																											<a href="http://cwresources.computerworld.com/t/8881941/600614035/651638/23/" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#206ba4;text-decoration:none" target="_blank">Discover What Intelligent Investigation Means to Fraud Prevention and Detection. Learn More.</a></p>
+
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			<br></p>
+		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;width:100%">
+			<tbody>
+				<tr>
+					<td>
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;max-width:600px;margin:0 auto">
+							<tbody>
+								<tr>
+									<td style="clear:both;display:block;margin:0 auto;max-width:600px">
+										<table cellpadding="0" cellspacing="0">
+											<tbody>
+												<tr>
+													<td style="padding:25px 10px 15px">
+														<h3 style="font-weight:900;font-size:18px;color:#333333;line-height:22px;font-family:Arial,Helvetica,sans-serif;margin:0">
+															Subscription Services</h3>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															You are subscribed to <em style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px">alerts_itmngmnt</em> as <em style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px"><a href="mailto:jain.ketan2008@gmail.com" target="_blank">jain.ketan2008@gmail.com</a></em>.</p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px 10px 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															Please <a href="http://cwresources.computerworld.com/t/8881941/600614035/131135/24/?90482085=aHR0cDovL2N3cmVzb3VyY2VzLmNvbXB1dGVyd29ybGQuY29tL3U%2faWQ9NjAwNjE0MDM1Ljg2Zjc1YjhkYjViZGFjZWZlYzM3ZTFiMzU4NmYxMjhmJm49VCZsPWFsZXJ0c19pdG1uZ21udCZvPTg4ODE5NDE%3d&amp;x=6cb06840" style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">click here</a> to unsubscribe from <em style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px">alerts_itmngmnt</em></p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:0 10px 0 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															Please <a href="http://cwresources.computerworld.com/t/8881941/600614035/355695/25/?f566cc7b=NjAwNjE0MDM1Ljg2Zjc1YjhkYjViZGFjZWZlYzM3ZTFiMzU4NmYxMjhm&amp;e5e2987d=ODg4MTk0MQ%3d%3d&amp;3e076d18=amFpbi5rZXRhbjIwMDhAZ21haWwuY29t&amp;x=dffc7105" style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">click here</a> to unsubscribe from all Computerworld alerts.</p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:10px 10px 0 10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															View Computerworld&#39;s online <a href="http://cwresources.computerworld.com/t/8881941/600614035/216627/26/" style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">privacy policy</a>.</p>
+
+													</td>
+												</tr>
+												<tr>
+													<td style="padding:10px">
+														<p style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#333333;margin:0">
+															Copyright 2014 | Computerworld | 492 Old Connecticut Path | Framingham MA 01701 | <a href="http://cwresources.computerworld.com/t/8881941/600614035/5443/27/" style="color:#004464;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:normal;line-height:18px" target="_blank">www.computerworld.com</a>.</p>
+
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	<img alt="" src="http://cwresources.computerworld.com/db/8881941/600614035/1.gif" width="1" height="1"></div>
+
+
+</div><br><br clear="all"><div><br></div>-- <br><div dir="ltr"><p><b><span style="font-size:8pt"><font color="#0b5394">Thanks &amp; Regards,</font></span></b></p><p><font>Ketan Jain<span></span><span></span></font></p></div>
+
+</div>

@@ -1,0 +1,332 @@
+ Delivered-To:rockexample123@gmail.com
+Received:by 10.140.47.194 with SMTP id m60csp5102qga;
+        Fri, 21 Mar 2014 00:55:34 -0700 (PDT)
+Return-Path:<jain.ketan2008@gmail.com>
+Received-SPF:pass (google.com: domain of jain.ketan2008@gmail.com designates 10.224.65.194 as permitted sender) client-ip=10.224.65.194
+Authentication-Results:mr.google.com;
+       spf=pass (google.com: domain of jain.ketan2008@gmail.com designates 10.224.65.194 as permitted sender) smtp.mail=jain.ketan2008@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received:from mr.google.com ([10.224.65.194])
+        by 10.224.65.194 with SMTP id k2mr10257561qai.59.1395388534535 (num_hops = 1);
+        Fri, 21 Mar 2014 00:55:34 -0700 (PDT)
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=XR8EKemtxMy/xSXtRxWIikXb7DVxVHZ0Vz+wNGz7vTU=;
+        b=uyRdkKUmYQCNBfbpoVvZS3Xjzdkq/7wS0ZUbREnVbez0FJg5cQ/JE8Uu3Ky3nymgwR
+         2XKGIcPgZKdN7DJJ7+nj40TbltWPIqj0yJv+ej9OmwoubJ85OzQh6BAJhpsT9DYyTG5z
+         dSJd1u3rkDxPpr0h7ipNZmNj7Dh8V2qCsORJImUk3TbxnoQlHNZcVzmFdLhxn1DMQjIw
+         RQP8qqmbxE5vJTUQX8X4jrKtLhyAlPR9/ePgy74lb7sWeBlofGmBW1DNiM6TuYBNTBRL
+         6f4aWkkV/hDIIq1HBEJalt0CgWCiHP/Abr5DLm0Pw/4zoNgDS/2pDWkSSAB6Bw99u7Y6
+         m3ow==
+MIME-Version:1.0
+X-Received:by 10.224.65.194 with SMTP id k2mr10257561qai.59.1395388534528;
+ Fri, 21 Mar 2014 00:55:34 -0700 (PDT)
+Received:by 10.140.18.132 with HTTP; Fri, 21 Mar 2014 00:55:34 -0700 (PDT)
+In-Reply-To:<144e0cf0b1a.6565.e9dcde@localhost.localdomain>
+References:<144e0cf0b1a.6565.e9dcde@localhost.localdomain>
+Date:Fri, 21 Mar 2014 13:25:34 +0530
+Message-ID:<CAO1uGr6nprwteo7Er-hgT8LqMto8o360heHRNTqqMGR5usBCmA@mail.gmail.com>
+Subject:Fwd: Udacity for iPad
+From:ketan jain <jain.ketan2008@gmail.com>
+To:rockexample123@gmail.com
+Content-Type:multipart/alternative; boundary=001a11c2d1c2ec9e0004f51935ef
+subject:Fwd: Udacity for iPad
+Bodycontent:Fri Mar 21 13:25:34 IST 2014
+content:javax.mail.internet.MimeMultipart@43c4e291
+---------- Forwarded message ----------
+From: Udacity <mobile-support@udacity.com>
+Date: Fri, Mar 21, 2014 at 12:17 AM
+Subject: Udacity for iPad
+To: jain.ketan2008@gmail.com
+
+
+      Announcing Udacity for iPad View email in
+browser<http://mailer.udacity.com/wf/click?upn=LDKitXatqn1lVLU2qOVmRAbFtE6Hp1SDM07bQhh-2BuL8WhipDqcZB7LVitN9hfAR35scABU6M7eWNYMK6d7WvMAs7lloOHY-2FfcPYrqQP0OS2yUSG93xCeF-2BNIOmLrTAD5vmPbpZba9tu7FIAoVr3QQ64MJyvGuiuuKSh0iYvQ3wI5MBVmum2qV0ptwFRqdIbjMqtJu8792fR3lTeb9OUzMxL8eP5ukEk-2BV6xW7EM278363hgy7jKTNAtSoiDRJEo7-2FsQJI3bxjVQ3F318wCBX3QSN-2F3XZKQbbKQ3rSDRVlNM-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65Wmfe6myekq-2FCE6CR-2FFqCfSvegTn0KfhOTN58ZvFPaMYVSZrr0FJcKrHlfk9rGvziZNOCNKq93NmUjDQ2ZcAOGkSZrWVoUH5JtTlZw1lT7Ogkmw7KY7UON00VxLniumgyES1sTd1d-2BFR2gZkwb-2B04kEsSQAiTZaRm-2BbVd-2B3XzoOvDqQEQgYKjxOCxG4hEkUccsx0P9m4LFKM0SSQ3oymM7zKeWEDQj50F5BJuCoKi3N4rIEbrmYvgUgZoVmDimXFKjkUxnI6nngX0XYKChDcuJUGA0cqMuWMwEqFDsNwKk4mJQxbctFoI1D-2BrXBvAcSE0TvHZS-2FSxgsBf1J-2BH4FNwmPjus-3D>
+      [image: Udacity]<http://mailer.udacity.com/wf/click?upn=gmJQQrAKvQFtEwVr-2BF-2BO3j7neuWixoyl6JoqH2jE3wEHTISGzBN7FO5IspIQGFapKGJbS9-2BA4gUl26I1mqR2R0c6OMDfFMu013Oiwf7E-2Fy01BhKELN2x4Mkj9qNUyKon_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfePDWvjQJ8VWK1hC94V3Vv5iA429-2FRwzX08IOBb-2FK-2Bwko5WM-2FUHjmUHSSLFmVwvPw3uimVkSIQtFEWnGCUwSfLfz-2Bj5l4RIz56fTNxbImx8rAwUY2GapPBFs-2FKebzQs68lKOrOyrQMlA0kkctHQvWLtdTqBFVwLYCfKb1ZXIAlE7gU1Jzpc3xweOm6pn2Z5J7AADdO-2B-2Bo2lqYQpXPASkYCr2WjQYu0jOA8riw0MXK7IGiwpalzCDnqF-2BJbVD9JE-2B2HyElECj5Sl4SWWj3qSxtq8VIZ5WnWR9YA0XR4BfoPttEQff-2BELKqO4YzvfqqmptrUtWwUjnCFqjsTvxKZkUwZ0-3D>
+Sign
+in<http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72HNlP0LY4JEoN1TALgaNwKjwk2njYCD2Si-2FCUVb0xcDAtRFfbZRNm29YQwvu6FmhcDy5R-2Blcl6qlyggBkA5FbyPYa5t8HbvBSV6jgknBM2lADgHwvnI6kh-2BbFtMRcvNYuA-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfZUGLDF1-2F76EZwE2YQ-2BMO6rjLhR7VtMmu0d7nXu-2F7Cv9Bp0S2G4-2FzM72-2BFGkO-2Fj-2BaaPAum0AChN2DZuB-2F4MhN-2BHhl4jj1cVx8TUJJVID6Cdz1N-2Fhx7HKx-2FJUvRPWiDg5BZUjbVEJJ3AU7zlaoQ0uqmhaNKWA3cjy1y-2BZ-2FdiM3rglqJFtiOiUj9zs-2B7AyT4dP3rY17ZV4ALppsTlBtpl5mQDidz34Gy1sQmNr54ctOqMYA1UnJFZS5P1EIhBBWI2TIjLjYc7JlkgKs-2BrKBx1RLj-2BxGI5R-2FCDHa-2ByQ9N7VqMLqdQmsnrurHvfG-2BG3WjRdMbYpZkPJyQ7pdGoFbjIq4zcg-3D>or
+Sign
+up<http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72HNlP0LY4JEoN1TALgaNwKjwk2njYCD2Si-2FCUVb0xcDAtRFfbZRNm29YQwvu6FmhcDy5R-2Blcl6qlyggBkA5FbyPYa5t8HbvBSV6jgknBM2lAb21cMgoUr6YNZ54QcPWfFw-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfWnevPt05wylVAKL8fYZc-2FSFajr6h-2FHeFmWx8Z1dXIKBTaLtDaKeGXpWAP3wKoM98lfySnXfRc-2Fck6Yuyw24Ksm7OUxRkpfy2v349y-2BOIUQMZrHE2J4fAtVJPrPZsOCVckc1dgU4LysbX7kECj4ZQHXbJ3oYQd8vTX9YvbLFJLEW2BHxyQXCC0IJzMZaQoE7bVp6cYN6x7ol6WfMBjRoHV-2FTuRIFswYvu-2BAIHM-2Fj-2FMC4KVqYmybOKWZ-2BqRYDYH6JDukEoi9YsfUucp-2FMX3WKtU7-2FiC02vFRtLzpwexoYBHrnvIjWOWxuRuVmOinbdFxVNjtB6mV-2B6ef1ryqyRs-2FssR4-3D>
+     *Udacity
+for iPad Now Available*
+    [image: Learn More About
+iPad]<http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72BlhiNHrL1OETJqQHoKM-2FiT8NQIbcCen5OymC-2FZgs2C3Erwg8tcx4-2FO4qeB-2B8O8qrn5K4AeOx64vPiigsS0WTuz85qZRxpcDBZ5KKPfku3jOIJaN1FTw11PEsyXxN77dvQ-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfV-2FUaUCNz-2BgRzgFJt3Ua92cNo5Auxa8pcl8zO-2B6J9lJdywPt15TQ3Ky7C-2BWq9zoYeb65Q5G4at8qWuXdwisowgpmKW-2B5n6XxDmuQ5xTTL70BvB5F1g2QViYjuZXTsFwuuAOYTv-2B51DV-2BJvyPvk0VK0Ojl-2F5i2ppPkJWus-2Ft-2Fh2cviN7Q8PzCOtPUXmfWXRwo7Gq9hCAMT4tvGoNXJD1Me4MTUjz4jQ-2B6YDrHYhMLeh-2BWGre0TK8uvAn61f24FxJIFsLGcxLWzUd-2Fu-2FxpseZJ3eLFt3xI7Z9PAsQ4mG3Hwddxri-2FbtRMTmyYy16-2FJKjsKXma9Npe-2Bi1WbWgCdFK-2BlVQ4-3D>
+      Sit Back and Learn Anywhere  Enjoy our courses at a coffee shop,
+during a commute, while travelling, or anywhere your Internet-connected
+iPad goes. Kick back on your couch and watch courses on your Apple TV via
+AirPlay. Start learning in our iPad app today!  [image: Download on the App
+Store]<http://mailer.udacity.com/wf/click?upn=HnkdQnYtL5GcRgXVpV7XAI3vI9GU0bSeJjQHD-2F2BJVw4zZD0H7ToEDrsSPT3TEO-2Fi5-2BaUnFhuAnehqQnseghvg-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfT3fXFTUuN0Koe7-2BRoFOpnu2ufbMLAicQ66K1SXJOSirXQfflvWof5WbgM3pySAo-2Fd6pwSGh04r4Jegc5WwJLyKpYOo5Aj4a-2FIm9w2F92uzU-2FsC-2FOdaqsGgScqBPYkdv40PaUW-2FMYwJAOswuN0CfgHo5-2F9EpAzpzSMb-2Fr1TWy9dH6phaagepoDV1XoJcW2HKgbhAdGuJfnSNt-2BK8-2FI4vrVDkMZlCrcDH9rVtmjpuH2mUpelWiU3hIENSZdwPJTggamwO6qcaCa-2FRg3-2BT-2FkQIYNBGxrdF3G04LOpcsnmY0G4urzzWeQseXd872Oc9uz7uUbxv4LOwUqG5ZQCA5c7S-2FPs-3D>
+          Explore Our
+Courses<http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72NHnaq5GfnRyVURD2Zvfzjiirc1d8kEPP2mmw-2BZSVJz-2Bm-2FNdEMWNW4-2FWlZZSb1T5hbGR54MUEexNMuoGpZ-2Bx34HLk-2F6-2F1jF7QwFSb13VtoKQ_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfSd5RbScucRVt2WYXUhYtiBDehNW5-2FRxATIFZomTeDGEpm75VO-2FcACGR9j21ZVkkwzML2MUkgGKTRgDE9cgDT2M0OmHrEDPx-2FMNbmWa9zRGVtaHcPEsxFT-2FHhzaSKvD0sMww0Cnc9USdr9KGppsJTS97AiJKaztNp0CN8PvY1-2FwDsMfyAJ-2FkoFc2LExDRvMqXTnBp9KivEDaSTHcdUF20Xp0KdPtAe7nEoIIRFXMoSBDqZ9mC06z-2FxfC7ebVK0DlaYj6Nfnl3An3B-2BLRxHUxynPXdDnrOVk2yG5SodUnKAjQwEXuP5RlZK3FwyOlXMGzYgRh-2FT06Q39Q9iM5cfT7ny0-3D>
+ Visit
+Our Blog<http://mailer.udacity.com/wf/click?upn=7K-2F61dGjasOuK5tx9xztIQDbZNxPRv8oG6cRvIO-2B45G8LfXtDEKScnscYRQpQuLxUn1twMBrRPmCNJS97gAgj-2BjrUIcNQeEN-2BOkbb8wMHVVnyRKo6ZQKi2pU6Yyz2HjD_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65Wmfa1jeWaWyMRwTFScvjZyj8MwF16L-2F5n1KvJD6PiwCvnt-2FnakGWEIqkFRQyYdWCnueuDOL8pk997t6Vsw3tipKrhp0aBrwprpdYTw1663HI7K2fjjtl3YpkPA0cjFNfjBBnOH4TE1eRppTMFBghUvydW-2FV-2BTxTuBxiWVlDmPNIegiUV-2FqGf5Ecm41yfaob-2F15ak1E46vyI-2BZGWXgF2MGODG-2BrNyRG5kVQclY-2F2lviK3MammTYH5yK2dVajTtYCvzV2DR-2FvXDCca5NEnZO8oVu3xTvOX20eZmmlMaGkm6qWrgJkyAfxI2tghmOs4q8z1hGX-2FbeZv3FPy2f8jgkUvjDcU4-3D>
+    Join our community    [image:
+facebook]<http://mailer.udacity.com/wf/click?upn=gmJQQrAKvQFtEwVr-2BF-2BO3hjvIDqYLbfT7B7fV23MIHlGWzGFT2r336SqxzJigenK_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfRzghHn31qa-2FHJgyNFpJAaoN-2B5q7WY5TlfgDYqUVTScvpcVHCf1zpzfRqs-2B8zST5bBWlhWhVVpCFQ5lHSWBwCnH9A7sab0bCuU-2BLU2rBEgK9Jfqilt0-2BYcHUYRafQP4iOSygKGbH70UIsHE0SHGpGSBbiaAyqQwwa-2Bdpo5o3Ae05fVyCbaKqmudO6LS9ur5CxSh-2B-2Bsm8xriEwvVTmSEYFVU6TCh6b0pI0xKm-2BBSLH2KUpu3UB8eyPQHOFy-2F5IpbnDHJPZqZPyLwUresRKxppZv-2BDZdDeZnsdmHFdR3AZcZad5w8bgzkB3-2BA1g3MQ2R7619VzXyUXpcslHbCJGetBdcg-3D>
+  [image: G+]<http://mailer.udacity.com/wf/click?upn=PSxRa1Io7ndZdJAAeuIwmOJJ09lfN1769XkZmqX-2Bk9PwmhSX-2BsqwdXn6xi-2BuIJCc_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfbCLqOYvTyU1dV1gOsdDOYjDSwbEL6-2BaMCgDLd4jOpMPdOUQ7seDsZzOdsZAbbwiaCl1vpNDPTOwYwPkAe5-2FfAlFZq8-2FMtyWGEo-2FAGikJM4AATP4V9MHVdG3ssIg1fNyaNMmxkCqZUPYh20NLD5fkkD7LDFfNlAc-2FVVo6G6wWO-2FAPZ2uXRCnaX1GPUfcihYvkKAFRqnmqd28pYVIlBglNI1pmAgW08HL3NLcwwUU7feWLQVk0JPUrBs8jnUrO13gX-2BfLXwMM92BJS-2BJQFAFksWDrfVoPzgDATnkIF-2F0gXi-2Bh4kHAdOzekcRUAJqYUuf6E5jBPIAbUNUnsnQQ4nHxIXk-3D>
+  [image: twitter]<http://mailer.udacity.com/wf/click?upn=U2TTcdclIjca5RQ2dot-2FwKyj-2Bpwtm9-2F9iePUfZa6PZxJ8CYoP0Y0i-2Fzu8gMZhLW4_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfU5A6A76lSqNHgjS0dmI89CG15hNigdVIntzI1MVmVsOEkCDy6jOjeIXKEjApx-2FvSJnnStSP2v4D3sP2B3-2FWNTY7B-2BGMs3fKvc699Q5gAxzFvVn42pE5qdPYns2foVN6j09S-2FKd3W5bH-2BXrGJqHCFGa1WX-2BLSqpouBPiptAZEpT6L23uYkAV-2Bs8l86QOg8HnsSPkKD1do4KYFNFeXVuoryyxCIkpRIhUoUEqy9jwTG1tq-2BlX0RHjquK5bXm2fcU1-2F88vYiYw3w1jXo6uht12dXSY55j4HM8Ay00Rdh5eSdyDvrXI5zbBHqUW-2BnO0-2FlXyLaMB3savoEDwU5aFPbgr2bY-3D>
+  [image: LinkedIn]<http://mailer.udacity.com/wf/click?upn=gmJQQrAKvQFtEwVr-2BF-2BO3ofAnqXkE-2BBRYZMqFsCeMohsrhpeUmRL2uOo3FP8Rjsq_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65Wmfee1n7SbO8Sm-2FUNdFLP07MscIo5hxevz4Nlcx6l7ucriY5D8U4NphNzXLHray-2FxVubufJczjaoFC8kj1MDJw-2BQXxclED4dUtGGF-2F7Pa-2FrOCoQP3-2BGhqqB2P2FA2zw9wk0aDjRJKKteeNKwgQyUGyf0gFncVQ-2FtyH7-2FerzF7lSAb8efGs7Aj-2B8m6n-2BP4m0lz6evVqrMCd9yv-2FLohnPnuTWXJUOKI0ZrickvXPftRCEsZkz1vHcbUKrYshp39mx2jVml-2BLwMaPLtpmMQHTgM8h3-2F-2BLwmL-2BC5YKVQMW7qwOCF3EXwSbkdeE1oYQnilHLJAP51HB3NEYGg0yD2x2IFenkpQ-3D>
+     You're receiving this email because you're a Udacity student.
+Unsubscribe from all Udacity
+email<http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72HNlP0LY4JEoN1TALgaNwKiawNAY57tzKkUL3fwjW2Zal7mtHHiEgoRNg2BcTmp7rN7sEx6d-2BpKwvgTUFmGBUUTC5ipYLkExUhDOeSVaHqAZ_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfUQH-2FaJZ8m2zZnAFiD-2FWD6G1vVCetwSjrgdZLSK57Q2-2FqHDXx-2F6x08gU-2FV0H56psAfCRDP49L1JmTkA6r7LTG4Dr41fv82PX0t2fIRHcEl9wQnuAO4Vp8rnQ-2FA25eatN-2FNT8ZXpjckD2HfjKbRWXUOAnGF2grghQYSu7w-2FKTC67RKPvUZe6p4tCMHNq23EW548Q4sQ4bET1ZBOsU6PGk2TpncVqff418NhcmhB4PyDZQLaCmmC0QyK6s1fWC7FOjxilnx3ln0Z07zapCYtP-2Bywab-2BnjNHQP2YLLZC6tBs1fLFfW-2BKijnqoG2f0XHUoMSkDgP57P13Tl79bz8xznMPpo-3D>
+
+Udacity
+2465 Latham St., Mountain View, CA 94040
+
+
+
+-- 
+
+*Thanks & Regards,*
+
+Ketan Jain
+<div dir="ltr"><br><br><div class="gmail_quote">---------- Forwarded message ----------<br>From: <b class="gmail_sendername">Udacity</b> <span dir="ltr">&lt;<a href="mailto:mobile-support@udacity.com">mobile-support@udacity.com</a>&gt;</span><br>
+Date: Fri, Mar 21, 2014 at 12:17 AM<br>Subject: Udacity for iPad<br>To: <a href="mailto:jain.ketan2008@gmail.com">jain.ketan2008@gmail.com</a><br><br><br><table cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;background:#ffffff;min-width:620px;table-layout:fixed">
+<tbody><tr><td align="center" style="padding-right:10px;padding-top:10px;padding-bottom:10px;padding-left:10px"><div style="line-height:150%;margin-right:auto;font-size:12px;width:auto;margin-left:auto;margin-bottom:0;font-family:Arial;margin-top:0">
+<table style="width:100%;border-collapse:separate;table-layout:fixed" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><table width="600" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed;width:600px;background:#ffffff">
+<tbody><tr><td><table cellpadding="0" cellspacing="0" style="width:600px;border-collapse:collapse;table-layout:fixed"><tbody><tr><td width="100%" style="vertical-align:top"><div><table style="width:100%;border-collapse:separate;table-layout:fixed" cellspacing="0" cellpadding="0">
+<tbody><tr><td style="background:#ffffff"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed"><tbody><tr><td style="vertical-align:middle;padding-top:10px;padding-bottom:10px;padding-left:0;padding-right:0">
+<div style="word-wrap:break-word;line-height:140%;text-align:left"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" cellpadding="0" cellspacing="0" width="600">
+					<tbody>
+						<tr>
+							<td style="padding:0px 30px">
+								<table cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td style="font:11px/12px Arial,Helvetica,sans-serif;color:#4e4e4e">
+												Announcing Udacity for iPad</td>
+											<td align="right" style="font:11px/12px Arial,Helvetica,sans-serif;color:#4e4e4e">
+												<a href="http://mailer.udacity.com/wf/click?upn=LDKitXatqn1lVLU2qOVmRAbFtE6Hp1SDM07bQhh-2BuL8WhipDqcZB7LVitN9hfAR35scABU6M7eWNYMK6d7WvMAs7lloOHY-2FfcPYrqQP0OS2yUSG93xCeF-2BNIOmLrTAD5vmPbpZba9tu7FIAoVr3QQ64MJyvGuiuuKSh0iYvQ3wI5MBVmum2qV0ptwFRqdIbjMqtJu8792fR3lTeb9OUzMxL8eP5ukEk-2BV6xW7EM278363hgy7jKTNAtSoiDRJEo7-2FsQJI3bxjVQ3F318wCBX3QSN-2F3XZKQbbKQ3rSDRVlNM-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65Wmfe6myekq-2FCE6CR-2FFqCfSvegTn0KfhOTN58ZvFPaMYVSZrr0FJcKrHlfk9rGvziZNOCNKq93NmUjDQ2ZcAOGkSZrWVoUH5JtTlZw1lT7Ogkmw7KY7UON00VxLniumgyES1sTd1d-2BFR2gZkwb-2B04kEsSQAiTZaRm-2BbVd-2B3XzoOvDqQEQgYKjxOCxG4hEkUccsx0P9m4LFKM0SSQ3oymM7zKeWEDQj50F5BJuCoKi3N4rIEbrmYvgUgZoVmDimXFKjkUxnI6nngX0XYKChDcuJUGA0cqMuWMwEqFDsNwKk4mJQxbctFoI1D-2BrXBvAcSE0TvHZS-2FSxgsBf1J-2BH4FNwmPjus-3D" style="color:#4e4e4e" target="_blank">View email in browser</a></td>
+
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table style="border-collapse:separate;border-spacing:0px;table-layout:fixed" cellpadding="5" cellspacing="5"><tbody><tr><td></td></tr></tbody></table>
+<table style="width:100%;border-collapse:separate;table-layout:fixed" cellspacing="0" cellpadding="0"><tbody><tr><td style="background:#ffffff"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed">
+<tbody><tr><td style="vertical-align:top"><div style="word-wrap:break-word;line-height:140%;text-align:left"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" cellpadding="0" cellspacing="0" width="600">
+					<tbody>
+						<tr>
+							<td bgcolor="#354b59" style="padding:12px 30px 12px">
+								<table cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td style="line-height:0">
+												<a href="http://mailer.udacity.com/wf/click?upn=gmJQQrAKvQFtEwVr-2BF-2BO3j7neuWixoyl6JoqH2jE3wEHTISGzBN7FO5IspIQGFapKGJbS9-2BA4gUl26I1mqR2R0c6OMDfFMu013Oiwf7E-2Fy01BhKELN2x4Mkj9qNUyKon_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfePDWvjQJ8VWK1hC94V3Vv5iA429-2FRwzX08IOBb-2FK-2Bwko5WM-2FUHjmUHSSLFmVwvPw3uimVkSIQtFEWnGCUwSfLfz-2Bj5l4RIz56fTNxbImx8rAwUY2GapPBFs-2FKebzQs68lKOrOyrQMlA0kkctHQvWLtdTqBFVwLYCfKb1ZXIAlE7gU1Jzpc3xweOm6pn2Z5J7AADdO-2B-2Bo2lqYQpXPASkYCr2WjQYu0jOA8riw0MXK7IGiwpalzCDnqF-2BJbVD9JE-2B2HyElECj5Sl4SWWj3qSxtq8VIZ5WnWR9YA0XR4BfoPttEQff-2BELKqO4YzvfqqmptrUtWwUjnCFqjsTvxKZkUwZ0-3D" target="_blank"><img align="left" alt="Udacity" border="0" height="16" hspace="0" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_7e062812ac18e96b687dd31d6d123541/c0fde7fd155016c558da547bb69fefdd" vspace="0" width="97"></a></td>
+
+											<td align="right" style="font:11px/12px Arial,Helvetica,sans-serif;color:#fff">
+												<a href="http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72HNlP0LY4JEoN1TALgaNwKjwk2njYCD2Si-2FCUVb0xcDAtRFfbZRNm29YQwvu6FmhcDy5R-2Blcl6qlyggBkA5FbyPYa5t8HbvBSV6jgknBM2lADgHwvnI6kh-2BbFtMRcvNYuA-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfZUGLDF1-2F76EZwE2YQ-2BMO6rjLhR7VtMmu0d7nXu-2F7Cv9Bp0S2G4-2FzM72-2BFGkO-2Fj-2BaaPAum0AChN2DZuB-2F4MhN-2BHhl4jj1cVx8TUJJVID6Cdz1N-2Fhx7HKx-2FJUvRPWiDg5BZUjbVEJJ3AU7zlaoQ0uqmhaNKWA3cjy1y-2BZ-2FdiM3rglqJFtiOiUj9zs-2B7AyT4dP3rY17ZV4ALppsTlBtpl5mQDidz34Gy1sQmNr54ctOqMYA1UnJFZS5P1EIhBBWI2TIjLjYc7JlkgKs-2BrKBx1RLj-2BxGI5R-2FCDHa-2ByQ9N7VqMLqdQmsnrurHvfG-2BG3WjRdMbYpZkPJyQ7pdGoFbjIq4zcg-3D" style="color:#fff" target="_blank">Sign in</a> or <a href="http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72HNlP0LY4JEoN1TALgaNwKjwk2njYCD2Si-2FCUVb0xcDAtRFfbZRNm29YQwvu6FmhcDy5R-2Blcl6qlyggBkA5FbyPYa5t8HbvBSV6jgknBM2lAb21cMgoUr6YNZ54QcPWfFw-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfWnevPt05wylVAKL8fYZc-2FSFajr6h-2FHeFmWx8Z1dXIKBTaLtDaKeGXpWAP3wKoM98lfySnXfRc-2Fck6Yuyw24Ksm7OUxRkpfy2v349y-2BOIUQMZrHE2J4fAtVJPrPZsOCVckc1dgU4LysbX7kECj4ZQHXbJ3oYQd8vTX9YvbLFJLEW2BHxyQXCC0IJzMZaQoE7bVp6cYN6x7ol6WfMBjRoHV-2FTuRIFswYvu-2BAIHM-2Fj-2FMC4KVqYmybOKWZ-2BqRYDYH6JDukEoi9YsfUucp-2FMX3WKtU7-2FiC02vFRtLzpwexoYBHrnvIjWOWxuRuVmOinbdFxVNjtB6mV-2B6ef1ryqyRs-2FssR4-3D" style="color:#fff" target="_blank">Sign up</a></td>
+
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<img alt="" height="86" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_c70dbde054c769a68842f7934ce492fc/8e6b729c30ecfbdfbdaefb6e4a4d5e3e" style="vertical-align:top" width="600"></td>
+						</tr>
+						<tr>
+							<td bgcolor="#f3f3f3" style="font-style:normal;font-variant:normal;font-weight:normal;font-size:22px;line-height:27px;font-family:Arial,Helvetica,sans-serif;color:rgb(30,100,119);padding:24px 30px;text-align:center">
+
+								<strong>Udacity for iPad Now Available</strong></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table style="border-collapse:separate;border-spacing:0px;table-layout:fixed" cellpadding="5" cellspacing="5"><tbody><tr><td></td></tr></tbody></table>
+<table style="width:100%;border-collapse:separate;table-layout:fixed" cellspacing="0" cellpadding="0"><tbody><tr><td style="background:#ffffff"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed">
+<tbody><tr><td style="vertical-align:top"><div style="word-wrap:break-word;line-height:140%;text-align:left"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="margin:0;padding:0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" cellpadding="0" cellspacing="0" width="600">
+					<tbody>
+						<tr>
+							<td>
+								<a href="http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72BlhiNHrL1OETJqQHoKM-2FiT8NQIbcCen5OymC-2FZgs2C3Erwg8tcx4-2FO4qeB-2B8O8qrn5K4AeOx64vPiigsS0WTuz85qZRxpcDBZ5KKPfku3jOIJaN1FTw11PEsyXxN77dvQ-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfV-2FUaUCNz-2BgRzgFJt3Ua92cNo5Auxa8pcl8zO-2B6J9lJdywPt15TQ3Ky7C-2BWq9zoYeb65Q5G4at8qWuXdwisowgpmKW-2B5n6XxDmuQ5xTTL70BvB5F1g2QViYjuZXTsFwuuAOYTv-2B51DV-2BJvyPvk0VK0Ojl-2F5i2ppPkJWus-2Ft-2Fh2cviN7Q8PzCOtPUXmfWXRwo7Gq9hCAMT4tvGoNXJD1Me4MTUjz4jQ-2B6YDrHYhMLeh-2BWGre0TK8uvAn61f24FxJIFsLGcxLWzUd-2Fu-2FxpseZJ3eLFt3xI7Z9PAsQ4mG3Hwddxri-2FbtRMTmyYy16-2FJKjsKXma9Npe-2Bi1WbWgCdFK-2BlVQ4-3D" target="_blank"><img alt="Learn More About iPad" border="�?0″/" height="383" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_49335f01041febcaf053a6e6c46d6e4b/3f6f4bdf9bc5d4d92ea2274433f789e9" style="vertical-align:top" width="600"></a></td>
+
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table style="border-collapse:separate;border-spacing:0px;table-layout:fixed" cellpadding="5" cellspacing="5"><tbody><tr><td></td></tr></tbody></table>
+<table style="width:100%;border-collapse:separate;table-layout:fixed" cellspacing="0" cellpadding="0"><tbody><tr><td style="background:#ffffff"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed">
+<tbody><tr><td style="vertical-align:top"><div style="word-wrap:break-word;line-height:140%;text-align:left"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" cellpadding="0" cellspacing="0" width="600">
+					<tbody>
+						<tr>
+							<td style="padding:16px 30px 0">
+								<table cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td bgcolor="#ffffff" style="font-style:normal;font-variant:normal;font-weight:normal;font-size:22px;line-height:27px;font-family:Arial,Helvetica,sans-serif;color:rgb(30,100,119);padding-bottom:8px;padding-top:5px">
+
+												Sit Back and Learn Anywhere</td>
+										</tr>
+										<tr>
+											<td style="font-style:normal;font-variant:normal;font-weight:normal;font-size:15px;line-height:21px;font-family:Arial,Helvetica,sans-serif;color:rgb(54,54,54);padding:0px 0px 16px">
+												Enjoy our courses at a coffee shop, during a commute, while travelling, or anywhere your Internet-connected iPad goes. Kick back on your couch and watch courses on your Apple TV via AirPlay. Start learning in our iPad app today!</td>
+
+										</tr>
+										<tr>
+											<td style="padding:0px">
+												<a href="http://mailer.udacity.com/wf/click?upn=HnkdQnYtL5GcRgXVpV7XAI3vI9GU0bSeJjQHD-2F2BJVw4zZD0H7ToEDrsSPT3TEO-2Fi5-2BaUnFhuAnehqQnseghvg-3D-3D_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfT3fXFTUuN0Koe7-2BRoFOpnu2ufbMLAicQ66K1SXJOSirXQfflvWof5WbgM3pySAo-2Fd6pwSGh04r4Jegc5WwJLyKpYOo5Aj4a-2FIm9w2F92uzU-2FsC-2FOdaqsGgScqBPYkdv40PaUW-2FMYwJAOswuN0CfgHo5-2F9EpAzpzSMb-2Fr1TWy9dH6phaagepoDV1XoJcW2HKgbhAdGuJfnSNt-2BK8-2FI4vrVDkMZlCrcDH9rVtmjpuH2mUpelWiU3hIENSZdwPJTggamwO6qcaCa-2FRg3-2BT-2FkQIYNBGxrdF3G04LOpcsnmY0G4urzzWeQseXd872Oc9uz7uUbxv4LOwUqG5ZQCA5c7S-2FPs-3D" target="_blank"><img alt="Download on the App Store" border="0" height="50" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_7e062812ac18e96b687dd31d6d123541/564b62c5a9f11bf9b522133b72692e0c" style="vertical-align:top" width="165"></a></td>
+
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></td></tr></tbody></table></td></tr></tbody></table></div><div><table style="border-collapse:separate;border-spacing:0px;table-layout:fixed" cellpadding="5" cellspacing="5"><tbody><tr><td></td></tr></tbody></table>
+<table style="width:100%;border-collapse:separate;table-layout:fixed" cellspacing="0" cellpadding="0"><tbody><tr><td style="background:#ffffff"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed">
+<tbody><tr><td style="vertical-align:middle;font-size:11px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><div style="word-wrap:break-word;line-height:140%;text-align:left"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="100%">
+
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" cellpadding="0" cellspacing="0" width="600">
+					<tbody>
+						<tr>
+							<td>
+								<img alt="" height="91" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_cefcdc52c8744dcf0e55cf02d282f38d/5554d043425804cdb3c7c60cb64c5915" style="vertical-align:top" width="600"></td>
+						</tr>
+						<tr>
+							<td bgcolor="#f5f5f5" style="padding:12px 30px 17px">
+								<table cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td valign="top" width="275">
+												<table cellpadding="0" cellspacing="0" width="275">
+													<tbody>
+														<tr>
+															<td style="font:11px/11px Arial,Helvetica,sans-serif;color:#4e4e4e;padding:0 0 10px">
+																Explore <a href="http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72NHnaq5GfnRyVURD2Zvfzjiirc1d8kEPP2mmw-2BZSVJz-2Bm-2FNdEMWNW4-2FWlZZSb1T5hbGR54MUEexNMuoGpZ-2Bx34HLk-2F6-2F1jF7QwFSb13VtoKQ_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfSd5RbScucRVt2WYXUhYtiBDehNW5-2FRxATIFZomTeDGEpm75VO-2FcACGR9j21ZVkkwzML2MUkgGKTRgDE9cgDT2M0OmHrEDPx-2FMNbmWa9zRGVtaHcPEsxFT-2FHhzaSKvD0sMww0Cnc9USdr9KGppsJTS97AiJKaztNp0CN8PvY1-2FwDsMfyAJ-2FkoFc2LExDRvMqXTnBp9KivEDaSTHcdUF20Xp0KdPtAe7nEoIIRFXMoSBDqZ9mC06z-2FxfC7ebVK0DlaYj6Nfnl3An3B-2BLRxHUxynPXdDnrOVk2yG5SodUnKAjQwEXuP5RlZK3FwyOlXMGzYgRh-2FT06Q39Q9iM5cfT7ny0-3D" style="color:#1192bf;text-decoration:none" target="_blank">Our Courses</a></td>
+
+														</tr>
+														<tr>
+															<td style="font:11px/11px Arial,Helvetica,sans-serif;color:#4e4e4e">
+																Visit <a href="http://mailer.udacity.com/wf/click?upn=7K-2F61dGjasOuK5tx9xztIQDbZNxPRv8oG6cRvIO-2B45G8LfXtDEKScnscYRQpQuLxUn1twMBrRPmCNJS97gAgj-2BjrUIcNQeEN-2BOkbb8wMHVVnyRKo6ZQKi2pU6Yyz2HjD_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65Wmfa1jeWaWyMRwTFScvjZyj8MwF16L-2F5n1KvJD6PiwCvnt-2FnakGWEIqkFRQyYdWCnueuDOL8pk997t6Vsw3tipKrhp0aBrwprpdYTw1663HI7K2fjjtl3YpkPA0cjFNfjBBnOH4TE1eRppTMFBghUvydW-2FV-2BTxTuBxiWVlDmPNIegiUV-2FqGf5Ecm41yfaob-2F15ak1E46vyI-2BZGWXgF2MGODG-2BrNyRG5kVQclY-2F2lviK3MammTYH5yK2dVajTtYCvzV2DR-2FvXDCca5NEnZO8oVu3xTvOX20eZmmlMaGkm6qWrgJkyAfxI2tghmOs4q8z1hGX-2FbeZv3FPy2f8jgkUvjDcU4-3D" style="color:#1192bf;text-decoration:none" target="_blank">Our Blog</a></td>
+
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td width="10">
+												 </td>
+											<td valign="top" width="255">
+												<table cellpadding="0" cellspacing="0" width="255">
+													<tbody>
+														<tr>
+															<td style="font:11px/11px Arial,Helvetica,sans-serif;color:#4e4e4e;padding:0 0 9px">
+																Join our community</td>
+														</tr>
+														<tr>
+															<td>
+																<table cellpadding="0" cellspacing="0">
+																	<tbody>
+																		<tr>
+																			<td width="31">
+																				<a href="http://mailer.udacity.com/wf/click?upn=gmJQQrAKvQFtEwVr-2BF-2BO3hjvIDqYLbfT7B7fV23MIHlGWzGFT2r336SqxzJigenK_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfRzghHn31qa-2FHJgyNFpJAaoN-2B5q7WY5TlfgDYqUVTScvpcVHCf1zpzfRqs-2B8zST5bBWlhWhVVpCFQ5lHSWBwCnH9A7sab0bCuU-2BLU2rBEgK9Jfqilt0-2BYcHUYRafQP4iOSygKGbH70UIsHE0SHGpGSBbiaAyqQwwa-2Bdpo5o3Ae05fVyCbaKqmudO6LS9ur5CxSh-2B-2Bsm8xriEwvVTmSEYFVU6TCh6b0pI0xKm-2BBSLH2KUpu3UB8eyPQHOFy-2F5IpbnDHJPZqZPyLwUresRKxppZv-2BDZdDeZnsdmHFdR3AZcZad5w8bgzkB3-2BA1g3MQ2R7619VzXyUXpcslHbCJGetBdcg-3D" target="_blank"><img alt="facebook" border="0" height="31" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_cefcdc52c8744dcf0e55cf02d282f38d/325669c9f3cce5f78ee97fa207d6f8b1" style="vertical-align:top" width="31"></a></td>
+
+																			<td width="9">
+																				 </td>
+																			<td width="31">
+																				<a href="http://mailer.udacity.com/wf/click?upn=PSxRa1Io7ndZdJAAeuIwmOJJ09lfN1769XkZmqX-2Bk9PwmhSX-2BsqwdXn6xi-2BuIJCc_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfbCLqOYvTyU1dV1gOsdDOYjDSwbEL6-2BaMCgDLd4jOpMPdOUQ7seDsZzOdsZAbbwiaCl1vpNDPTOwYwPkAe5-2FfAlFZq8-2FMtyWGEo-2FAGikJM4AATP4V9MHVdG3ssIg1fNyaNMmxkCqZUPYh20NLD5fkkD7LDFfNlAc-2FVVo6G6wWO-2FAPZ2uXRCnaX1GPUfcihYvkKAFRqnmqd28pYVIlBglNI1pmAgW08HL3NLcwwUU7feWLQVk0JPUrBs8jnUrO13gX-2BfLXwMM92BJS-2BJQFAFksWDrfVoPzgDATnkIF-2F0gXi-2Bh4kHAdOzekcRUAJqYUuf6E5jBPIAbUNUnsnQQ4nHxIXk-3D" target="_blank"><img alt="G+" border="0" height="31" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_cefcdc52c8744dcf0e55cf02d282f38d/378ab264ced6617b599a044656cb7a73" style="vertical-align:top" width="31"></a></td>
+
+																			<td width="9">
+																				 </td>
+																			<td width="31">
+																				<a href="http://mailer.udacity.com/wf/click?upn=U2TTcdclIjca5RQ2dot-2FwKyj-2Bpwtm9-2F9iePUfZa6PZxJ8CYoP0Y0i-2Fzu8gMZhLW4_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfU5A6A76lSqNHgjS0dmI89CG15hNigdVIntzI1MVmVsOEkCDy6jOjeIXKEjApx-2FvSJnnStSP2v4D3sP2B3-2FWNTY7B-2BGMs3fKvc699Q5gAxzFvVn42pE5qdPYns2foVN6j09S-2FKd3W5bH-2BXrGJqHCFGa1WX-2BLSqpouBPiptAZEpT6L23uYkAV-2Bs8l86QOg8HnsSPkKD1do4KYFNFeXVuoryyxCIkpRIhUoUEqy9jwTG1tq-2BlX0RHjquK5bXm2fcU1-2F88vYiYw3w1jXo6uht12dXSY55j4HM8Ay00Rdh5eSdyDvrXI5zbBHqUW-2BnO0-2FlXyLaMB3savoEDwU5aFPbgr2bY-3D" target="_blank"><img alt="twitter" border="0" height="31" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_cefcdc52c8744dcf0e55cf02d282f38d/a69cfb5c9b304fdc50a5f3eab9b046f3" style="vertical-align:top" width="31"></a></td>
+
+																			<td width="9">
+																				 </td>
+																			<td width="31">
+																				<a href="http://mailer.udacity.com/wf/click?upn=gmJQQrAKvQFtEwVr-2BF-2BO3ofAnqXkE-2BBRYZMqFsCeMohsrhpeUmRL2uOo3FP8Rjsq_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65Wmfee1n7SbO8Sm-2FUNdFLP07MscIo5hxevz4Nlcx6l7ucriY5D8U4NphNzXLHray-2FxVubufJczjaoFC8kj1MDJw-2BQXxclED4dUtGGF-2F7Pa-2FrOCoQP3-2BGhqqB2P2FA2zw9wk0aDjRJKKteeNKwgQyUGyf0gFncVQ-2FtyH7-2FerzF7lSAb8efGs7Aj-2B8m6n-2BP4m0lz6evVqrMCd9yv-2FLohnPnuTWXJUOKI0ZrickvXPftRCEsZkz1vHcbUKrYshp39mx2jVml-2BLwMaPLtpmMQHTgM8h3-2F-2BLwmL-2BC5YKVQMW7qwOCF3EXwSbkdeE1oYQnilHLJAP51HB3NEYGg0yD2x2IFenkpQ-3D" target="_blank"><img alt="LinkedIn" border="0" height="31" src="http://static.sendgrid.com/uploads/UID_594946_NL_2524477_cefcdc52c8744dcf0e55cf02d282f38d/3543e4a11fa7f7fef6ed7a205a67fdb3" style="vertical-align:top" width="31"></a></td>
+
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></td><td style="vertical-align:middle;font-size:11px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><div style="word-wrap:break-word;line-height:140%;text-align:left"></div></td></tr></tbody></table>
+</td></tr></tbody></table></div><div><table style="border-collapse:separate;border-spacing:0px;table-layout:fixed" cellpadding="5" cellspacing="5"><tbody><tr><td></td></tr></tbody></table><table style="width:100%;border-collapse:separate;table-layout:fixed;background:#ffffff" cellspacing="15" cellpadding="0">
+<tbody><tr><td style="background:#ffffff"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed"><tbody><tr><td style="vertical-align:top"><div style="word-wrap:break-word;line-height:140%;text-align:left">
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" cellpadding="0" cellspacing="0" width="600">
+				</table>
+				<table cellpadding="0" cellspacing="0" width="100%">
+					<tbody>
+						<tr>
+							<td style="font:11px/13px Arial,Helvetica,sans-serif;color:#4e4e4e;padding:0 0 19px">
+								You&#39;re receiving this email because you&#39;re a Udacity student.<br>
+								<a href="http://mailer.udacity.com/wf/click?upn=2RL1KjfO9zPBjFPLhnA72HNlP0LY4JEoN1TALgaNwKiawNAY57tzKkUL3fwjW2Zal7mtHHiEgoRNg2BcTmp7rN7sEx6d-2BpKwvgTUFmGBUUTC5ipYLkExUhDOeSVaHqAZ_nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfUQH-2FaJZ8m2zZnAFiD-2FWD6G1vVCetwSjrgdZLSK57Q2-2FqHDXx-2F6x08gU-2FV0H56psAfCRDP49L1JmTkA6r7LTG4Dr41fv82PX0t2fIRHcEl9wQnuAO4Vp8rnQ-2FA25eatN-2FNT8ZXpjckD2HfjKbRWXUOAnGF2grghQYSu7w-2FKTC67RKPvUZe6p4tCMHNq23EW548Q4sQ4bET1ZBOsU6PGk2TpncVqff418NhcmhB4PyDZQLaCmmC0QyK6s1fWC7FOjxilnx3ln0Z07zapCYtP-2Bywab-2BnjNHQP2YLLZC6tBs1fLFfW-2BKijnqoG2f0XHUoMSkDgP57P13Tl79bz8xznMPpo-3D" style="color:#4e4e4e" target="_blank">Unsubscribe from all Udacity email</a><br>
+
+								<br>
+								Udacity<br>
+								2465 Latham St., Mountain View, CA 94040</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></td></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></table><img src="http://mailer.udacity.com/wf/open?upn=nGPeHZDj4iQT-2BsappYtwH9POnDXbzQLtej6rtLUF46aIIHQK3LEB23OREIV4CIZDPKv1-2FH8pCu87Z7qm65WmfaWhyVLAWTSf6EcDvRPBKdNziOgLd4pbBC58dfGmvQIR0DX1bihh-2B4L9BsyCUOYKiARvJ8IpmAFc0u6dsYJunRIBOwFFembej3h-2FSghnhmpbQV52HhzU6qsg-2Ft2fINGe5BMEGP6Hz8rnnmUI9j85MRQ2nFA-2BF4AKPug7yA2RRl9-2Fr8UxM4IWltGgnFcpSsVCLxpObB-2FFjclc-2BnVNf6XD2wmF0YlDKfckwSqPIcMO4NcEmk5dCVsNC-2BLkY6bv9DlYt1OIrug2HzQWcQFOzaRsqFXN0Guh2iXRq9Ns-2B1KciKnUq2SBEpLrAYrEzSBhVUrQ8BDw1WwYj3ph0zaN5YmdsvI-3D" alt="" width="1" height="1" border="0" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important">
+</div><br><br clear="all"><div><br></div>-- <br><div dir="ltr"><p><b><span style="font-size:8pt"><font color="#0b5394">Thanks &amp; Regards,</font></span></b></p><p><font>Ketan Jain<span></span><span></span></font></p></div>
+
+</div>

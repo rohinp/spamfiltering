@@ -1,0 +1,762 @@
+Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp203859lbb;
+        Mon, 24 Mar 2014 07:39:25 -0700 (PDT)
+X-Received:by 10.140.47.20 with SMTP id l20mr72910746qga.9.1395671964635;
+        Mon, 24 Mar 2014 07:39:24 -0700 (PDT)
+Return-Path:<bounce-8884709-1325103054@cwonline.computerworld.com>
+Received:from cwonline.computerworld.com (cwonline.computerworld.com. [66.186.114.169])
+        by mx.google.com with SMTP id s39si8643342qgs.84.2014.03.24.07.39.23
+        for <rockexample123@gmail.com>;
+        Mon, 24 Mar 2014 07:39:24 -0700 (PDT)
+Received-SPF:pass (google.com: domain of bounce-8884709-1325103054@cwonline.computerworld.com designates 66.186.114.169 as permitted sender) client-ip=66.186.114.169;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of bounce-8884709-1325103054@cwonline.computerworld.com designates 66.186.114.169 as permitted sender) smtp.mail=bounce-8884709-1325103054@cwonline.computerworld.com;
+       dkim=pass header.i=@cwonline.computerworld.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=34969;
+ d=cwonline.computerworld.com;s=2008;
+ h=from;
+ bh=hR64y91Ld6sJ3eZiMUx/J6AKhZP/4us/tbhI1UD1W54=;
+ b=LtrkswkvtqAVLBNkNN11iyHO2zCsU+oQgU9ORUJrGgzrBMsPmM6QJuWZhKpTFs19Z+WVBNin
+ sC1DOSq5srWEYhR+Cbc2gXoc1Jc/sNuv7tmVEz4GrB1VqicWgnOSUMxXUIBpK5s0suDo2jwB
+ 2Lpg7mWCaXOr1kZYoheRm0ZUTG8=;
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws; s=2008; d=cwonline.computerworld.com;
+ h=from;
+ b=VNRUkE/jPez6xZvy6iE/V7CY7InZSB/sQYz65qaTu6xYy+l1cAeU2hzj1a+Lk96ta+P/JjyK Q/MUKmz7HF58wkowSaYiAS70ZSy6cAVBSGpEkjK0m2muUbKiN4I6r5o0g4mFQAFv5pL/oxVL
+ PR2RFVUPTwS0dcL4cO9js4xOhUA=
+From:"Computerworld Enterprise Apps" <computerworld_newsletters@cwonline.computerworld.com>
+To:rockexample123@gmail.com
+Subject:OneNote vs. Evernote: A personal take
+Date:Mon, 24 Mar 2014 10:37:22 -0400
+MIME-Version:1.0
+Content-Type:multipart/alternative;
+	boundary="MIMEBoundary2ddc398d7e14a2e6b07d117d50b09926"
+List-Unsubscribe:<mailto:leave-8884709-1325103054.55339a55ec93dfe2704baf17f34c0d02@cwonline.computerworld.com>
+Message-ID:<LYRIS-1325103054-8884709-2014.03.24-10.37.28--rockexample123#gmail.com@cwonline.computerworld.com>
+X-campaignid:idg8884709
+Bodycontent:Mon Mar 24 20:07:22 IST 2014
+Content:javax.mail.internet.MimeMultipart@6ca221b0
+Computerworld Enterprise Apps: March 24, 2014
+===============================================================
+
+OneNote vs. Evernote: A personal take on two great note-taking apps
+
+Now that Microsoft has made OneNote free for consumers, can it compete with the
+well-known Evernote? Preston Gralla offers his take on both.
+http://cwonline.computerworld.com/t/8884709/1325103054/662940/17/
+
+~~~~~~~~~~~~~~~~~~~WHITE PAPER: BlackBerry~~~~~~~~~~~~~~~~~~~~~
+
+Best Practices in BYOD: BlackBerry Enterprise Service 10
+
+Manageability, security and support – these are just a few of the reasons
+BlackBerry® Enterprise Service 10 is such a powerful Enterprise Mobility
+Management (EMM) solution.
+
+http://cwonline.computerworld.com/t/8884709/1325103054/662941/18/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=cb27999f
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+IN THIS ISSUE
+
+1. Firefox's UI face-lift on track for April debut
+http://cwonline.computerworld.com/t/8884709/1325103054/662942/19/
+
+2. Report rips state officials, Oracle over Oregon's troubled healthcare site
+http://cwonline.computerworld.com/t/8884709/1325103054/662943/20/
+
+3. Encrypted email service Virtru adds Office 365 compatibility
+http://cwonline.computerworld.com/t/8884709/1325103054/662944/21/
+
+4. Ex-Mozilla engineer blames Microsoft's rules for Metro Firefox's death
+http://cwonline.computerworld.com/t/8884709/1325103054/662945/28/
+
+5. Tip of the Hat: Java 8: A step ahead, or just keeping pace?
+http://cwonline.computerworld.com/t/8884709/1325103054/662946/29/
+
+6. Don't Let CRM Data Make MIS Into Misinformation
+http://cwonline.computerworld.com/t/8884709/1325103054/662947/30/
+
+7. Red Hat adds Nginx and MongoDB to Software Collections update
+http://cwonline.computerworld.com/t/8884709/1325103054/662948/31/
+
+8. Richi Jennings: Allegations of email pilfering fly at major Internet companies
+http://cwonline.computerworld.com/t/8884709/1325103054/662949/32/
+
+ 
+~~~~~~~~~~~~~~~~~~~WHITE PAPER: CA Technologies~~~~~~~~~~~~~~~~~~~~~
+
+Streamline Testing to Forge Real Savings
+
+Discover the value provided by the CA Application Quality and Testing Tools, a
+comprehensive, integrated suite that offers a streamlined, lower-cost approach
+to performing application quality and testing.
+
+http://cwonline.computerworld.com/t/8884709/1325103054/662950/33/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=4ff8104b
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+Firefox's UI face-lift on track for April debut
+
+Mozilla is on track to debut the new "Australis" user interface for Firefox next
+month after promoting the UI to its beta build last week.
+http://cwonline.computerworld.com/t/8884709/1325103054/662942/34/
+ 
+Report rips state officials, Oracle over Oregon's troubled healthcare site
+
+A newly released, independent audit of Oregon's disastrous Obamacare website
+implementation takes both state officials and site contractor Oracle to task,
+saying each side contributed to problems that have generated a political
+firestorm in recent months.
+http://cwonline.computerworld.com/t/8884709/1325103054/662943/35/
+ 
+Encrypted email service Virtru adds Office 365 compatibility
+
+Virtru has added Microsoft's Office 365 and Outlook Desktop services to its list
+of compatible email platforms for its encryption product.
+http://cwonline.computerworld.com/t/8884709/1325103054/662944/36/
+ 
+Ex-Mozilla engineer blames Microsoft's rules for Metro Firefox's death
+
+A former Mozilla engineer who worked on the "Metro" version of Firefox says that
+poor adoption of Windows 8's radical user interface wasn't behind the decision
+to shelve the browser.
+http://cwonline.computerworld.com/t/8884709/1325103054/662945/37/
+ 
+~~~~~~~~~~~~~~~~~~~WHITE PAPER: CDW~~~~~~~~~~~~~~~~~~~~~
+
+5 Pillars of Total Mobility Management
+
+Today's mobility environment moves quickly and presents challenges to everyone
+from IT to key stakeholders to the C-suite. How do you wrap your head around
+these mobility challenges?
+
+http://cwonline.computerworld.com/t/8884709/1325103054/662951/38/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=30fa2eb9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+Tip of the Hat: Java 8: A step ahead, or just keeping pace?
+
+Observers are split on whether the latest Java version gives the software a new
+edge or simply lets it keep up with other top programming languages.
+http://cwonline.computerworld.com/t/8884709/1325103054/662946/39/
+ 
+Don't Let CRM Data Make MIS Into Misinformation
+
+Even if you have high-quality customer relationship management data, there's a
+hidden monster that can gobble up management information system credibility.
+It's time to reign in user-generated CRM reports.
+http://cwonline.computerworld.com/t/8884709/1325103054/662947/40/
+ 
+Red Hat adds Nginx and MongoDB to Software Collections update
+
+The next version of Red Hat's Software Collections package includes Apache httpd
+and Nginx Web servers, Ruby 2.0, and NoSQL database MongoDB.
+http://cwonline.computerworld.com/t/8884709/1325103054/662948/41/
+ 
+Richi Jennings: Allegations of email pilfering fly at major Internet companies
+
+
+	Email: Everyone reads it.
+
+Email. Bloggers everywhere are checking it, along with the terms of service
+agreements of the companies providing it. News that Microsoft (NASDAQ:MS)
+riffled through an inbox to catch an alleged intellectual property thief has
+prompted a flurry of bloggy finger-pointing and I-told-you-so's...
+
+	In IT Blogwatch, bloggers find local Internet providers.
+http://cwonline.computerworld.com/t/8884709/1325103054/662949/42/
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+FREE SHARK TANK T-SHIRT
+
+Clueless Consultants? Bungling Bosses? Useless Users? Tell me your tale. If it
+gets published, you get a sharp Shark shirt.
+
+Submissions 
+mailto:sharky@computerworld.com
+
+Shark Tank FAQ  
+http://cwonline.computerworld.com/t/8884709/1325103054/641183/43/
+
+ 
+DIGITAL SPOTLIGHT: THE CONSUMERIZATION OF TECHNOLOGY
+ 
+In our in-depth report, we chronicle how Android is exploding in the enterprise,
+document how mobile device management is morphing to meet new demands, reflect
+on the ways Google has developed into a surprisingly powerful ecosystem for end
+users, and share observations on BYOD's role in spawning a new army of empowered
+workers. This free, 28-page magazine-style report is available now.
+[Registration required]
+
+To read the report, click here:
+http://cwonline.computerworld.com/t/8884709/1325103054/643300/44/
+ 
+KEEP UP WITH THE LATEST NEWS ON CONSUMERIZATION
+
+Our weekly Consumerization of IT newsletter covers a wide range of mobile
+hardware, mobile apps, enterprise apps and IT trends related to consumerization.
+We cover BYOD, smartphones, tablets, MDM, cloud, social and how consumerization
+affects IT. Stay up to date with news, reviews and in-depth coverage.
+
+Subscribe now:
+
+http://cwonline.computerworld.com/t/8884709/1325103054/604375/45/
+
+ 
+JOIN THE COMPUTERWORLD CONVERSATION ON GOOGLE +
+ 
+Be sure to add Computerworld to your Google+ circles to keep track of breaking
+news, features, blogs, tech reviews and career advice.
+ 
+http://cwonline.computerworld.com/t/8884709/1325103054/598565/46/
+ 
+CAST YOUR VOTE IN THIS WEEK'S QUICKPOLL
+
+As wearable computers begin to monitor our activity and health even more, they
+will essentially act as a sixth sense. What is the first wearable computer you
+will buy?
+
+http://cwonline.computerworld.com/t/8884709/1325103054/659292/47/
+ 
+NEW COMPUTERWORLD JOB BOARD
+______________________________
+
+Search multiple listings now and get new job alerts as they are posted.
+
+http://cwonline.computerworld.com/t/8884709/1325103054/156832/48/
+
+
+Get more IT peer perspective online: 
+
+LinkedIn Group: http://cwonline.computerworld.com/t/8884709/1325103054/311619/49/
+
+Facebook: http://cwonline.computerworld.com/t/8884709/1325103054/311620/50/
+
+Twitter: http://cwonline.computerworld.com/t/8884709/1325103054/311621/51/ 
+
+===============================================================
+
+CONTACTS/SUBSCRIPTIONS
+
+You are currently subscribed to computerworld_enterprise_apps as: rockexample123@gmail.com.
+
+To unsubscribe from this newsletter, go to:
+http://cwonline.computerworld.com/t/8884709/1325103054/131135/52/?90482085=aHR0cDovL2N3b25saW5lLmNvbXB1dGVyd29ybGQuY29tL3U%2faWQ9MTMyNTEwMzA1NC41NTMzOWE1NWVjOTNkZmUyNzA0YmFmMTdmMzRjMGQwMiZuPVQmbD1jb21wdXRlcndvcmxkX2VudGVycHJpc2VfYXBwcyZvPTg4ODQ3MDk%3d&x=f234e7f9
+
+To manage your subscription preferences, go to: 
+http://cwonline.computerworld.com/t/8884709/1325103054/72510/53/
+
+To subscribe to a newsletter, go to:
+http://cwonline.computerworld.com/t/8884709/1325103054/231613/54/
+
+Computerworld's online privacy policy is at:
+http://cwonline.computerworld.com/t/8884709/1325103054/72509/55/
+
+If you are interested in advertising in this newsletter, please contact: bglynn@cxo.com
+
+To contact Computerworld, please send an e-mail to online@computerworld.com.
+
+Copyright (C) 2014 Computerworld, 492 Old Connecticut Path, Framingham MA 01701
+
+** Please do not reply to this message. If you want to contact someone directly, 
+send an e-mail to online@computerworld.com **
+
+<!-- Begin Universal Header -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>Computerworld Enterprise Apps - Newsletter - computerworld.com</title>
+<meta http-equiv="content-type: text/html; charset= ISO-8859-1">
+<meta name="keywords" content="computerworld, Computerworld Enterprise Apps, newsletter">
+<meta name="description" content="">
+</head>
+
+<body bgcolor="#ffffff" topmargin="5" marginheight="5" leftmargin="5" marginwidth="5">
+<!-- Start Main table -->
+<table border="0" align="center" cellpadding="0" cellspacing="0" marginwidth="5">
+	<tr valign="top">
+    <td width="8"> </td>
+    <td colspan="8">
+    	 
+		<font size="2" face="Arial, Verdana, Helvetica"><a href="http://cwonline.computerworld.com/t/8884709/1325103054/662942/8/" style="font-size: 12px;" target="_blank">Firefox's UI face-lift on track for April debut</a></font>
+  		<font size="2" face="Arial, Verdana, Helvetica"> |</font>
+  		
+  		 
+ 		<font size="2" face="Arial, Verdana, Helvetica"><a href="http://cwonline.computerworld.com/t/8884709/1325103054/662943/9/" style="font-size: 12px;" target="_blank">Report rips state officials, Oracle over Oregon's troubled healthcare site</a></font>
+        
+        <br><br>
+     </td></tr>
+	
+    <!-- Start header row -->
+    <tr valign="bottom">
+      <td width="8"> </td>
+      <td colspan="4">
+        <font face="Arial, Verdana, Helvetica" size="+3">
+        <strong style="font-family: Arial, Verdana, Helvetica; font-size: 30px;">Computerworld Enterprise Apps</strong></font></td>
+        
+      <td>
+      <p align="right">
+     <font size="2" face="Arial, Verdana, Helvetica">
+    <a href="http://cwonline.computerworld.com/t/8884709/1325103054/237524/10/?e5e2987d=ODg4NDcwOQ%3d%3d&0fc84754=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=606657b6" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">Forward this to a Friend &gt;&gt;&gt;</a></font></p>							
+    </td></tr>
+	
+  <!-- End header row -->
+
+<!-- End Universal Header -->
+<!-- Begin Universal Body -->
+
+<!-- Start Main Body row -->
+    <tr bgcolor="#ffffff">
+      <td width="8"><img src="http://computerworld.com.edgesuite.net/images/sp.gif" width="8" height="1" border="0" alt="" /></td>
+      <td valign="top" colspan="8" padding="5">
+      	<hr color="#aaaaaa" style="color: #aaaaaa;">
+      
+        <!-- Start Lead story -->
+          <p style="padding-top: 10px;">
+        <font size="+1" face="Arial, Verdana, Helvetica">
+        
+        
+
+        
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662940/11/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;"><strong>OneNote vs. Evernote: A personal take on two great note-taking apps</strong></a>
+        </font><br>
+        
+          
+          
+        <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+          Now that Microsoft has made OneNote free for consumers, can it compete with the well-known Evernote? Preston Gralla offers his take on both.
+          </span>
+        </font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662940/12/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a>
+        </font><br>
+          </p>
+          <!-- End Lead story -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+      
+
+        <!-- Start Sponsor 1 -->
+        <font size="1" face="Arial, Verdana, Helvetica">
+        <strong>WHITE PAPER: BlackBerry</strong></font>      
+        <br><br>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662941/13/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=cc606c7a" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Best Practices in BYOD: BlackBerry Enterprise Service 10</strong>
+          </a></font>
+        <br>   
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        Manageability, security and support – these are just a few of the reasons BlackBerry® Enterprise Service 10 is such a powerful Enterprise Mobility Management (EMM) solution.
+        </span>
+        </font>        
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662941/14/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=12e33bc7" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+          <strong>Learn More</strong>
+          </a></font>
+          <!-- End Sponsor 1 -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+        
+
+      <!-- Start Story list -->
+      
+      	<div style="margin-left: 10px;">
+        <font face="Arial, Verdana, Helvetica">
+        <p style="font-size: 15px;">
+        <strong>In this Issue</strong>
+        </p></font>
+         <font face="Arial, Verdana, Helvetica" size="3">
+          <ul style="line-height: 1.5;">
+            <!-- Start TOC Items -->
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662942/15/" style="font-size: 16px;" target="_blank">Firefox's UI face-lift on track for April debut</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662943/16/" style="font-size: 16px;" target="_blank">Report rips state officials, Oracle over Oregon's troubled healthcare site</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662944/22/" style="font-size: 16px;" target="_blank">Encrypted email service Virtru adds Office 365 compatibility</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662945/23/" style="font-size: 16px;" target="_blank">Ex-Mozilla engineer blames Microsoft's rules for Metro Firefox's death</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662946/24/" style="font-size: 16px;" target="_blank">Tip of the Hat: Java 8: A step ahead, or just keeping pace?</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662947/25/" style="font-size: 16px;" target="_blank">Don&#39;t Let CRM Data Make MIS Into Misinformation</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662948/26/" style="font-size: 16px;" target="_blank">Red Hat adds Nginx and MongoDB to Software Collections update</a></li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662949/27/" style="font-size: 16px;" target="_blank">Richi Jennings: Allegations of email pilfering fly at major Internet companies</a></li>
+                
+            <!-- End TOC Items -->
+          </ul>       
+         </font>
+         </div>
+        
+        <!-- End Story list -->
+        
+        
+        <!-- Start Other Resources -->
+      
+        <!-- End Other Resources -->
+        
+
+
+        
+    
+    	<hr color="#aaaaaa" style="color: #aaaaaa;">
+    
+        <!-- Start Sponsor --> 
+        <font size="1" face="Arial, Verdana, Helvetica"><strong>WHITE PAPER: CA Technologies</strong></font>
+        <br><br>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662950/71/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=8a4d35ec" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Streamline Testing to Forge Real Savings</strong>
+        </a></font>
+        <br>       
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        Discover the value provided by the CA Application Quality and Testing Tools, a comprehensive, integrated suite that offers a streamlined, lower-cost approach to performing application quality and testing.
+        </span>
+        </font>
+        
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662950/72/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=4f01093c" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        <strong>Learn more>></strong>
+        </a></font>
+          <!-- End Sponsor -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+    
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662942/73/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Firefox's UI face-lift on track for April debut</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            Mozilla is on track to debut the new "Australis" user interface for Firefox next month after promoting the UI to its beta build last week.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662942/74/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662943/75/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Report rips state officials, Oracle over Oregon's troubled healthcare site</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            A newly released, independent audit of Oregon's disastrous Obamacare website implementation takes both state officials and site contractor Oracle to task, saying each side contributed to problems that have generated a political firestorm in recent months.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662943/76/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662944/77/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Encrypted email service Virtru adds Office 365 compatibility</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            Virtru has added Microsoft's Office 365 and Outlook Desktop services to its list of compatible email platforms for its encryption product.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662944/78/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662945/79/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Ex-Mozilla engineer blames Microsoft's rules for Metro Firefox's death</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            A former Mozilla engineer who worked on the "Metro" version of Firefox says that poor adoption of Windows 8's radical user interface wasn't behind the decision to shelve the browser.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662945/80/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+        
+
+    
+    	<hr color="#aaaaaa" style="color: #aaaaaa;">
+    
+        <!-- Start Sponsor --> 
+        <font size="1" face="Arial, Verdana, Helvetica"><strong>WHITE PAPER: CDW</strong></font>
+        <br><br>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662951/81/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=70002c9c" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>5 Pillars of Total Mobility Management</strong>
+        </a></font>
+        <br>       
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        Today's mobility environment moves quickly and presents challenges to everyone from IT to key stakeholders to the C-suite. How do you wrap your head around these mobility challenges?
+        </span>
+        </font>
+        
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662951/82/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=68c92d31" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        <strong>View Now</strong>
+        </a></font>
+          <!-- End Sponsor -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+    
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662946/83/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Tip of the Hat: Java 8: A step ahead, or just keeping pace?</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            Observers are split on whether the latest Java version gives the software a new edge or simply lets it keep up with other top programming languages.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662946/84/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662947/85/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Don&#39;t Let CRM Data Make MIS Into Misinformation</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            Even if you have high-quality customer relationship management data, there's a hidden monster that can gobble up management information system credibility. It's time to reign in user-generated CRM reports.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662947/86/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662948/87/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Red Hat adds Nginx and MongoDB to Software Collections update</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            The next version of Red Hat's Software Collections package includes Apache httpd and Nginx Web servers, Ruby 2.0, and NoSQL database MongoDB.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662948/88/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+
+          
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662949/89/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Richi Jennings: Allegations of email pilfering fly at major Internet companies</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            
+	Email: Everyone reads it.
+
+	Email. Bloggers everywhere are checking it, along with the terms of service agreements of the companies providing it. News that Microsoft (NASDAQ:MS) riffled through an inbox to catch an alleged intellectual property thief has prompted a flurry of bloggy finger-pointing and I-told-you-so's...
+
+	In IT Blogwatch, bloggers find local Internet providers.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/662949/90/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+        
+
+ 
+
+        </td>
+      <td width="11" bgcolor="#ffffff"><img src="http://computerworld.com.edgesuite.net/images/sp.gif" width="8" height="1" border="0" alt="" /></td>
+    </tr>
+    
+<tr>
+
+      <td width="8"> </td>
+      <td colspan="8" valign="top"><br>
+
+     <p><a href="mailto:sharky@computerworld.com" target="_blank"><strong>FREE SHARK TANK T-SHIRT</strong></a><br/>
+Clueless Consultants? Bungling Bosses? Useless Users? Tell me your tale. If it gets published, you get a sharp Shark shirt.  <a href="http://cwonline.computerworld.com/t/8884709/1325103054/641183/91/"><i>Shark Tank FAQ</i></a>
+
+</p>
+
+     <p><a href="http://cwonline.computerworld.com/t/8884709/1325103054/643300/92/" target="_blank"><strong>DIGITAL SPOTLIGHT: THE CONSUMERIZATION OF TECHNOLOGY</strong></a><br/>
+</p><p>
+In our in-depth report, we chronicle how Android is exploding in the enterprise, document how mobile device management is morphing to meet new demands, reflect on the ways Google has developed into a surprisingly powerful ecosystem for end users, and share observations on BYOD's role in spawning a new army of empowered workers.  
+</p><p>
+This free, 28-page magazine-style report is available now. [Registration required]
+</p><p>
+To read the report, <a href="http://cwonline.computerworld.com/t/8884709/1325103054/643300/93/">click here</a>. 
+</p>
+
+     <p><a href="http://cwonline.computerworld.com/t/8884709/1325103054/604375/94/" target="_blank"><strong>KEEP UP WITH THE LATEST NEWS ON CONSUMERIZATION</strong></a><br/>
+Our weekly Consumerization of IT newsletter covers a wide range of mobile hardware, mobile apps, enterprise apps and IT trends related to consumerization. We cover BYOD, smartphones, tablets, MDM, cloud, social and how consumerization affects IT. Stay up to date with news, reviews and in-depth coverage.
+
+     <p><strong><a href=" 
+http://plus.google.com/+computerworld/posts">JOIN THE COMPUTERWORLD CONVERSATION ON GOOGLE +</a></strong><br/>
+Be sure to add Computerworld to your Google+ circles to keep track of breaking news, features, blogs, tech reviews and career advice.</p>
+
+     <p><a href="http://cwonline.computerworld.com/t/8884709/1325103054/659292/95/" target="_blank"><strong>CAST YOUR VOTE IN THIS WEEK'S QUICKPOLL</strong></a><br/>
+As wearable computers begin to monitor our activity and health even more, they will essentially act as a sixth sense. What is the first wearable computer you will buy?</p>
+     <font size="2" face="arial, verdana, helvetica">
+<p style="font-size: 12px;"><strong>NEW COMPUTERWORLD JOB BOARD</strong><br>
+<a href="http://cwonline.computerworld.com/t/8884709/1325103054/156832/96/" target="_blank">Search multiple listings</a> now and get new job alerts as they are posted.</p>
+</font>
+    
+    
+	<br>
+      </td>
+</tr>
+<!-- End Universal Body -->
+<!-- Begin Universal Footer -->
+
+<!-- Start Boiler Plate row -->
+    <tr>
+      <td width="8"> </td>
+      <td colspan="8" valign="top">
+          <!-- Start Twitter link -->
+        <font size="2" face="arial, verdana, helvetica">
+        <p style="font-size: 12px;"><b>Get more IT peer perspective online: </b><br>
+             <a href="http://cwonline.computerworld.com/t/8884709/1325103054/311619/97/">LinkedIn Group</a> | <a href="http://cwonline.computerworld.com/t/8884709/1325103054/311620/98/">Facebook</a> | <a href="http://cwonline.computerworld.com/t/8884709/1325103054/311621/99/">Twitter</a>
+        </p></font>
+          
+          <font face="arial, verdana, helvetica" size="1">
+          <p style="font-size: 12px;">
+          You are currently subscribed to computerworld_enterprise_apps as <strong>rockexample123@gmail.com</strong>.
+          </p></font>
+          
+          <font face="arial, verdana, helvetica" size="1">
+          <p style="font-size: 12px;">
+          <a href="http://cwonline.computerworld.com/t/8884709/1325103054/131135/100/?90482085=aHR0cDovL2N3b25saW5lLmNvbXB1dGVyd29ybGQuY29tL3U%2faWQ9MTMyNTEwMzA1NC41NTMzOWE1NWVjOTNkZmUyNzA0YmFmMTdmMzRjMGQwMiZuPVQmbD1jb21wdXRlcndvcmxkX2VudGVycHJpc2VfYXBwcyZvPTg4ODQ3MDk%3d&x=beebbfd7" target="_blank">Unsubscribe from this newsletter</a> | <a href="http://cwonline.computerworld.com/t/8884709/1325103054/72510/101/" target="_blank">Manage your subscriptions</a> | <a href="http://cwonline.computerworld.com/t/8884709/1325103054/231613/102/" target="_blank">Subscribe</a> | <a href="http://cwonline.computerworld.com/t/8884709/1325103054/72509/103/" target="_blank">Privacy Policy</a>
+          <br><br>
+          If you are interested in advertising in this newsletter, please contact: <a href="mailto:bglynn@cxo.com">bglynn@cxo.com</a>
+            </p>
+            
+            <p style="font-size: 12px;">
+            To contact Computerworld, please send an e-mail to <a href="mailto:online@computerworld.com">online@computerworld.com</a>.
+            </p>
+            </font>
+            
+            <font face="arial, verdana, helvetica" size="1">
+      <p style="font-size: 12px;">Copyright (C) 2014  <a href="http://cwonline.computerworld.com/t/8884709/1325103054/5443/104/" target="_blank">Computerworld</a>, 492 Old Connecticut Path, Framingham, MA 01701</p></font>
+       
+       <font face="arial, verdana, helvetica" size="1">
+       <p style="font-size: 12px;">** Please do not reply to this message. If you want to contact someone directly, send an e-mail to <a href="mailto:online@computerworld.com">online@computerworld.com</a>. **</p></font>
+    </td>
+      <td width="11" align="right"> </td>
+  
+    <!-- End Boiler Plate row -->
+    </tr>
+</table>
+<br>
+<!-- End Main table -->
+<IMG ALT="" SRC="http://cwonline.computerworld.com/db/8884709/1325103054/1.gif" WIDTH=1 HEIGHT=1>
+<p>&nbsp;</p>
+</BODY>
+</html>
+
+<!-- End Universal Footer -->

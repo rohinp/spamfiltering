@@ -1,0 +1,491 @@
+ Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp12915lbb;
+        Fri, 21 Mar 2014 05:02:23 -0700 (PDT)
+X-Received:by 10.140.91.228 with SMTP id z91mr53962969qgd.32.1395403342743;
+        Fri, 21 Mar 2014 05:02:22 -0700 (PDT)
+Return-Path:<bounce-9487842-1542219989@ifwnewsletters.newsletters.infoworld.com>
+Received:from ifwnewsletters.newsletters.infoworld.com (ifwnewsletters.newsletters.infoworld.com. [66.186.127.223])
+        by mx.google.com with SMTP id z6si2023205qai.270.2014.03.21.05.02.21
+        for <rockexample123@gmail.com>;
+        Fri, 21 Mar 2014 05:02:22 -0700 (PDT)
+Received-SPF:pass (google.com: domain of bounce-9487842-1542219989@ifwnewsletters.newsletters.infoworld.com designates 66.186.127.223 as permitted sender) client-ip=66.186.127.223;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of bounce-9487842-1542219989@ifwnewsletters.newsletters.infoworld.com designates 66.186.127.223 as permitted sender) smtp.mail=bounce-9487842-1542219989@ifwnewsletters.newsletters.infoworld.com;
+       dkim=policy (weak key) header.i=@ifwnewsletters.newsletters.infoworld.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt; l=22690;
+ d=ifwnewsletters.newsletters.infoworld.com;s=2008;
+ h=from;
+ bh=ZOpjLUGu6D3Zm45Q04BueUW4FRG1pD1TxD468sq1CQg=;
+ b=cR3xKsp3siLIkDoggas7uPGV64qp3KCt8+3xzqj023OZJ2G9P2couQMMpAf/RNkpZU/oNaxv
+ +QMvRKwhJdv7tA==;
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws; s=2008; d=ifwnewsletters.newsletters.infoworld.com;
+ h=from;
+ b=eQ/X8Iv7iM7/hqEFftoIqcsCuKoAplk2aobOKIJ8S2Yt/w26dQMVShN895aNY4BOM0DHhvDb mgkm+SdGpuzT/w==
+From:"InfoWorld Technology: Applications" <newsletters@ifwnewsletters.newsletters.infoworld.com>
+To:rockexample123@gmail.com
+Subject:Docker does a GitHub and starts charging for extra features
+Date:Fri, 21 Mar 2014 07:59:00 -0400
+MIME-Version:1.0
+Content-Type:multipart/alternative;
+	boundary="MIMEBoundaryc467796364b42fb21c5ed0a1eea94a0e"
+List-Unsubscribe:<mailto:leave-9487842-1542219989.a13bbdac3c3e4f375a1c3c57ee113cdd@ifwnewsletters.newsletters.infoworld.com>
+Message-ID:<LYRIS-1542219989-9487842-2014.03.21-08.00.06--rockexample123#gmail.com@ifwnewsletters.newsletters.infoworld.com>
+X-campaignid:idg9487842
+subject:Docker does a GitHub and starts charging for extra features
+Bodycontent:Fri Mar 21 17:29:00 IST 2014
+content:javax.mail.internet.MimeMultipart@3376dad5
+  InfoWorld Technology: Applications: March 20, 2014
+===============================================================
+
+Docker does a GitHub and starts charging for extra features
+
+Hot on the heels of a slew of recent Docker developments -- Red Hat offering
+certification for Docker apps, third-party distribution solutions like Deis
+popping up -- Docker itself has an announcement: It's starting to offer features
+only available to paying customers.
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782024/17/
+
+~~~~~~~~~~~~~~~~~~~WEBCAST: Good Technology~~~~~~~~~~~~~~~~~~~~~
+
+Webcast: Is MDM Dead?
+
+To deliver a productive user experience without sacrificing privacy and control
+in today’s digital enterprise, IT needs to secure mobile data – not just manage
+the device. Hear how customers are increasing both security and productivity
+while delivering the business experience users expect.
+
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782025/18/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=f65d9e9f
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+IN THIS ISSUE
+
+1. 7 things you may not know about Microsoft Office
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782026/19/
+
+2. Microsoft launches free OneNote for Mac -- with some pieces missing
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782027/20/
+
+3. Metro Firefox was doomed from the get-go
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782028/21/
+
+4. Stupid user tricks: The most embarrassing flubs yet
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782029/29/
+
+ 
+~~~~~~~~~~~~~~~~~~~WHITE PAPER: Accellion~~~~~~~~~~~~~~~~~~~~~
+
+BYOD File Sharing – Go Private Cloud to Mitigate Data Risks
+
+Read this whitepaper to learn:
+- The security risks associated with not having an IT endorsed file sharing
+solution
+- Why your organization should be rethinking public-cloud file sharing
+- The benefits of adopting a private cloud solution for file sharing
+
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782030/30/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=72d1c663
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+7 things you may not know about Microsoft Office
+
+Microsoft is making its suite more social, more integrated with both home-grown
+and acquired Microsoft technologies, more analytical, and more cloud-friendly.
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782026/31/
+ 
+Microsoft launches free OneNote for Mac -- with some pieces missing
+
+The free versions will be missing a few features, though; there is no support
+for SharePoint and no integration with Outlook. However, the free version has no
+time limits or restrictions on file types, and it doesn't annoy users with ads.
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782027/32/
+ 
+Metro Firefox was doomed from the get-go
+
+Despite the fact that Mozilla had released a new beta version of Metro Firefox
+just a week earlier, Mozilla is pulling the plug on the entire product. The
+cited cause: lack of customer interest in Metro Firefox.
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782028/33/
+ 
+Stupid user tricks: The most embarrassing flubs yet
+
+From conference call mishaps to misdirected sexy texts, these compromising tales
+will make you grateful they didn't happen to you.
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782029/34/
+
+
+===============================================================
+ 
+DAILY NEWS, DELIVERED TO YOUR INBOX FIRST THING
+
+Start your workday with Today's Headlines: First Look, and find out
+what the tech world will be talking about all day.  Subscribe today:
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/322662/35/
+
+
+Do You Tweet?
+
+Follow everything from InfoWorld.com on Twitter @infoworld.
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/253580/36/
+
+===============================================================
+
+CONTACTS/SUBSCRIPTIONS
+
+You are currently subscribed to infoworld_app_rpt as rockexample123@gmail.com.
+
+To unsubscribe from "infoworld_app_rpt" please click here:
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/131135/37/?90482085=aHR0cDovL2lmd25ld3NsZXR0ZXJzLm5ld3NsZXR0ZXJzLmluZm93b3JsZC5jb20vdT9pZD0xNTQyMjE5OTg5LmExM2JiZGFjM2MzZTRmMzc1YTFjM2M1N2VlMTEzY2RkJm49VCZsPWluZm93b3JsZF9hcHBfcnB0Jm89OTQ4Nzg0Mg%3d%3d&x=ddd94dad
+
+To manage your subscription preferences, go to:
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/181231/38/ 
+
+To subscribe to a newsletter, go to:
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/515230/39/
+
+To view InfoWorld's privacy policy, visit:
+http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/183270/40/
+
+If you are interested in advertising in this newsletter, please 
+contact: sean_weglage@infoworld.com
+
+To contact InfoWorld, please send an e-mail to online@infoworld.com.
+
+Copyright (C) 2014 InfoWorld Media Group, 501 Second St., San Francisco, CA 94107
+
+** Please do not reply to this message. If you want to contact someone directly, 
+send an e-mail to online@infoworld.com **
+
+
+<!-- Begin Universal Header -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>InfoWorld Technology: Applications - Newsletter - infoworld.com</title>
+<meta http-equiv="content-type: text/html; charset= ISO-8859-1">
+<meta name="keywords" content="infoworld, InfoWorld Technology: Applications, newsletter">
+<meta name="description" content="">
+</head>
+
+<body bgcolor="#ffffff" topmargin="5" marginheight="5" leftmargin="5" marginwidth="5">
+<!-- Start Main table -->
+<table border="0" align="center" cellpadding="0" cellspacing="0" marginwidth="5">
+	<tr valign="top">
+    <td width="8"> </td>
+    <td colspan="8">
+    	 
+		<font size="2" face="Arial, Verdana, Helvetica"><a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782026/8/" style="font-size: 12px;" target="_blank">7 things you may not know about Microsoft Office</a></font>
+  		<font size="2" face="Arial, Verdana, Helvetica"> |</font>
+  		
+  		 
+ 		<font size="2" face="Arial, Verdana, Helvetica"><a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782027/9/" style="font-size: 12px;" target="_blank">Microsoft launches free OneNote for Mac -- with some pieces missing</a></font>
+        
+        <br><br>
+     </td></tr>
+	
+    <!-- Start header row -->
+    <tr valign="bottom">
+      <td width="8"> </td>
+      <td colspan="4">
+        <font face="Arial, Verdana, Helvetica" size="+3">
+        <strong style="font-family: Arial, Verdana, Helvetica; font-size: 30px;">InfoWorld Technology: Applications</strong></font></td>
+        
+      <td>
+      <p align="right">
+     <font size="2" face="Arial, Verdana, Helvetica">
+    <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/232843/10/?e5e2987d=OTQ4Nzg0Mg%3d%3d&0fc84754=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=c7cc5e66" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">Forward this to a Friend &gt;&gt;&gt;</a></font></p>							
+    </td></tr>
+	
+  <!-- End header row -->
+
+<!-- End Universal Header -->
+<!-- Begin Universal Body -->
+
+<!-- Start Main Body row -->
+    <tr bgcolor="#ffffff">
+      <td width="8"><img src="http://computerworld.com.edgesuite.net/images/sp.gif" width="8" height="1" border="0" alt="" /></td>
+      <td valign="top" colspan="8" padding="5">
+      	<hr color="#aaaaaa" style="color: #aaaaaa;">
+      
+        <!-- Start Lead story -->
+          <p style="padding-top: 10px;">
+        <font size="+1" face="Arial, Verdana, Helvetica">
+        
+        
+        
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782024/11/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;"><strong>Docker does a GitHub and starts charging for extra features</strong></a>
+        </font><br>
+        
+          
+          
+        <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+          Hot on the heels of a slew of recent Docker developments -- Red Hat offering certification for Docker apps, third-party distribution solutions like Deis popping up -- Docker itself has an announcement: It's starting to offer features only available to paying customers.
+          </span>
+        </font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782024/12/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a>
+        </font><br>
+          </p>
+          <!-- End Lead story -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+      
+
+        <!-- Start Sponsor 1 -->
+        <font size="1" face="Arial, Verdana, Helvetica">
+        <strong>WEBCAST: Good Technology</strong></font>      
+        <br><br>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782025/13/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=31e49195" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Webcast: Is MDM Dead?</strong>
+          </a></font>
+        <br>   
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        To deliver a productive user experience without sacrificing privacy and control in today’s digital enterprise, IT needs to secure mobile data – not just manage the device. Hear how customers are increasing both security and productivity while delivering the business experience users expect.
+        </span>
+        </font>        
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782025/14/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=c1aeb531" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+          <strong>Learn More>></strong>
+          </a></font>
+          <!-- End Sponsor 1 -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+        
+
+      <!-- Start Story list -->
+      
+      	<div style="margin-left: 10px;">
+        <font face="Arial, Verdana, Helvetica">
+        <p style="font-size: 15px;">
+        <strong>In this Issue</strong>
+        </p></font>
+         <font face="Arial, Verdana, Helvetica" size="3">
+          <ul style="line-height: 1.5;">
+            <!-- Start TOC Items -->
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782026/15/" style="font-size: 16px;" target="_blank">7 things you may not know about Microsoft Office</a>
+                   </li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782027/16/" style="font-size: 16px;" target="_blank">Microsoft launches free OneNote for Mac -- with some pieces missing</a>
+                   </li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782028/22/" style="font-size: 16px;" target="_blank">Metro Firefox was doomed from the get-go</a>
+                   </li>
+                
+                   <li style="color: #000000;">
+                   
+                   
+                   
+                   <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782029/23/" style="font-size: 16px;" target="_blank">Stupid user tricks: The most embarrassing flubs yet</a>
+                   </li>
+                
+            <!-- End TOC Items -->
+          </ul>       
+         </font>
+         </div>
+        
+        <!-- End Story list -->
+        
+        
+        <!-- Start Other Resources -->
+      
+        <!-- End Other Resources -->
+        
+
+
+        
+    
+    	<hr color="#aaaaaa" style="color: #aaaaaa;">
+    
+        <!-- Start Sponsor --> 
+        <font size="1" face="Arial, Verdana, Helvetica"><strong>WHITE PAPER: Accellion</strong></font>
+        <br><br>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782030/24/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=4edb547a" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>BYOD File Sharing – Go Private Cloud to Mitigate Data Risks</strong>
+        </a></font>
+        <br>       
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        Read this whitepaper to learn:
+- The security risks associated with not having an IT endorsed file sharing solution
+- Why your organization should be rethinking public-cloud file sharing
+- The benefits of adopting a private cloud solution for file sharing
+        </span>
+        </font>
+        
+        <font face="Arial, Verdana, Helvetica" size="2">
+        <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782030/25/?3e076d18=cm9ja2V4YW1wbGUxMjNAZ21haWwuY29t&x=a48ef735" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+        <strong>Read Now!</strong>
+        </a></font>
+          <!-- End Sponsor -->
+      
+        <hr color="#aaaaaa" style="color: #aaaaaa;">
+    
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+          
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782026/26/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>7 things you may not know about Microsoft Office</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            Microsoft is making its suite more social, more integrated with both home-grown and acquired Microsoft technologies, more analytical, and more cloud-friendly.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782026/27/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+          
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782027/28/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Microsoft launches free OneNote for Mac -- with some pieces missing</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            The free versions will be missing a few features, though; there is no support for SharePoint and no integration with Outlook. However, the free version has no time limits or restrictions on file types, and it doesn't annoy users with ads.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782027/50/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+          
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782028/51/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Metro Firefox was doomed from the get-go</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            Despite the fact that Mozilla had released a new beta version of Metro Firefox just a week earlier, Mozilla is pulling the plug on the entire product. The cited cause: lack of customer interest in Metro Firefox.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782028/52/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+         
+        <!-- start story -->
+          <p>
+          <font size="3" face="Arial, Verdana, Helvetica">
+          
+          
+          
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782029/53/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 16px;">
+          <strong>Stupid user tricks: The most embarrassing flubs yet</strong>
+          </a></font><br>
+          <font face="Arial, Verdana, Helvetica" size="2">
+          <span style="font-family: Arial, Verdana, Helvetica; font-size: 12px;">
+            From conference call mishaps to misdirected sexy texts, these compromising tales will make you grateful they didn't happen to you.
+          </span></font>
+        
+        <font size="2" face="Arial, Verdana, Helvetica">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/782029/54/" target="_blank" style="font-family: Arial, Verdana, Helvetica; font-size: 12px;"><strong>Read More</strong></a> 
+        </font><br>
+          </p>
+          <!-- end story -->
+        
+
+ 
+
+        </td>
+      <td width="11" bgcolor="#ffffff"><img src="http://computerworld.com.edgesuite.net/images/sp.gif" width="8" height="1" border="0" alt="" /></td>
+    </tr>
+
+<tr>
+      <td width="8"> </td>
+      <td colspan="8" valign="top"><br>
+
+     
+    <font face="Arial, Verdana, Helvetica" size="2">
+<p style="font-size: 12px;"><strong>DAILY NEWS, DELIVERED TO YOUR INBOX FIRST THING</strong>
+<br><br>
+Start your workday with Today's Headlines: First Look, and find out what the tech world will be talking about all day. <br>
+<a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/322662/55/" target="_blank" style="font-size: 12px;">Subscribe now!</a></p>
+</font>
+    
+	<br>
+      </td>
+</tr>
+<!-- End Universal Body -->
+<!-- Begin Universal Footer -->
+
+<!-- Start Boiler Plate row -->
+    <tr>
+      <td width="8"> </td>
+      <td colspan="8" valign="top">
+          <!-- Start Twitter link -->
+        <font size="2" face="arial, verdana, helvetica">
+        <p style="font-size: 12px;"><b>Do You Tweet?</b><br>
+         Follow everything from InfoWorld.com on Twitter <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/253580/56/" target="_blank" style="font-size: 12px;">@infoworld</a>.
+        </p></font>
+          
+          <font face="arial, verdana, helvetica" size="1">
+          <p style="font-size: 12px;">
+          You are currently subscribed to infoworld_app_rpt as <strong>rockexample123@gmail.com</strong>.
+          </p></font>
+          
+          <font face="arial, verdana, helvetica" size="1">
+          <p style="font-size: 12px;">
+          <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/131135/57/?90482085=aHR0cDovL2lmd25ld3NsZXR0ZXJzLm5ld3NsZXR0ZXJzLmluZm93b3JsZC5jb20vdT9pZD0xNTQyMjE5OTg5LmExM2JiZGFjM2MzZTRmMzc1YTFjM2M1N2VlMTEzY2RkJm49VCZsPWluZm93b3JsZF9hcHBfcnB0Jm89OTQ4Nzg0Mg%3d%3d&x=b42be7fb" target="_blank">Unsubscribe from this newsletter</a> | <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/181099/58/" target="_blank">Manage your subscriptions</a> | <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/515230/59/" target="_blank">Subscribe</a> | <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/183270/60/" target="_blank">Privacy Policy</a><br><br>
+            If you are interested in advertising in this newsletter, please contact: <a href="mailto:sean_weglage@infoworld.com">sean_weglage@infoworld.com</a>
+            </p>
+            </font>
+            
+      <font face="arial, verdana, helvetica" size="1">
+      <p style="font-size: 12px;">To contact InfoWorld, please send an e-mail to <a href="mailto:online@infoworld.com">online@infoworld.com</a>.</p></font>
+ 
+ 		<font face="arial, verdana, helvetica" size="1">
+      <p style="font-size: 12px;">Copyright (C) 2014  <a href="http://ifwnewsletters.newsletters.infoworld.com/t/9487842/1542219989/131133/61/" target="_blank">InfoWorld Media Group</a>, 501 Second St., San Francisco, CA 94107</p></font>
+ 
+       <font face="arial, verdana, helvetica" size="1">
+       <p style="font-size: 12px;">** Please do not reply to this message. If you want to contact someone directly, send an e-mail to <a href="mailto:online@infoworld.com">online@infoworld.com</a> **</p></font>
+    </td>
+      <td width="11" align="right"> </td>
+  
+    <!-- End Boiler Plate row -->
+    </tr>
+</table>
+<br>
+<!-- End Main table -->
+<IMG ALT="" SRC="http://ifwnewsletters.newsletters.infoworld.com/db/9487842/1542219989/1.gif" WIDTH=1 HEIGHT=1></body>
+</html>
+
+<!-- End Universal Footer -->

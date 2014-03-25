@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+html {
+	height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0
+}
+
+#map-canvas {
+	height: 100%
+}
+</style>
+
+<script
+	src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=true"></script>
+
+<script src="js/jquery.min.js"></script>
+<script>
+	$(document).ready(function() {
+		function GetURLParameter(sParam)
+		{
+		    var sPageURL = window.location.search.substring(1);
+		    var sURLVariables = sPageURL.split('&');
+		    for (var i = 0; i < sURLVariables.length; i++)
+		    {
+		        var sParameterName = sURLVariables[i].split('=');
+		        if (sParameterName[0] == sParam)
+		        {
+		            return sParameterName[1];
+		        }
+		    }
+		}
+		function initialize() {
+					var data = {
+							latitude:  GetURLParameter('lat'),
+							longitude: GetURLParameter('lon')
+					}
+					
+					var mapOptions = {
+							center : new google.maps.LatLng(data.latitude, data.longitude),
+							zoom : 5,
+							mapTypeId:google.maps.MapTypeId.ROADMAP
+						};
+					var map = new google.maps.Map(document.getElementById("map-canvas"),mapOptions);
+					var marker=new google.maps.Marker({
+							  position: new google.maps.LatLng(data.latitude, data.longitude),
+							  animation:google.maps.Animation.BOUNCE
+							  });
+
+						marker.setMap(map);
+						 /* var contentString = 
+					      '<div id="bodyContent">'+
+					     "CountryName:"+data.countryName +'<br>'+
+					      " Region:"+data.region+'<br>'+
+					      "City:"+data.city+'<br>'+
+						  "PostalCode:"+data.postalCode+'<br>'+
+						  "Area_Code:"+data.area_Code+'<br>'+
+						  "Metro_code:"+data.metro_Code+
+					     '</div>';
+						var infowindow = new google.maps.InfoWindow({
+							  content:contentString//+"countryName:"+data.countryName+",region:"+data.region+",city:"+data.city+
+							//  ",postalCode:"+data.postalCode+",area_Code:"+data.area_Code+",metro_code:"+data.metro_Code
+							,maxWidth:250});
+					
+						google.maps.event.addListener(marker, 'click', function() {
+							  infowindow.open(map,marker);
+							  }); */
+			}
+			initialize();
+			//google.maps.event.addDomListener(window, 'load', initialize);
+		});
+
+	
+</script>
+</head>
+<body>
+
+	<div id="map-canvas" style="width: 1000px; height: 1000px;"></div>
+</body>
+</html>
+
+

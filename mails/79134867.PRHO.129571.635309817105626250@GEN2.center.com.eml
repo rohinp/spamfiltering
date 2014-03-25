@@ -1,0 +1,611 @@
+Delivered-To:rockexample123@gmail.com
+Received:by 10.112.118.130 with SMTP id km2csp75713lbb;
+        Fri, 21 Mar 2014 21:30:12 -0700 (PDT)
+X-Received:by 10.180.73.173 with SMTP id m13mr1401938wiv.52.1395462612495;
+        Fri, 21 Mar 2014 21:30:12 -0700 (PDT)
+Return-Path:<daily@horoscope.com>
+Received:from mail28.center.com (mail28.center.com. [91.216.139.233])
+        by mx.google.com with ESMTP id jx5si4011334wjc.97.2014.03.21.21.30.12
+        for <rockexample123@gmail.com>;
+        Fri, 21 Mar 2014 21:30:12 -0700 (PDT)
+Received-SPF:pass (google.com: domain of daily@horoscope.com designates 91.216.139.233 as permitted sender) client-ip=91.216.139.233;
+Authentication-Results:mx.google.com;
+       spf=pass (google.com: domain of daily@horoscope.com designates 91.216.139.233 as permitted sender) smtp.mail=daily@horoscope.com;
+       dkim=pass (test mode) header.i=@horoscope.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=horoscope.com
+DKIM-Signature:v=1; a=rsa-sha1; c=relaxed/relaxed; q=dns/txt; d=horoscope.com; s=mail;
+	h=from:to:subject:reply-to:date:mime-version:message-id:content-type;
+	bh=rlsIRie0iCQ1KKtZUqaRnDVsqS4=;
+	b=doV/gqy0ZgrreEc3ZbLVYnZvEyUYv85NJPFsS2lf0TzlQoozHP8eHkvBf31Tl+uoa6dA0YejOm
+	t34yYUuqWrDcJXuic5iFoYPKbMGfp5Rx8prW2Vp2uoYKUQaYokDRI665OsHMlIuL49jzAOPVyP
+	A12A/3LbqiR4FctvuEPGtco=
+From:Horoscope.com <daily@horoscope.com>
+To:rock <rockexample123@gmail.com>
+Subject:Your Daily Horoscope (Saturday)
+Reply-To:<feedback-79134867-PRHO@horoscope.com>
+Date:Sat, 22 Mar 2014 04:00:00 +0000
+X-Astrocenter-UID:79134867
+X-Astrocenter-UserSource:-1
+X-Astrocenter-Type:PR
+X-Astrocenter-Send:20140322-US-PRHO-TRQ-79134867
+X-Mailer:ASTROCENTER-mailer 2.0
+MIME-Version:1.0
+Message-ID:<79134867.PRHO.129571.635309817105626250@GEN2.center.com>
+Content-Type:Multipart/Alternative;
+	boundary="-----_NextPart_SoMeBoUnDaRyStRiNg635309817105626250"
+Bodycontent:Sat Mar 22 09:30:00 IST 2014
+content:javax.mail.internet.MimeMultipart@1d64d42f
+To view your Free Daily Horoscope Service online, please click on the
+link below:
+
+http://horoscope.com/horoscope/Emails/DailyHoroscope.aspx?Param4EmailGeneration=TG9naW5LZXk9OWU5ODZkMDkyNmI2MDZkMDU1NTRhZDY5NDhkZWYxNzImVXNlcklEPWtoWWJWcmROdSZGaXJzdE5hbWU9cm9jayZHZW5kZXI9MCZCaXJ0aERhdGU9MTk5MzAzMTQmTGFuZ3VlVXRpbGlzYXRldXI9MSZsb2dpbj1yb2NrZXhhbXBsZTEyMyU0MGdtYWlsLmNvbSZBZj0tMTkwMCZJc0ZhY2Vib29rPTAmVElSQUdFPTEyMTQxOCZsYURhdGU9MjAxNDAzMjI%3d
+
+
+********************* Subscription information ********************
+To modify or cancel your subscription to our free e-mail services,
+click on the following link or copy & paste it into your web browser:
+
+http://horoscope.com/horoscope/ProfilEdition.aspx?c1=khYbVrdNu
+
+For any question or concerns, click on the following link or copy
+& paste it into your web browser:
+http://horoscope.com/horoscope/Feedback.aspx
+*******************************************************************
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<TITLE>Your Daily Horoscope (Saturday)</TITLE>
+</head>
+<body bgcolor="#ffffff" margin-top="0">
+<center>
+<table cellpadding="0" cellspacing="0" width="100%"><tbody>
+      <tr>
+				 <td colspan="3" align="center" height="1" valign="bottom">
+						<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6780&t=newsletter&sz=728x91&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+							<img src="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756473&tr_uid=79134867&tr_tf=0&s=6780&t=newsletter&sz=728x91&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+					</td>
+				</tr>
+				<tr>
+					<td align="right" valign="top" width="1">
+						<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=77933&t=newsletter&sz=160x601&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+							<img src="http://karmictale.horoscope.com/imp?s=77933&t=newsletter&sz=160x601&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+					</td>
+					<td valign="top" width="100%">
+
+
+<table width="800" bgcolor="#ffffff" cellpadding="0" cellspacing="0">
+	<tr>
+		<td style="font: normal 11px Arial; color:#666666; text-align:center; padding-bottom:10px;">
+
+Difficulties reading this email? You can also check your Daily Horoscope Newsletter by clicking <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756563&tr_uid=79134867&tr_tf=1&Param4EmailGeneration=TG9naW5LZXk9OWU5ODZkMDkyNmI2MDZkMDU1NTRhZDY5NDhkZWYxNzImVXNlcklEPWtoWWJWcmROdSZGaXJzdE5hbWU9cm9jayZHZW5kZXI9MCZCaXJ0aERhdGU9MTk5MzAzMTQmTGFuZ3VlVXRpbGlzYXRldXI9MSZsb2dpbj1yb2NrZXhhbXBsZTEyMyU0MGdtYWlsLmNvbSZBZj0tMTkwMCZJc0ZhY2Vib29rPTAmVElSQUdFPTEyMTQxOCZsYURhdGU9MjAxNDAzMjImVHlwZU1haWw9UFJITw==&User=real" style="color:#e50894;">here</a>.</td>
+	</tr>
+</table>
+
+<table width="800" bgcolor="#ffffff" cellpadding="0" cellspacing="0">
+	<tr height="80">
+		<td width="800" colspan="8"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=995&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2012_Header.jpg" border="0"></a></td>
+	</tr><tr height="28" bgcolor="#642165">
+		<td width="3" bgcolor="#642165"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="3" height="28" border="0"></td>
+		<td width="114"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=995&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-horoscopes.jpg" width="114" height="28" border="0"></a></td>
+		<td width="61"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=997&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-love.jpg" width="61" height="28" border="0"></a></td>
+		<td width="61"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=998&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-tarot.jpg" width="61" height="28" border="0"></a></td>
+		<td width="81"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=999&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-chinese.jpg" width="81" height="28" border="0"></a></td>
+		<td width="110"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1000&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-numerology.jpg" width="110" height="28" border="0"></a></td>
+		<td width="92"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1001&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-psychics.jpg" width="92" height="28" border="0"></a></td>
+		<td width="278"><img src="http://horoscope.com/horoscope/images/NL2010_TabHeader-blank.jpg" width="278" height="28" border="0"></td>
+	</tr>
+</table>
+<table width="798" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="border-left:1px dotted lightgray; border-right:1px dotted lightgray;">
+	<tr height="10">
+		<td width="798"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="798" height="10" border="0"></td>
+	</tr>
+</table>
+<table width="798" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="border-left:1px dotted lightgray; border-right:1px dotted lightgray;">
+	<tr height="10">
+		<td width="798" colspan="5"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="798" height="10" border="0"></td>
+	</tr><tr valign="top">
+		<td width="19"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="19" height="1" border="0"></td>
+		<td width="440">
+			<table width="440" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+				<tr valign="top">
+					<td width="100"><img src="http://horoscope.com/horoscope/images/icon_generic-Pisces.jpg" border="0" width="100"></td>
+					<td width="20"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="20" height="1" border="0"></td>
+					<td width="320">
+						<table width="320" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+							<tr>
+								<td width="320" colspan="2" style="font-family: Arial; font-size: 16px; color: black;"><b>Your Horoscope for March 22, 2014</b></td>
+							</tr><tr height="10">
+								<td width="320" colspan="2"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="320" height="10" border="0"></td>
+							</tr><tr>
+								<td width="220" style="font-family: Arial; font-size: 11px; color: black;"><b>First Name:</b> rock</td>
+								<td width="100" style="text-align: right; padding-right:5px; font-family: Arial; font-size: 11px;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1002&tr_uid=79134867&tr_tf=2&c1=khYbVrdNu" style="color:#e50894;">Edit birth information</a></td>
+							</tr><tr>
+								<td width="320" colspan="2" style="font-family: Arial; font-size: 11px; color: black;"><b>Sun Sign:</b> Pisces<br><b>Date of Birth:</b> March 14, 1993<br><b>E-mail Address:</b> rockexample123@gmail.com<br></td>
+							</tr><tr height="10">
+								<td width="320" colspan="2"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="320" height="10" border="0"></td>
+							</tr><tr>
+								<td width="320" colspan="2" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756508&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">Today</a>&nbsp;&#8226;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756564&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">Tomorrow</a>&nbsp;&#8226;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756565&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">This Week</a>&nbsp;&#8226;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756566&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">This Month</a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table width="440" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+				<tr valign="top">
+					<td width="440" style="font-family: Arial; font-size: 14px; color: black; line-height:120%; padding-right:5px;">It may not be easy for you to convince someone today. No matter how profound your idea or how convincing your explanations, the other person just isn't ready to believe it yet. Don't be pushy. Maybe this person needs to sleep on it for a couple of nights, or maybe they just need to do their own research. Be patient and focus on other things in the meantime!</td>
+				</tr><tr height="20">
+					<td width="440"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="440" height="20" border="0"></td>
+				</tr>
+			</table>
+			<table width="440" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+				<tr valign="top">
+					<td width="200">
+						<table width="200" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+							<tr valign="top">
+								<td width="200" style="font-family: Arial; font-size: 12px; color: #7b217c;"><b>ADDITIONAL FORECAST</b></td>
+							</tr><tr height="15">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="15" border="0"></td>
+							</tr><tr>
+								<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1070&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/dot-love.jpg" width="20" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1070&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Pisces Love Horoscope</a></td>
+							</tr><tr height="5">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="5" border="0"></td>
+							</tr><tr>
+								<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756504&tr_uid=79134867&tr_tf=1&sign=12"><img src="http://horoscope.com/horoscope/images/dot-career.jpg" width="20" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756504&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">Pisces Career Horoscope</a></td>
+							</tr><tr height="5">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="5" border="0"></td>
+							</tr><tr>
+								<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756505&tr_uid=79134867&tr_tf=1&sign=12"><img src="http://horoscope.com/horoscope/images/dot-money.jpg" width="20" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756505&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">Pisces Money Horoscope</a></td>
+							</tr><tr height="5">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="5" border="0"></td>
+							</tr><tr>
+								<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=999&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/dot-chinese.jpg" width="20" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=999&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Daily Chinese Horoscope</a></td>
+							</tr><tr height="5">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="5" border="0"></td>
+							</tr><tr>
+								<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1000&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/dot-numerology.jpg" width="20" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1000&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Daily Numerology</a></td>
+							</tr><tr height="5">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="5" border="0"></td>
+							</tr><tr>
+								<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615364&tr_uid=79134867&tr_tf=1&Af=8000" target="_blank"><img src="http://horoscope.com/horoscope/images/dot-psychic.jpg" width="20" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615364&tr_uid=79134867&tr_tf=1&Af=8000" target="_blank" style="color:#e50894;">Live Psychic Reading</a></td>
+							</tr><tr height="30">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="30" border="0"></td>
+							</tr><tr valign="top">
+								<td width="200" style="font-family: Arial; font-size: 12px; color: #7b217c; text-transform: uppercase;"><b>Pisces DAILY FACTS</b></td>
+							</tr><tr height="15">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="15" border="0"></td>
+							</tr><tr valign="top">
+								<td width="200" style="font-family: Arial; font-size: 11px;"><b>Most Compatible Signs:</b></td>
+							</tr><tr height="10">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="10" border="0"></td>
+							</tr><tr>
+								<td width="200">
+									<table width="200" cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td width="60" align="center" style="font-family: Arial; font-size: 11px;">Love<br><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756502&tr_uid=79134867&tr_tf=1&sign=10" style="color:#e50894;"><img src="http://horoscope.com/horoscope/images/icon_generic-Capricorn.jpg" width="44" border="0"><br>Capricorn</a></td>
+											<td width="5"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="5" height="1" border="0"></td>
+											<td width="60" align="center" style="font-family: Arial; font-size: 11px;">Friendship<br><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756502&tr_uid=79134867&tr_tf=1&sign=4" style="color:#e50894;"><img src="http://horoscope.com/horoscope/images/icon_generic-Cancer.jpg" width="44" border="0"><br>Cancer</a></td>
+											<td width="5"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="5" height="1" border="0"></td>
+											<td width="60" align="center" style="font-family: Arial; font-size: 11px;">Career<br><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756502&tr_uid=79134867&tr_tf=1&sign=7" style="color:#e50894;"><img src="http://horoscope.com/horoscope/images/icon_generic-Libra.jpg" width="44" border="0"><br>Libra</a></td>
+											<td width="10"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="10" height="1" border="0"></td>
+										</tr>
+									</table>
+								</td>
+							</tr><tr height="15">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="15" border="0"></td>
+							</tr><tr valign="top">
+								<td width="200" style="font-family: Arial; font-size: 11px;"><b>Star Ratings by Domain:</b></td>
+							</tr><tr height="10">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="10" border="0"></td>
+							</tr><tr>
+								<td width="200">
+									<table width="200" cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td width="100" style="font-family: Arial; font-size: 11px;">Love:<br><img src="http://horoscope.com/horoscope/images/starrating_3.png" width="57" height="13" border="0" align="absmiddle"></td>
+											<td width="100" style="font-family: Arial; font-size: 11px;">Finance:<br><img src="http://horoscope.com/horoscope/images/starrating_4.png" width="57" height="13" border="0" align="absmiddle"></td>
+										</tr><tr height="10">
+											<td width="200" colspan="2"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="10" border="0"></td>
+										</tr><tr>
+											<td width="100" style="font-family: Arial; font-size: 11px;">Mood:<br><img src="http://horoscope.com/horoscope/images/starrating_3.png" width="57" height="13" border="0" align="absmiddle"></td>
+											<td width="100" style="font-family: Arial; font-size: 11px;">Career:<br><img src="http://horoscope.com/horoscope/images/starrating_4.png" width="57" height="13" border="0" align="absmiddle"></td>
+										</tr>
+									</table>
+								</td>
+							</tr><tr height="15">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="15" border="0"></td>
+							</tr><tr>
+								<td width="200" style="text-align: right; padding-right:15px; font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756508&tr_uid=79134867&tr_tf=1&sign=12" style="color:#e50894;">Get your Lucky Numbers</a></td>
+							</tr><tr height="3">
+								<td width="200"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="3" border="0"></td>
+							</tr><tr>
+								<td width="200" style="text-align: right; padding-right:15px; font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1007&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Find your perfect match!</a></td>
+							</tr>
+						</table>
+					</td>
+					<td width="240">
+						<table width="239" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="border-left:1px dotted lightgray;">
+							<tr>
+								<td width="19"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="19" height="1" border="0"></td>
+								<td width="220">
+									  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td colspan="3" style="font-family: Arial; font-size: 12px; color: #7b217c; text-decoration:none; font-weight:bold; text-transform:uppercase;">Editor's Pick</td>
+	</tr><tr height="5">
+		<td colspan="3"><img src="http://horoscope.com/horoscope/images/pxtrans.gif" width="1" border="0"></td>
+	</tr><tr valign="top">
+		<td width="70"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=894977&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/icon_quiz-are-you-a-master-of-seduction.jpg" width="70" border="0" alt="Are You A Master Of Seduction?"></a></td>
+		<td width="7">&nbsp;</td>
+		<td>
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=894977&tr_uid=79134867&tr_tf=1" style="font-family: Arial; font-size: 11px; color: #e50894; text-decoration:none; font-weight:bold; text-transform:capitalize;" title="Are You A Master Of Seduction?">Are You A Master Of Seduction?<a></td>
+				</tr><tr height="3">
+					<td><img src="http://horoscope.com/horoscope/images/pxtrans.gif" width="1" border="0"></td>
+				</tr><tr>
+					<td><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=894977&tr_uid=79134867&tr_tf=1" style="font-family: Arial; font-size: 11px; color: #000000; text-decoration:none;">Take this quiz to find out...</a></td>
+				</tr><tr height="3">
+					<td><img src="http://horoscope.com/horoscope/images/pxtrans.gif" width="1" border="0"></td>
+				</tr><tr>
+					<td><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=894977&tr_uid=79134867&tr_tf=1" style="font-family: Arial; font-size: 11px; color: #e50894; text-decoration:none;" title="Are You A Master Of Seduction?">More &#187;</a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+									<table width="220" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+										<tr height="5">
+											<td width="220"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="220" height="5" border="0"></td>
+										</tr><tr valign="top">
+											<td width="220" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif" width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=724858&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Where Will You Find True Love?</a></td>
+										</tr><tr height="3">
+											<td width="220"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="220" height="3" border="0"></td>
+										</tr><tr valign="top">
+											<td width="220" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif" width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615488&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Daily Tarot</a></td>
+										</tr><tr height="3">
+											<td width="220"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="220" height="3" border="0"></td>
+										</tr><tr valign="top">
+											<td width="220" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif" width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756620&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Love Fairy</a></td>
+										</tr><tr height="3">
+											<td width="220"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="220" height="3" border="0"></td>
+										</tr><tr valign="top">
+											<td width="220" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif" width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=5756506&tr_uid=79134867&tr_tf=1&ProductCode=StEdDO&Af=8000" style="color:#e50894;">Dream Oracle</a></td>
+										</tr>
+									</table>
+
+
+									<table width="220" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+										<tr height="30">
+											<td width="220"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="220" height="30" border="0"></td>
+										</tr><tr>
+											<td width="220"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1012&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/NL2012_DailyTarot.jpg" width="200" height="285" border="0"></td>
+										</tr>
+									</table>
+								</td>
+							</tr><tr height="10">
+								<td width="239" colspan="2"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="239" height="10" border="0"></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+
+			<table width="440" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+				<tr height="30">
+					<td width="440"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="440" height="30" border="0"></td>
+				</tr><tr>
+					<td width="440" style="font-family: Arial; font-size: 16px; color: black;"><b>Most Popular on Horoscope.com</b></td>
+				</tr><tr height="20">
+					<td width="440"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="440" height="20" border="0"></td>
+				</tr><tr>
+					<td width="440">
+						<table width="440" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+							<tr valign="top">
+								<td width="200">
+									<table width="200" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+										<tr valign="top"><td width="70"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615725&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/icon_tarot-hot-topic.jpg" width="70" border="0" align="absmiddle"></a></td><td width="10"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="10" height="1" border="0"></td><td width="120"><table width="120" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0"><tr><td width="120" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615725&tr_uid=79134867&tr_tf=1" style="color:#e50894;"><b>Hot Topic Tarot</b></a></td></tr><tr height="2"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="2" border="0"></td></tr><tr><td width="120" style="padding-right:5px;font-family: Arial; font-size: 11px;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615725&tr_uid=79134867&tr_tf=1" style="text-decoration:none; color: black;">What's that burning question you just have to know the answer to right this...</a></td></tr><tr height="5"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="5" border="0"></td></tr></table></td></tr>
+										<tr height="20">
+											<td width="200" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="20" border="0"></td>
+										</tr>
+										<tr valign="top"><td width="70"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3614815&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/icon_tarot-inner-animal.jpg" width="70" border="0" align="absmiddle"></a></td><td width="10"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="10" height="1" border="0"></td><td width="120"><table width="120" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0"><tr><td width="120" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3614815&tr_uid=79134867&tr_tf=1" style="color:#e50894;"><b>Inner Animal Tarot</b></a></td></tr><tr height="2"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="2" border="0"></td></tr><tr><td width="120" style="padding-right:5px;font-family: Arial; font-size: 11px;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3614815&tr_uid=79134867&tr_tf=1" style="text-decoration:none; color: black;">Understand what's going on underneath your common persona with your Inner Animal...</a></td></tr><tr height="5"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="5" border="0"></td></tr></table></td></tr>
+									</table>
+								</td>
+								<td width="20"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="20" height="1" border="0"></td>
+								<td width="200">
+									<table width="200" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+										<tr valign="top"><td width="70"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1023&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/icon_game-magic-8-ball.jpg" width="70" border="0" align="absmiddle"></a></td><td width="10"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="10" height="1" border="0"></td><td width="120"><table width="120" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0"><tr><td width="120" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1023&tr_uid=79134867&tr_tf=1" style="color:#e50894;"><b>Magic 8 Ball</b></a></td></tr><tr height="2"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="2" border="0"></td></tr><tr><td width="120" style="padding-right:5px;font-family: Arial; font-size: 11px;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1023&tr_uid=79134867&tr_tf=1" style="text-decoration:none; color: black;">Need to make a decision? Don't drop the ball! Consult the Magic 8 Ball anytime...</a></td></tr><tr height="5"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="5" border="0"></td></tr></table></td></tr>
+										<tr height="20">
+											<td width="200" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="20" border="0"></td>
+										</tr>
+										<tr valign="top"><td width="70"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615894&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/icon_game-daily-dice.jpg" width="70" border="0" align="absmiddle"></a></td><td width="10"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="10" height="1" border="0"></td><td width="120"><table width="120" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0"><tr><td width="120" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615894&tr_uid=79134867&tr_tf=1" style="color:#e50894;"><b>Daily Dice</b></a></td></tr><tr height="2"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="2" border="0"></td></tr><tr><td width="120" style="padding-right:5px;font-family: Arial; font-size: 11px;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615894&tr_uid=79134867&tr_tf=1" style="text-decoration:none; color: black;">How are you doing in the 5 key areas of your life? See how you score right now.....</a></td></tr><tr height="5"><td width="120"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="120" height="5" border="0"></td></tr></table></td></tr>
+									</table>
+								</td>
+								<td width="20"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="20" height="1" border="0"></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="20"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="20" height="1" border="0"></td>
+		<td width="310" style="border-left:1px dotted lightgray;">
+			<table width="310" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="9"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="9" height="1" border="0"></td>
+					<td width="300">
+						<table width="300" cellpadding="0" cellspacing="0" border="0">
+							<tr>
+							    <td width="300"><table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2">
+      <a style="display: block; width: 300px; height: 250px;" href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6787&t=newsletter&sz=300x250&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=6787&t=newsletter&sz=300x250&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" alt="Horoscope.com Daily 300x250" border="0" width="300" height="250" />
+      </a>
+    </td>
+  </tr>
+  <tr style="display: block; height: 1px; line-height: 1px;">
+    <td>
+      <img src="http://karmictale.horoscope.com/imp?s=6788&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+    </td>
+    <td>
+      <img src="http://karmictale.horoscope.com/imp?s=6789&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6778&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=6778&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" alt="powered by" border="0" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6779&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=6779&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" alt="ad choices" border="0" />
+      </a>
+    </td>
+  </tr>
+  <tr height="20">
+    <td colspan="2">
+      <img src="http://horoscope.com/horoscope/images/spacer.gif" height="20" border="0">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a style="display: block; width: 300px; height: 250px;" href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=58058&t=newsletter&sz=300x250&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=58058&t=newsletter&sz=300x250&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" width="300" height="250" /></a>
+    </td>
+  </tr>
+  <tr style="display: block; height: 1px; line-height: 1px;">
+    <td>
+      <img src="http://karmictale.horoscope.com/imp?s=58059&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+    </td>
+    <td>
+      <img src="http://karmictale.horoscope.com/imp?s=58060&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6778&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=6778&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+    </td>
+    <td align="right">
+      <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6779&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=6779&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+    </td>
+  </tr>
+</table></td>
+								
+							</tr><tr>
+								<td width="300" style="font: normal 10px Arial; color:#666666; text-align:center; padding-top:2px;">ADVERTISEMENT</td>
+							</tr><tr height="1">
+								<td width="300" style="border-bottom:1px #d1cdc1 dotted;" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="300" height="1" border="0"></td>
+							</tr><tr height="20">
+								<td width="300"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="300" height="20" border="0"></td>
+							</tr>
+						</table>
+						<table width="298" cellpadding="0" cellspacing="0" border="0" style="border:1px dotted lightgray;">
+							<tr>
+								<td width="9"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="9" height="1" border="0"></td>
+								<td width="280">
+									<table width="280" cellpadding="0" cellspacing="0" border="0">
+										<tr height="5">
+											<td width="280" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td>
+										</tr><tr>
+											<td width="280" colspan="3" style="font-family: Arial; font-size: 16px; color: black;"><b>Celebrity of the Day</b></td>
+										</tr><tr height="5">
+											<td width="280" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td>
+										</tr><tr valign="top">
+											<td width="70"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1027&tr_uid=79134867&tr_tf=1"><img src="http://horoscope.com/horoscope/images/celebrities/icon_celeb-RWitherspoon.jpg" width="70" border="0" align="absmiddle"></a></td>
+											<td width="10"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="10" height="1" border="0"></td>
+											<td width="200">
+												<table width="200" cellpadding="0" cellspacing="0" border="0">
+													<tr>
+														<td width="200" style="font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1027&tr_uid=79134867&tr_tf=1" style="color:#e50894;"><b>Reese Witherspoon</b></a></td>
+													</tr><tr height="5">
+														<td width="200" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="200" height="5" border="0"></td>
+													</tr><tr>
+														<td width="200" style="font-family: Arial; font-size: 11px; color: black;">This bubbly, energetic Aries seems to have it all. Like most innovative and original Aries, Reese likes being an ...</td>
+													</tr><tr>
+														<td width="200" style="text-align: right; font-family: Arial; font-size: 11px; color: black;"><a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1027&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Read full profile</a></td>
+													</tr>
+												</table>
+											</td>
+										</tr><tr height="5">
+											<td width="280" colspan="3"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td>
+										</tr>
+									</table>
+								</td>
+								<td width="9"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="9" height="1" border="0"></td>
+							</tr>
+						</table>
+						<table width="300" cellpadding="0" cellspacing="0" border="0">
+							<tr height="20">
+								<td width="300"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="300" height="20" border="0"></td>
+							</tr>
+						</table>
+						<table width="298" cellpadding="0" cellspacing="0" border="0" style="border:1px dotted lightgray;">
+							<tr>
+								<td width="9"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="9" height="1" border="0"></td>
+								<td width="280">
+									<table width="280" cellpadding="0" cellspacing="0" border="0">
+										<tr height="5">
+											<td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td>
+										</tr><tr>
+											<td width="280" style="font-family: Arial; font-size: 16px; color: black;"><b>Quiz Yourself!</b></td>
+										</tr><tr height="5">
+											<td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td>
+										</tr>
+										<tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=724896&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Are You A Good Kisser?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=724891&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Your Sex Life: Hot Or Not?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1234154&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Are You Over Your Ex?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615681&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Dessert Personality Test</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615680&tr_uid=79134867&tr_tf=1" style="color:#e50894;">How Annoying Are You?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3614880&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Are You Ready To Get Married?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=724852&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Is He A Jerk?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=724877&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Are You Good Or Evil?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615678&tr_uid=79134867&tr_tf=1" style="color:#e50894;">What Galaxy Do You Belong In?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr><tr><td width="280" style="font-family: Arial; font-size: 11px;"><img src="http://horoscope.com/horoscope/images/bullet_premium.gif"  width="9" height="9" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=724873&tr_uid=79134867&tr_tf=1" style="color:#e50894;">What's Your Love Flaw?</a></td></tr><tr height="5"><td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="5" border="0"></td></tr>
+										<tr height="5">
+											<td width="280"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="280" height="10" border="0"></td>
+										</tr>
+									</table>
+								</td>
+								<td width="9"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="9" height="1" border="0"></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="9"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="9" height="1" border="0"></td>
+	</tr>
+</table>
+
+<table width="798" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="border-left:1px dotted lightgray; border-right:1px dotted lightgray; border-bottom:1px dotted lightgray;">
+	<tr height="20">
+		<td width="798"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="800" height="20" border="0"></td>
+	</tr>
+</table>
+
+<table width="798" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="border-left:1px dotted lightgray; border-right:1px dotted lightgray; border-bottom:1px dotted lightgray;">
+	<tr>
+		<td style="font: normal 10px Arial; color:#666666; text-align:center; padding-top:2px;">ADVERTISEMENT</td>
+	</tr>
+	<tr>
+		<td width="798" align="center"><table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2">
+      <a style="display: block; width: 728px; height: 90px;" href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=98542&t=newsletter&sz=728x90&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=98542&t=newsletter&sz=728x90&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" width="728" height="90" /></a>
+    </td>
+  </tr>
+  <tr style="display: block; height: 1px; line-height: 1px;">
+    <td>
+      <img src="http://karmictale.horoscope.com/imp?s=98543&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+    </td>
+    <td>
+      <img src="http://karmictale.horoscope.com/imp?s=98544&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=6778&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=6778&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+    </td>
+    <td align="right">
+      <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=96637&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+        <img src="http://karmictale.horoscope.com/imp?s=96637&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+    </td>
+  </tr>
+</table></td>
+	</tr>
+</table>
+
+<table width="798" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="border-left:1px dotted lightgray; border-right:1px dotted lightgray; border-bottom:1px dotted lightgray;">
+	<tr height="10">
+		<td width="798"><img src="http://horoscope.com/horoscope/images/spacer.gif" width="800" height="10" border="0"></td>
+	</tr>
+</table>
+
+<table width="800" cellpadding="0" cellspacing="0">
+	<tr>
+		<td style="font: normal 11px Arial; color:#666666;">
+<br>This email was sent to rockexample123@gmail.com. You are receiving it because you signed up at one of our Product or App at Horoscope.com or otherwise requested to be included in our mailings.<br><br>
+Please add daily@horoscope.com to your safe sender list or address book to ensure that your newsletters are delivered correctly. Remember, every email we send contains a link to unsubscribe.
+<br><br>Manage or cancel your free subscription: <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=1002&tr_uid=79134867&tr_tf=2&c1=khYbVrdNu" style="color:#e50894;">Click here</a>.
+
+<br><br>
+<b>Disclaimer:</b> Horoscope.com, Inc. provides astrological predictions based on the astrological principles that interpret the impact of various planets on human beings and their affairs. The predictions are to be treated purely as interpretation of astrological configurations. Interpretations made by Horoscope.com Inc and its team of astrologers can differ from the interpretations made by any other astrologer. In no way do Horoscope.com Inc services constitute legal, psychological, medical, business, financial or other advice. Nor do Horoscope.com, Inc. services constitute direction and/or diagnosis or treatment of any kind, be it medical, mental, spiritual, or other.
+<br><br>
+Our partner may place cookies to help target ads to your interests. For further information about our email partner's policies regarding cookies and digital advertising in cookies please click here: <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615630&tr_uid=79134867&tr_tf=1" style="color:#e50894;">www.adadvisor.net/notice.html</a> or visit our <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=357&tr_uid=79134867&tr_tf=1" style="color:#e50894;">Privacy Policy</a>.<br><br>
+This email was sent by Horoscope.com, Inc. 126 South Park, San Francisco, CA 94107.
+		</td>
+	</tr>
+</table>
+</td>
+
+<td align="left" valign="top" width="48%">
+		<table border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td colspan="2">
+                <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=77934&t=newsletter&sz=300x601&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+                  <img src="http://karmictale.horoscope.com/imp?s=77934&t=newsletter&sz=300x601&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+              </td>
+            </tr>
+            <tr style="display: block; height: 1px; line-height: 1px;">
+              <td>
+                <img src="http://karmictale.horoscope.com/imp?s=77935&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+              </td>
+              <td>
+                <img src="http://karmictale.horoscope.com/imp?s=77936&t=newsletter&sz=1x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" height="1" width="10" />
+              </td>
+            </tr>
+            <tr>
+              <td align="left">
+                <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=77938&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+                  <img src="http://karmictale.horoscope.com/imp?s=77938&t=newsletter&sz=116x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+              </td>
+              <td align="right">
+                <a href="http://www.horoscope.com/mailtracking/?tr_cid=12952&tr_lnid=3615294&tr_uid=79134867&tr_tf=5&s=77937&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" rel="nofollow">
+                  <img src="http://karmictale.horoscope.com/imp?s=77937&t=newsletter&sz=69x15&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" border="0" /></a>
+              </td>
+            </tr>
+          </table>
+</td></tr></tbody></table>
+				 <table cellpadding="0" cellspacing="0" border="0" width="24" height="6">
+    <tbody>
+      <tr>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18419&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18420&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18421&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18422&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18423&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18424&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18425&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18426&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18427&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18428&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18429&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+        <td>
+          <img src="http://karmictale.horoscope.com/imp?s=18430&t=newsletter&sz=2x1&li=HORO_Daily_Horoscope&m=ba917969dd5d242154c11a5236cf3316&p=20140322" width="2" height="6" border="0" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</center>
+</body>
+</html>
